@@ -1,0 +1,42 @@
+name: language_project_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # --- Core Python & Data Science ---
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+
+  # --- Neuroimaging (The "Anything Else" you missed) ---
+  - mne               # Base neuroimaging package
+  - mne-bids          # <--- REQUIRED for OpenNeuro datasets (loads BIDS structure)
+  - pybids            # <--- REQUIRED for querying BIDS layouts
+  - h5py              # <--- REQUIRED for loading many ECoG data formats
+  - nibabel           # <--- Handles neuroimaging file formats
+
+  # --- Machine Learning & Stats ---
+  - scikit-learn
+  - statsmodels
+
+  # --- NLP & Text Processing ---
+  - gensim            # For your Static Embeddings (FastText/Word2Vec)
+  - spacy             # For POS tagging (filtering content words)
+
+  # --- Comparison Models (From Zada et al. paper) ---
+  - transformers      # <--- REQUIRED if you want to load the GPT-2 baseline mentioned in the paper
+  - torch             # <--- Dependency for transformers
+
+  # --- Jupyter Environment ---
+  - jupyterlab
+  - ipykernel
+
+  # --- Pip Specific Packages ---
+  - pip
+  - pip:
+    - wikipedia-api
+    - fasttext-wheel
+    - googletrans==4.0.0-rc1
