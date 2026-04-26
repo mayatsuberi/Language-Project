@@ -46,6 +46,7 @@ Amirim_Project_Submission/
 # --- Logs & System Files ---
 *.log
 *.txt
+!data/Podscat_Transcript.txt
 # Mac system file (since you are on a MacBook)
 .DS_Store
 
