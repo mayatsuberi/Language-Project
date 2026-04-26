@@ -52,3 +52,6 @@ Amirim_Project_Submission/
 # --- IDE Settings (Optional) ---
 .vscode/
 .idea/
+
+# --- Claude Code ---
+.claude/
