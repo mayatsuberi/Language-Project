@@ -40,3 +40,5 @@ dependencies:
     - wikipedia-api
     - fasttext-wheel
     - googletrans==4.0.0-rc1
+    - huggingface_hub>=0.24
+    - httpx>=0.27
