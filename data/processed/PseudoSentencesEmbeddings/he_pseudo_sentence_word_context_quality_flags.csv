@@ -1,0 +1,1736 @@
+﻿word_idx,sentence_id,language,target_text,components,span_start,span_end,pseudo_sentence,quality_flag
+0,1,he,מערכה,מערכה,0,1,מערכה קוף אמצע,pseudo_sentence_word_context
+1,1,he,קוף,קוף,1,2,מערכה קוף אמצע,pseudo_sentence_word_context
+2,1,he,אמצע,אמצע,2,3,מערכה קוף אמצע,pseudo_sentence_word_context
+3,2,he,מקומות,מקומות,0,1,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,pseudo_sentence_word_context
+4,2,he,בעלי חיים,בעלי | חיים,1,3,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,pseudo_sentence_word_context
+5,2,he,ללכת,ללכת,3,4,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,pseudo_sentence_word_context
+6,2,he,מקומות,מקומות,4,5,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,pseudo_sentence_word_context
+7,2,he,מעוצב,מעוצב,5,6,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,pseudo_sentence_word_context
+8,2,he,בני אדם,בני | אדם,6,8,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,pseudo_sentence_word_context
+9,2,he,בני אדם,בני | אדם,8,10,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,pseudo_sentence_word_context
+10,2,he,מערכה,מערכה,10,11,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,isolated_word_fallback_span_out_of_range
+11,2,he,מסתיים,מסתיים,11,12,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,isolated_word_fallback_span_out_of_range
+12,2,he,מקום,מקום,12,13,מקומות בעלי חיים ללכת מקומות מעוצב בני אדם בני אדם,isolated_word_fallback_span_out_of_range
+13,3,he,מתחיל,מתחיל,0,1,מערכה מסתיים מקום מתחיל,pseudo_sentence_word_context
+14,3,he,מסביר,מסביר,1,2,מערכה מסתיים מקום מתחיל,pseudo_sentence_word_context
+15,3,he,כתבה,כתבה,2,3,מערכה מסתיים מקום מתחיל,pseudo_sentence_word_context
+16,3,he,מתחיל,מתחיל,3,4,מערכה מסתיים מקום מתחיל,pseudo_sentence_word_context
+17,4,he,עמוק,עמוק,0,1,מסביר,pseudo_sentence_word_context
+18,5,he,יערות גשם,יערות | גשם,0,2,כתבה מתחיל עמוק יערות גשם אי נקרא,pseudo_sentence_word_context
+19,5,he,אי,אי,2,3,כתבה מתחיל עמוק יערות גשם אי נקרא,pseudo_sentence_word_context
+20,5,he,נקרא,נקרא,3,4,כתבה מתחיל עמוק יערות גשם אי נקרא,pseudo_sentence_word_context
+21,5,he,כמה שנים,כמה | שנים,4,6,כתבה מתחיל עמוק יערות גשם אי נקרא,pseudo_sentence_word_context
+22,5,he,צלם,צלם,6,7,כתבה מתחיל עמוק יערות גשם אי נקרא,pseudo_sentence_word_context
+23,5,he,טייל,טייל,7,8,כתבה מתחיל עמוק יערות גשם אי נקרא,isolated_word_fallback_span_out_of_range
+24,5,he,בית,בית,8,9,כתבה מתחיל עמוק יערות גשם אי נקרא,isolated_word_fallback_span_out_of_range
+25,6,he,אנגליה,אנגליה,0,1,כמה שנים צלם טייל בית אנגליה תצלום להקת קופים,pseudo_sentence_word_context
+26,6,he,תצלום,תצלום,1,2,כמה שנים צלם טייל בית אנגליה תצלום להקת קופים,pseudo_sentence_word_context
+27,6,he,להקת,להקת,2,3,כמה שנים צלם טייל בית אנגליה תצלום להקת קופים,pseudo_sentence_word_context
+28,6,he,קופים,קופים,3,4,כמה שנים צלם טייל בית אנגליה תצלום להקת קופים,pseudo_sentence_word_context
+29,6,he,נעלם,נעלם,4,5,כמה שנים צלם טייל בית אנגליה תצלום להקת קופים,pseudo_sentence_word_context
+30,6,he,כל,כל,5,6,כמה שנים צלם טייל בית אנגליה תצלום להקת קופים,pseudo_sentence_word_context
+31,6,he,יום,יום,6,7,כמה שנים צלם טייל בית אנגליה תצלום להקת קופים,pseudo_sentence_word_context
+32,6,he,הבא,הבא,7,8,כמה שנים צלם טייל בית אנגליה תצלום להקת קופים,pseudo_sentence_word_context
+33,6,he,עבה,עבה,8,9,כמה שנים צלם טייל בית אנגליה תצלום להקת קופים,pseudo_sentence_word_context
+34,7,he,יער,יער,0,1,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+35,7,he,גפנים,גפנים,1,2,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+36,7,he,בוצי,בוצי,2,3,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+37,7,he,סבך,סבך,3,4,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+38,7,he,קורי עכביש,קורי | עכביש,4,6,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+39,7,he,רעיל,רעיל,6,7,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+40,7,he,נחשים,נחשים,7,8,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+41,7,he,אדם,אדם,8,9,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+42,7,he,שם,שם,9,10,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+43,7,he,ללכת,ללכת,10,11,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+44,7,he,מדהים,מדהים,11,12,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+45,7,he,קוף,קוף,12,13,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,pseudo_sentence_word_context
+46,7,he,קוף,קוף,13,14,נעלם כל יום הבא עבה יער גפנים בוצי סבך קורי עכביש רעיל נחשים,isolated_word_fallback_span_out_of_range
+47,8,he,נפגש,נפגש,0,1,אדם,pseudo_sentence_word_context
+48,9,he,קופים,קופים,0,1,שם ללכת,pseudo_sentence_word_context
+49,9,he,אמר,אמר,1,2,שם ללכת,pseudo_sentence_word_context
+50,10,he,ממוצע,ממוצע,0,1,מדהים קוף,pseudo_sentence_word_context
+51,10,he,עולם,עולם,1,2,מדהים קוף,pseudo_sentence_word_context
+52,11,he,לדעת,לדעת,0,1,קוף,pseudo_sentence_word_context
+53,12,he,לדעת,לדעת,0,1,נפגש קופים אמר ממוצע עולם,pseudo_sentence_word_context
+54,12,he,קצת קצת,קצת | קצת,1,3,נפגש קופים אמר ממוצע עולם,pseudo_sentence_word_context
+55,12,he,קוף,קוף,3,4,נפגש קופים אמר ממוצע עולם,pseudo_sentence_word_context
+56,12,he,קוף,קוף,4,5,נפגש קופים אמר ממוצע עולם,pseudo_sentence_word_context
+57,12,he,כללי התנהגות,כללי | התנהגות,5,7,נפגש קופים אמר ממוצע עולם,isolated_word_fallback_span_out_of_range
+58,13,he,הצגה,הצגה,0,1,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+59,13,he,שיניים,שיניים,1,2,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+60,13,he,להציג,להציג,2,3,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+61,13,he,שיניים,שיניים,3,4,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+62,13,he,לנעוץ מבט,לנעוץ | מבט,4,6,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+63,13,he,פנים,פנים,6,7,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+64,13,he,סודות,סודות,7,8,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+65,13,he,מסוגל,מסוגל,8,9,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+66,13,he,טוב,טוב,9,10,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+67,13,he,צילום,צילום,10,11,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+68,13,he,הכנה,הכנה,11,12,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+69,13,he,חיה,חיה,12,13,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+70,13,he,רגוע,רגוע,13,14,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+71,13,he,בעיטה,בעיטה,14,15,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,pseudo_sentence_word_context
+72,13,he,רצה,רצה,15,16,לדעת לדעת קצת קצת קוף קוף כללי התנהגות הצגה שיניים להציג שיניים לנעוץ מבט פנים,isolated_word_fallback_span_out_of_range
+73,14,he,מלא,מלא,0,1,סודות מסוגל טוב צילום הכנה חיה רגוע,pseudo_sentence_word_context
+74,14,he,פנים,פנים,1,2,סודות מסוגל טוב צילום הכנה חיה רגוע,pseudo_sentence_word_context
+75,14,he,דיוקן,דיוקן,2,3,סודות מסוגל טוב צילום הכנה חיה רגוע,pseudo_sentence_word_context
+76,14,he,עדשה,עדשה,3,4,סודות מסוגל טוב צילום הכנה חיה רגוע,pseudo_sentence_word_context
+77,14,he,זמן,זמן,4,5,סודות מסוגל טוב צילום הכנה חיה רגוע,pseudo_sentence_word_context
+78,14,he,לקיחה,לקיחה,5,6,סודות מסוגל טוב צילום הכנה חיה רגוע,pseudo_sentence_word_context
+79,14,he,בעיטה,בעיטה,6,7,סודות מסוגל טוב צילום הכנה חיה רגוע,pseudo_sentence_word_context
+80,15,he,קופים,קופים,0,1,בעיטה רצה מלא פנים דיוקן עדשה,pseudo_sentence_word_context
+81,15,he,מבט,מבט,1,2,בעיטה רצה מלא פנים דיוקן עדשה,pseudo_sentence_word_context
+82,15,he,ימים,ימים,2,3,בעיטה רצה מלא פנים דיוקן עדשה,pseudo_sentence_word_context
+83,15,he,החמצות,החמצות,3,4,בעיטה רצה מלא פנים דיוקן עדשה,pseudo_sentence_word_context
+84,15,he,השתנה,השתנה,4,5,בעיטה רצה מלא פנים דיוקן עדשה,pseudo_sentence_word_context
+85,15,he,אסטרטגיות,אסטרטגיות,5,6,בעיטה רצה מלא פנים דיוקן עדשה,pseudo_sentence_word_context
+86,16,he,לשים,לשים,0,1,זמן לקיחה בעיטה קופים מבט,pseudo_sentence_word_context
+87,16,he,מצלמה,מצלמה,1,2,זמן לקיחה בעיטה קופים מבט,pseudo_sentence_word_context
+88,16,he,חצובה,חצובה,2,3,זמן לקיחה בעיטה קופים מבט,pseudo_sentence_word_context
+89,16,he,זרק,זרק,3,4,זמן לקיחה בעיטה קופים מבט,pseudo_sentence_word_context
+90,16,he,עוגיות,עוגיות,4,5,זמן לקיחה בעיטה קופים מבט,pseudo_sentence_word_context
+91,17,he,לנסות,לנסות,0,1,ימים החמצות השתנה אסטרטגיות,pseudo_sentence_word_context
+92,17,he,לפתות,לפתות,1,2,ימים החמצות השתנה אסטרטגיות,pseudo_sentence_word_context
+93,17,he,קופים,קופים,2,3,ימים החמצות השתנה אסטרטגיות,pseudo_sentence_word_context
+94,17,he,מקווה,מקווה,3,4,ימים החמצות השתנה אסטרטגיות,pseudo_sentence_word_context
+95,18,he,סקרן,סקרן,0,1,לשים מצלמה חצובה זרק עוגיות לנסות לפתות קופים,pseudo_sentence_word_context
+96,18,he,מצלמה,מצלמה,1,2,לשים מצלמה חצובה זרק עוגיות לנסות לפתות קופים,pseudo_sentence_word_context
+97,18,he,התחלה,התחלה,2,3,לשים מצלמה חצובה זרק עוגיות לנסות לפתות קופים,pseudo_sentence_word_context
+98,18,he,דוחף,דוחף,3,4,לשים מצלמה חצובה זרק עוגיות לנסות לפתות קופים,pseudo_sentence_word_context
+99,18,he,סקרן,סקרן,4,5,לשים מצלמה חצובה זרק עוגיות לנסות לפתות קופים,pseudo_sentence_word_context
+100,18,he,דוחף,דוחף,5,6,לשים מצלמה חצובה זרק עוגיות לנסות לפתות קופים,pseudo_sentence_word_context
+101,18,he,מצורף,מצורף,6,7,לשים מצלמה חצובה זרק עוגיות לנסות לפתות קופים,pseudo_sentence_word_context
+102,18,he,כבל,כבל,7,8,לשים מצלמה חצובה זרק עוגיות לנסות לפתות קופים,pseudo_sentence_word_context
+103,19,he,סוף,סוף,0,1,מקווה סקרן מצלמה התחלה דוחף,pseudo_sentence_word_context
+104,19,he,מצלמה,מצלמה,1,2,מקווה סקרן מצלמה התחלה דוחף,pseudo_sentence_word_context
+105,19,he,קופים,קופים,2,3,מקווה סקרן מצלמה התחלה דוחף,pseudo_sentence_word_context
+106,19,he,אהבתי,אהבתי,3,4,מקווה סקרן מצלמה התחלה דוחף,pseudo_sentence_word_context
+107,19,he,התחיל,התחיל,4,5,מקווה סקרן מצלמה התחלה דוחף,pseudo_sentence_word_context
+108,20,he,משחק,משחק,0,1,סקרן,pseudo_sentence_word_context
+109,21,he,לשים,לשים,0,1,דוחף,pseudo_sentence_word_context
+110,22,he,פיות,פיות,0,1,מצורף כבל סוף מצלמה,pseudo_sentence_word_context
+111,22,he,לחימה,לחימה,1,2,מצורף כבל סוף מצלמה,pseudo_sentence_word_context
+112,22,he,כמובן,כמובן,2,3,מצורף כבל סוף מצלמה,pseudo_sentence_word_context
+113,22,he,לחוץ,לחוץ,3,4,מצורף כבל סוף מצלמה,pseudo_sentence_word_context
+114,23,he,הסתכל,הסתכל,0,1,קופים אהבתי,pseudo_sentence_word_context
+115,23,he,עדשה,עדשה,1,2,קופים אהבתי,pseudo_sentence_word_context
+116,24,he,עובדה,עובדה,0,1,התחיל משחק לשים פיות לחימה,pseudo_sentence_word_context
+117,24,he,הולך,הולך,1,2,התחיל משחק לשים פיות לחימה,pseudo_sentence_word_context
+118,24,he,קוף,קוף,2,3,התחיל משחק לשים פיות לחימה,pseudo_sentence_word_context
+119,24,he,שפה,שפה,3,4,התחיל משחק לשים פיות לחימה,pseudo_sentence_word_context
+120,24,he,מפוטר,מפוטר,4,5,התחיל משחק לשים פיות לחימה,pseudo_sentence_word_context
+121,25,he,מעטים,מעטים,0,1,כמובן לחוץ הסתכל עדשה,pseudo_sentence_word_context
+122,25,he,יריות,יריות,1,2,כמובן לחוץ הסתכל עדשה,pseudo_sentence_word_context
+123,25,he,נבדק,נבדק,2,3,כמובן לחוץ הסתכל עדשה,pseudo_sentence_word_context
+124,25,he,רע,רע,3,4,כמובן לחוץ הסתכל עדשה,pseudo_sentence_word_context
+125,26,he,קצת,קצת,0,1,עובדה הולך קוף שפה,pseudo_sentence_word_context
+126,26,he,מוקד,מוקד,1,2,עובדה הולך קוף שפה,pseudo_sentence_word_context
+127,26,he,מותאם,מותאם,2,3,עובדה הולך קוף שפה,pseudo_sentence_word_context
+128,26,he,הגדרות,הגדרות,3,4,עובדה הולך קוף שפה,pseudo_sentence_word_context
+129,27,he,לשים,לשים,0,1,מפוטר מעטים יריות,pseudo_sentence_word_context
+130,27,he,מצלמה,מצלמה,1,2,מפוטר מעטים יריות,pseudo_sentence_word_context
+131,27,he,קופים,קופים,2,3,מפוטר מעטים יריות,pseudo_sentence_word_context
+132,28,he,כל,כל,0,1,נבדק,pseudo_sentence_word_context
+133,29,he,פרויקט,פרויקט,0,1,רע קצת מוקד,pseudo_sentence_word_context
+134,29,he,עובדה,עובדה,1,2,רע קצת מוקד,pseudo_sentence_word_context
+135,29,he,קצת,קצת,2,3,רע קצת מוקד,pseudo_sentence_word_context
+136,30,he,נרגש,נרגש,0,1,מותאם הגדרות לשים מצלמה,pseudo_sentence_word_context
+137,30,he,דפק,דפק,1,2,מותאם הגדרות לשים מצלמה,pseudo_sentence_word_context
+138,30,he,חצובה,חצובה,2,3,מותאם הגדרות לשים מצלמה,pseudo_sentence_word_context
+139,30,he,מונח,מונח,3,4,מותאם הגדרות לשים מצלמה,pseudo_sentence_word_context
+140,31,he,בטן,בטן,0,1,קופים כל פרויקט,pseudo_sentence_word_context
+141,31,he,מתוח,מתוח,1,2,קופים כל פרויקט,pseudo_sentence_word_context
+142,31,he,זרוע,זרוע,2,3,קופים כל פרויקט,pseudo_sentence_word_context
+143,32,he,יציב,יציב,0,1,עובדה קצת נרגש,pseudo_sentence_word_context
+144,32,he,חצובה,חצובה,1,2,עובדה קצת נרגש,pseudo_sentence_word_context
+145,32,he,אצבעות,אצבעות,2,3,עובדה קצת נרגש,pseudo_sentence_word_context
+146,33,he,מעטים,מעטים,0,1,דפק חצובה,pseudo_sentence_word_context
+147,33,he,אחר,אחר,1,2,דפק חצובה,pseudo_sentence_word_context
+148,34,he,קופים,קופים,0,1,מונח בטן מתוח זרוע יציב חצובה אצבעות,pseudo_sentence_word_context
+149,34,he,שם לב,שם | לב,1,3,מונח בטן מתוח זרוע יציב חצובה אצבעות,pseudo_sentence_word_context
+150,34,he,מוזר,מוזר,3,4,מונח בטן מתוח זרוע יציב חצובה אצבעות,pseudo_sentence_word_context
+151,34,he,חדש,חדש,4,5,מונח בטן מתוח זרוע יציב חצובה אצבעות,pseudo_sentence_word_context
+152,34,he,חבר,חבר,5,6,מונח בטן מתוח זרוע יציב חצובה אצבעות,pseudo_sentence_word_context
+153,34,he,שקר,שקר,6,7,מונח בטן מתוח זרוע יציב חצובה אצבעות,pseudo_sentence_word_context
+154,34,he,מלא,מלא,7,8,מונח בטן מתוח זרוע יציב חצובה אצבעות,isolated_word_fallback_span_out_of_range
+155,35,he,קומה,קומה,0,1,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+156,35,he,קפץ,קפץ,1,2,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+157,35,he,קופים,קופים,2,3,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+158,35,he,מנסה,מנסה,3,4,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+159,35,he,לשמור,לשמור,4,5,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+160,35,he,מצלמה,מצלמה,5,6,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+161,35,he,דפק,דפק,6,7,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+162,35,he,קופים,קופים,7,8,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+163,35,he,מנסה,מנסה,8,9,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+164,35,he,קופים,קופים,9,10,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+165,35,he,מנסה,מנסה,10,11,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+166,35,he,לשחק,לשחק,11,12,מעטים אחר קופים שם לב מוזר חדש חבר שקר מלא קומה קפץ,pseudo_sentence_word_context
+167,36,he,פתאומי,פתאומי,0,1,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+168,36,he,נשמע,נשמע,1,2,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+169,36,he,מצלמה,מצלמה,2,3,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+170,36,he,הולך,הולך,3,4,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+171,36,he,לא,לא,4,5,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+172,36,he,להעז,להעז,5,6,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+173,36,he,ידע,ידע,6,7,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+174,36,he,הסתכל,הסתכל,7,8,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+175,36,he,מבט,מבט,8,9,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+176,36,he,לאפשר,לאפשר,9,10,קופים מנסה לשמור מצלמה דפק קופים מנסה קופים מנסה לשחק,pseudo_sentence_word_context
+177,37,he,סוג,סוג,0,1,פתאומי נשמע מצלמה הולך,pseudo_sentence_word_context
+178,37,he,הסתכל,הסתכל,1,2,פתאומי נשמע מצלמה הולך,pseudo_sentence_word_context
+179,37,he,לראות,לראות,2,3,פתאומי נשמע מצלמה הולך,pseudo_sentence_word_context
+180,37,he,משיכה,משיכה,3,4,פתאומי נשמע מצלמה הולך,pseudo_sentence_word_context
+181,38,he,מדהים,מדהים,0,1,לא להעז,pseudo_sentence_word_context
+182,38,he,מעוות,מעוות,1,2,לא להעז,pseudo_sentence_word_context
+183,39,he,פרצופים,פרצופים,0,1,ידע הסתכל מבט,pseudo_sentence_word_context
+184,39,he,יללות,יללות,1,2,ידע הסתכל מבט,pseudo_sentence_word_context
+185,39,he,פיות,פיות,2,3,ידע הסתכל מבט,pseudo_sentence_word_context
+186,40,he,מחייך,מחייך,0,1,לאפשר,pseudo_sentence_word_context
+187,41,he,פה,פה,0,1,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+188,41,he,קופים,קופים,1,2,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+189,41,he,לקיחה,לקיחה,2,3,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+190,41,he,סלפי,סלפי,3,4,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+191,41,he,מדהים,מדהים,4,5,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+192,41,he,יפה,יפה,5,6,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+193,41,he,משונה,משונה,6,7,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+194,41,he,סלפי,סלפי,7,8,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+195,41,he,רצה,רצה,8,9,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+196,41,he,ללכת,ללכת,9,10,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+197,41,he,עמד,עמד,10,11,סוג הסתכל לראות משיכה מדהים מעוות פרצופים יללות פיות מחייך פה,pseudo_sentence_word_context
+198,42,he,בדוק,בדוק,0,1,קופים לקיחה סלפי מדהים יפה משונה סלפי,pseudo_sentence_word_context
+199,42,he,עבודה,עבודה,1,2,קופים לקיחה סלפי מדהים יפה משונה סלפי,pseudo_sentence_word_context
+200,42,he,מסור,מסור,2,3,קופים לקיחה סלפי מדהים יפה משונה סלפי,pseudo_sentence_word_context
+201,42,he,יריות,יריות,3,4,קופים לקיחה סלפי מדהים יפה משונה סלפי,pseudo_sentence_word_context
+202,42,he,קבוע,קבוע,4,5,קופים לקיחה סלפי מדהים יפה משונה סלפי,pseudo_sentence_word_context
+203,42,he,ישן,ישן,5,6,קופים לקיחה סלפי מדהים יפה משונה סלפי,pseudo_sentence_word_context
+204,42,he,כל יום,כל | יום,6,8,קופים לקיחה סלפי מדהים יפה משונה סלפי,isolated_word_fallback_span_out_of_range
+205,43,he,סלפי,סלפי,0,1,רצה ללכת,pseudo_sentence_word_context
+206,43,he,בחור,בחור,1,2,רצה ללכת,pseudo_sentence_word_context
+207,44,he,חדר כושר,חדר | כושר,0,2,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,pseudo_sentence_word_context
+208,44,he,לקיחה,לקיחה,2,3,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,pseudo_sentence_word_context
+209,44,he,תמונות,תמונות,3,4,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,pseudo_sentence_word_context
+210,44,he,שרירים,שרירים,4,5,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,pseudo_sentence_word_context
+211,44,he,מראה,מראה,5,6,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,pseudo_sentence_word_context
+212,44,he,הבא,הבא,6,7,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,pseudo_sentence_word_context
+213,44,he,רמה,רמה,7,8,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,pseudo_sentence_word_context
+214,44,he,טוב,טוב,8,9,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,pseudo_sentence_word_context
+215,44,he,לברוח,לברוח,9,10,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,pseudo_sentence_word_context
+216,44,he,גבולות,גבולות,10,11,עמד בדוק עבודה מסור יריות קבוע ישן כל יום סלפי,isolated_word_fallback_span_out_of_range
+217,45,he,סלפי,סלפי,0,1,בחור חדר כושר לקיחה תמונות שרירים מראה,pseudo_sentence_word_context
+218,45,he,להכניס,להכניס,1,2,בחור חדר כושר לקיחה תמונות שרירים מראה,pseudo_sentence_word_context
+219,45,he,תחום,תחום,2,3,בחור חדר כושר לקיחה תמונות שרירים מראה,pseudo_sentence_word_context
+220,45,he,אמנות,אמנות,3,4,בחור חדר כושר לקיחה תמונות שרירים מראה,pseudo_sentence_word_context
+221,45,he,בעיטה,בעיטה,4,5,בחור חדר כושר לקיחה תמונות שרירים מראה,pseudo_sentence_word_context
+222,45,he,מסוים,מסוים,5,6,בחור חדר כושר לקיחה תמונות שרירים מראה,pseudo_sentence_word_context
+223,45,he,נתפס,נתפס,6,7,בחור חדר כושר לקיחה תמונות שרירים מראה,pseudo_sentence_word_context
+224,46,he,עין,עין,0,1,הבא רמה טוב,pseudo_sentence_word_context
+225,46,he,קופים,קופים,1,2,הבא רמה טוב,pseudo_sentence_word_context
+226,46,he,פנים,פנים,2,3,הבא רמה טוב,pseudo_sentence_word_context
+227,47,he,מצלמה,מצלמה,0,1,לברוח גבולות סלפי להכניס תחום אמנות,pseudo_sentence_word_context
+228,47,he,מחפש,מחפש,1,2,לברוח גבולות סלפי להכניס תחום אמנות,pseudo_sentence_word_context
+229,47,he,עדשה,עדשה,2,3,לברוח גבולות סלפי להכניס תחום אמנות,pseudo_sentence_word_context
+230,47,he,שער,שער,3,4,לברוח גבולות סלפי להכניס תחום אמנות,pseudo_sentence_word_context
+231,47,he,עיניים,עיניים,4,5,לברוח גבולות סלפי להכניס תחום אמנות,pseudo_sentence_word_context
+232,47,he,ידידותי,ידידותי,5,6,לברוח גבולות סלפי להכניס תחום אמנות,pseudo_sentence_word_context
+233,48,he,גדול,גדול,0,1,בעיטה מסוים נתפס עין,pseudo_sentence_word_context
+234,48,he,עגול,עגול,1,2,בעיטה מסוים נתפס עין,pseudo_sentence_word_context
+235,48,he,ענבר,ענבר,2,3,בעיטה מסוים נתפס עין,pseudo_sentence_word_context
+236,48,he,נחמד,נחמד,3,4,בעיטה מסוים נתפס עין,pseudo_sentence_word_context
+237,49,he,פרטים,פרטים,0,1,קופים פנים מצלמה מחפש עדשה,pseudo_sentence_word_context
+238,49,he,פרטים,פרטים,1,2,קופים פנים מצלמה מחפש עדשה,pseudo_sentence_word_context
+239,49,he,חשוב,חשוב,2,3,קופים פנים מצלמה מחפש עדשה,pseudo_sentence_word_context
+240,49,he,מוקד,מוקד,3,4,קופים פנים מצלמה מחפש עדשה,pseudo_sentence_word_context
+241,49,he,סלפי,סלפי,4,5,קופים פנים מצלמה מחפש עדשה,pseudo_sentence_word_context
+242,50,he,ראשי,ראשי,0,1,שער,pseudo_sentence_word_context
+243,51,he,מקרה,מקרה,0,1,עיניים ידידותי גדול עגול ענבר,pseudo_sentence_word_context
+244,51,he,קופים,קופים,1,2,עיניים ידידותי גדול עגול ענבר,pseudo_sentence_word_context
+245,51,he,מרוצה מעצמי,מרוצה | מעצמי,2,4,עיניים ידידותי גדול עגול ענבר,pseudo_sentence_word_context
+246,51,he,לגחך,לגחך,4,5,עיניים ידידותי גדול עגול ענבר,pseudo_sentence_word_context
+247,51,he,שיניים,שיניים,5,6,עיניים ידידותי גדול עגול ענבר,isolated_word_fallback_span_out_of_range
+248,52,he,גדול,גדול,0,1,נחמד פרטים פרטים חשוב,pseudo_sentence_word_context
+249,52,he,פה,פה,1,2,נחמד פרטים פרטים חשוב,pseudo_sentence_word_context
+250,52,he,פערים,פערים,2,3,נחמד פרטים פרטים חשוב,pseudo_sentence_word_context
+251,52,he,אמיתי,אמיתי,3,4,נחמד פרטים פרטים חשוב,pseudo_sentence_word_context
+252,53,he,לגחך,לגחך,0,1,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+253,53,he,יודע,יודע,1,2,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+254,53,he,מחייך,מחייך,2,3,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+255,53,he,תמונה,תמונה,3,4,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+256,53,he,ראיתי,ראיתי,4,5,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+257,53,he,קדמית,קדמית,5,6,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+258,53,he,כריכה,כריכה,6,7,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+259,53,he,מחשבה,מחשבה,7,8,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+260,53,he,צורך,צורך,8,9,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+261,53,he,סוכנים,סוכנים,9,10,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+262,53,he,סוכנים,סוכנים,10,11,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+263,53,he,לשים,לשים,11,12,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+264,53,he,הודעה לעיתונות,הודעה | לעיתונות,12,14,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+265,53,he,סלפי,סלפי,14,15,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+266,53,he,מחשבה,מחשבה,15,16,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+267,53,he,לתפוס,לתפוס,16,17,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,pseudo_sentence_word_context
+268,53,he,עמים,עמים,17,18,מוקד סלפי ראשי מקרה קופים מרוצה מעצמי לגחך שיניים גדול פה פערים אמיתי לגחך יודע מחייך תמונה,isolated_word_fallback_span_out_of_range
+269,54,he,תשומת לב,תשומת | לב,0,2,ראיתי קדמית כריכה,pseudo_sentence_word_context
+270,54,he,תמונות,תמונות,2,3,ראיתי קדמית כריכה,pseudo_sentence_word_context
+271,54,he,להשתמש,להשתמש,3,4,ראיתי קדמית כריכה,isolated_word_fallback_span_out_of_range
+272,55,he,הזדמנות,הזדמנות,0,1,מחשבה צורך סוכנים,pseudo_sentence_word_context
+273,55,he,לשלוח,לשלוח,1,2,מחשבה צורך סוכנים,pseudo_sentence_word_context
+274,55,he,הודעה,הודעה,2,3,מחשבה צורך סוכנים,pseudo_sentence_word_context
+275,56,he,שימור,שימור,0,1,סוכנים לשים הודעה לעיתונות סלפי,pseudo_sentence_word_context
+276,56,he,רצה,רצה,1,2,סוכנים לשים הודעה לעיתונות סלפי,pseudo_sentence_word_context
+277,56,he,למכור,למכור,2,3,סוכנים לשים הודעה לעיתונות סלפי,pseudo_sentence_word_context
+278,56,he,תמונות,תמונות,3,4,סוכנים לשים הודעה לעיתונות סלפי,pseudo_sentence_word_context
+279,56,he,כמובן,כמובן,4,5,סוכנים לשים הודעה לעיתונות סלפי,pseudo_sentence_word_context
+280,57,he,קופים,קופים,0,1,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+281,57,he,שחור,שחור,1,2,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+282,57,he,מקוקים,מקוקים,2,3,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+283,57,he,נחשב,נחשב,3,4,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+284,57,he,בסכנת הכחדה,בסכנת | הכחדה,4,6,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+285,57,he,שלב,שלב,6,7,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+286,57,he,נכחד,נכחד,7,8,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+287,57,he,פראי,פראי,8,9,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+288,57,he,איבד,איבד,9,10,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+289,57,he,אחוז,אחוז,10,11,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,pseudo_sentence_word_context
+290,57,he,אוכלוסיה,אוכלוסיה,11,12,מחשבה לתפוס עמים תשומת לב תמונות להשתמש הזדמנות לשלוח הודעה שימור,isolated_word_fallback_span_out_of_range
+291,58,he,שנים אחרונות,שנים | אחרונות,0,2,רצה למכור תמונות כמובן,pseudo_sentence_word_context
+292,58,he,בני אדם,בני | אדם,2,4,רצה למכור תמונות כמובן,pseudo_sentence_word_context
+293,58,he,הלכו,הלכו,4,5,רצה למכור תמונות כמובן,isolated_word_fallback_span_out_of_range
+294,58,he,אינדונזיה,אינדונזיה,5,6,רצה למכור תמונות כמובן,isolated_word_fallback_span_out_of_range
+295,59,he,מקום,מקום,0,1,קופים שחור מקוקים נחשב בסכנת הכחדה שלב נכחד פראי,pseudo_sentence_word_context
+296,59,he,רצה,רצה,1,2,קופים שחור מקוקים נחשב בסכנת הכחדה שלב נכחד פראי,pseudo_sentence_word_context
+297,59,he,ליטול,ליטול,2,3,קופים שחור מקוקים נחשב בסכנת הכחדה שלב נכחד פראי,pseudo_sentence_word_context
+298,59,he,תצלומים,תצלומים,3,4,קופים שחור מקוקים נחשב בסכנת הכחדה שלב נכחד פראי,pseudo_sentence_word_context
+299,59,he,לעורר,לעורר,4,5,קופים שחור מקוקים נחשב בסכנת הכחדה שלב נכחד פראי,pseudo_sentence_word_context
+300,59,he,בני אדם,בני | אדם,5,7,קופים שחור מקוקים נחשב בסכנת הכחדה שלב נכחד פראי,pseudo_sentence_word_context
+301,59,he,אכפתיות,אכפתיות,7,8,קופים שחור מקוקים נחשב בסכנת הכחדה שלב נכחד פראי,pseudo_sentence_word_context
+302,59,he,קצת,קצת,8,9,קופים שחור מקוקים נחשב בסכנת הכחדה שלב נכחד פראי,pseudo_sentence_word_context
+303,59,he,קופים,קופים,9,10,קופים שחור מקוקים נחשב בסכנת הכחדה שלב נכחד פראי,isolated_word_fallback_span_out_of_range
+304,60,he,להפסיק,להפסיק,0,1,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+305,60,he,הרג,הרג,1,2,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+306,60,he,סלפי,סלפי,2,3,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+307,60,he,לא,לא,3,4,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+308,60,he,סוף,סוף,4,5,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+309,60,he,לכסות,לכסות,5,6,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+310,60,he,בריטי,בריטי,6,7,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+311,60,he,צהובונים,צהובונים,7,8,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+312,60,he,מעוניין,מעוניין,8,9,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+313,60,he,דואר,דואר,9,10,איבד אחוז אוכלוסיה שנים אחרונות בני אדם הלכו אינדונזיה מקום,pseudo_sentence_word_context
+314,61,he,עתון,עתון,0,1,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,pseudo_sentence_word_context
+315,61,he,לפרסם,לפרסם,1,2,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,pseudo_sentence_word_context
+316,61,he,כתבה,כתבה,2,3,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,pseudo_sentence_word_context
+317,61,he,סלפי,סלפי,3,4,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,pseudo_sentence_word_context
+318,61,he,שעה,שעה,4,5,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,pseudo_sentence_word_context
+319,61,he,מדינה,מדינה,5,6,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,pseudo_sentence_word_context
+320,61,he,אוסטרליה,אוסטרליה,6,7,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,pseudo_sentence_word_context
+321,61,he,גרמניה,גרמניה,7,8,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,pseudo_sentence_word_context
+322,61,he,אימיילים,אימיילים,8,9,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,pseudo_sentence_word_context
+323,61,he,תיבת הדואר הנכנס,תיבת | הדואר | הנכנס,9,12,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,isolated_word_fallback_span_out_of_range
+324,61,he,מטורף,מטורף,12,13,רצה ליטול תצלומים לעורר בני אדם אכפתיות קצת קופים להפסיק הרג,isolated_word_fallback_span_out_of_range
+325,62,he,אנשים,אנשים,0,1,סלפי לא סוף לכסות בריטי צהובונים מעוניין,pseudo_sentence_word_context
+326,62,he,רוצים,רוצים,1,2,סלפי לא סוף לכסות בריטי צהובונים מעוניין,pseudo_sentence_word_context
+327,62,he,לדעת,לדעת,2,3,סלפי לא סוף לכסות בריטי צהובונים מעוניין,pseudo_sentence_word_context
+328,62,he,סיפור,סיפור,3,4,סלפי לא סוף לכסות בריטי צהובונים מעוניין,pseudo_sentence_word_context
+329,62,he,רוצה,רוצה,4,5,סלפי לא סוף לכסות בריטי צהובונים מעוניין,pseudo_sentence_word_context
+330,62,he,להשתמש,להשתמש,5,6,סלפי לא סוף לכסות בריטי צהובונים מעוניין,pseudo_sentence_word_context
+331,62,he,תמונה,תמונה,6,7,סלפי לא סוף לכסות בריטי צהובונים מעוניין,pseudo_sentence_word_context
+332,63,he,טלפון,טלפון,0,1,דואר עתון לפרסם כתבה סלפי,pseudo_sentence_word_context
+333,63,he,חם,חם,1,2,דואר עתון לפרסם כתבה סלפי,pseudo_sentence_word_context
+334,63,he,שיחות,שיחות,2,3,דואר עתון לפרסם כתבה סלפי,pseudo_sentence_word_context
+335,63,he,החודשים הבאים,החודשים | הבאים,3,5,דואר עתון לפרסם כתבה סלפי,pseudo_sentence_word_context
+336,63,he,סלפי,סלפי,5,6,דואר עתון לפרסם כתבה סלפי,isolated_word_fallback_span_out_of_range
+337,64,he,נמכר,נמכר,0,1,,isolated_word_fallback_span_out_of_range
+338,65,he,רישוי,רישוי,0,1,שעה מדינה אוסטרליה גרמניה,pseudo_sentence_word_context
+339,65,he,פרסומים,פרסומים,1,2,שעה מדינה אוסטרליה גרמניה,pseudo_sentence_word_context
+340,65,he,מכירה,מכירה,2,3,שעה מדינה אוסטרליה גרמניה,pseudo_sentence_word_context
+341,65,he,הדפסים,הדפסים,3,4,שעה מדינה אוסטרליה גרמניה,pseudo_sentence_word_context
+342,66,he,יום,יום,0,1,אימיילים,pseudo_sentence_word_context
+343,67,he,הולך,הולך,0,1,תיבת הדואר הנכנס מטורף,pseudo_sentence_word_context
+344,67,he,מחקר,מחקר,1,2,תיבת הדואר הנכנס מטורף,pseudo_sentence_word_context
+345,67,he,קופים,קופים,2,3,תיבת הדואר הנכנס מטורף,pseudo_sentence_word_context
+346,67,he,התחיל,התחיל,3,4,תיבת הדואר הנכנס מטורף,pseudo_sentence_word_context
+347,68,he,לחפש,לחפש,0,1,אנשים רוצים לדעת סיפור רוצה להשתמש תמונה,pseudo_sentence_word_context
+348,68,he,שחור,שחור,1,2,אנשים רוצים לדעת סיפור רוצה להשתמש תמונה,pseudo_sentence_word_context
+349,68,he,מקוק,מקוק,2,3,אנשים רוצים לדעת סיפור רוצה להשתמש תמונה,pseudo_sentence_word_context
+350,68,he,יום,יום,3,4,אנשים רוצים לדעת סיפור רוצה להשתמש תמונה,pseudo_sentence_word_context
+351,68,he,ויקיפדיה,ויקיפדיה,4,5,אנשים רוצים לדעת סיפור רוצה להשתמש תמונה,pseudo_sentence_word_context
+352,68,he,ראש,ראש,5,6,אנשים רוצים לדעת סיפור רוצה להשתמש תמונה,pseudo_sentence_word_context
+353,68,he,רשימה,רשימה,6,7,אנשים רוצים לדעת סיפור רוצה להשתמש תמונה,pseudo_sentence_word_context
+354,69,he,לחצו,לחצו,0,1,טלפון חם שיחות,pseudo_sentence_word_context
+355,69,he,תמונה,תמונה,1,2,טלפון חם שיחות,pseudo_sentence_word_context
+356,69,he,מחשבה,מחשבה,2,3,טלפון חם שיחות,pseudo_sentence_word_context
+357,70,he,קייטרינג,קייטרינג,0,1,החודשים הבאים סלפי נמכר,pseudo_sentence_word_context
+358,70,he,סוכנות חדשות,סוכנות | חדשות,1,3,החודשים הבאים סלפי נמכר,pseudo_sentence_word_context
+359,70,he,שולם,שולם,3,4,החודשים הבאים סלפי נמכר,pseudo_sentence_word_context
+360,70,he,רשיון,רשיון,4,5,החודשים הבאים סלפי נמכר,isolated_word_fallback_span_out_of_range
+361,71,he,תשלום,תשלום,0,1,רישוי פרסומים מכירה הדפסים,pseudo_sentence_word_context
+362,71,he,נשלח,נשלח,1,2,רישוי פרסומים מכירה הדפסים,pseudo_sentence_word_context
+363,71,he,מכתב,מכתב,2,3,רישוי פרסומים מכירה הדפסים,pseudo_sentence_word_context
+364,71,he,נשלח,נשלח,3,4,רישוי פרסומים מכירה הדפסים,pseudo_sentence_word_context
+365,72,he,מכתב,מכתב,0,1,יום הולך מחקר קופים,pseudo_sentence_word_context
+366,72,he,פתגם,פתגם,1,2,יום הולך מחקר קופים,pseudo_sentence_word_context
+367,72,he,לחשוב,לחשוב,2,3,יום הולך מחקר קופים,pseudo_sentence_word_context
+368,72,he,באמצעות,באמצעות,3,4,יום הולך מחקר קופים,pseudo_sentence_word_context
+369,73,he,רשיון,רשיון,0,1,התחיל לחפש שחור מקוק יום,pseudo_sentence_word_context
+370,73,he,תשלום,תשלום,1,2,התחיל לחפש שחור מקוק יום,pseudo_sentence_word_context
+371,73,he,להציג,להציג,2,3,התחיל לחפש שחור מקוק יום,pseudo_sentence_word_context
+372,73,he,לשלם,לשלם,3,4,התחיל לחפש שחור מקוק יום,pseudo_sentence_word_context
+373,73,he,כתב,כתב,4,5,התחיל לחפש שחור מקוק יום,pseudo_sentence_word_context
+374,74,he,פתגם,פתגם,0,1,ויקיפדיה ראש רשימה,pseudo_sentence_word_context
+375,74,he,תמונה,תמונה,1,2,ויקיפדיה ראש רשימה,pseudo_sentence_word_context
+376,74,he,להאמין,להאמין,2,3,ויקיפדיה ראש רשימה,pseudo_sentence_word_context
+377,75,he,נחלת הכלל,נחלת | הכלל,0,2,לחצו תמונה,pseudo_sentence_word_context
+378,75,he,מילים אחרות,מילים | אחרות,2,4,לחצו תמונה,isolated_word_fallback_span_out_of_range
+379,76,he,להשתמש,להשתמש,0,1,מחשבה,pseudo_sentence_word_context
+380,77,he,רשות,רשות,0,1,קייטרינג סוכנות חדשות שולם רשיון תשלום,pseudo_sentence_word_context
+381,77,he,לשחרר,לשחרר,1,2,קייטרינג סוכנות חדשות שולם רשיון תשלום,pseudo_sentence_word_context
+382,77,he,גניבה,גניבה,2,3,קייטרינג סוכנות חדשות שולם רשיון תשלום,pseudo_sentence_word_context
+383,77,he,עושה,עושה,3,4,קייטרינג סוכנות חדשות שולם רשיון תשלום,pseudo_sentence_word_context
+384,77,he,חי,חי,4,5,קייטרינג סוכנות חדשות שולם רשיון תשלום,pseudo_sentence_word_context
+385,77,he,מכירה,מכירה,5,6,קייטרינג סוכנות חדשות שולם רשיון תשלום,pseudo_sentence_word_context
+386,78,he,תמונות,תמונות,0,1,,isolated_word_fallback_span_out_of_range
+387,79,he,מועיל,מועיל,0,1,נשלח מכתב,pseudo_sentence_word_context
+388,79,he,כזה,כזה,1,2,נשלח מכתב,pseudo_sentence_word_context
+389,80,he,להיט,להיט,0,1,נשלח מכתב פתגם לחשוב באמצעות רשיון תשלום,pseudo_sentence_word_context
+390,80,he,הורדה,הורדה,1,2,נשלח מכתב פתגם לחשוב באמצעות רשיון תשלום,pseudo_sentence_word_context
+391,80,he,ויקיפדיה,ויקיפדיה,2,3,נשלח מכתב פתגם לחשוב באמצעות רשיון תשלום,pseudo_sentence_word_context
+392,80,he,לתלות,לתלות,3,4,נשלח מכתב פתגם לחשוב באמצעות רשיון תשלום,pseudo_sentence_word_context
+393,80,he,קיר,קיר,4,5,נשלח מכתב פתגם לחשוב באמצעות רשיון תשלום,pseudo_sentence_word_context
+394,80,he,הדפס,הדפס,5,6,נשלח מכתב פתגם לחשוב באמצעות רשיון תשלום,pseudo_sentence_word_context
+395,80,he,פרסום,פרסום,6,7,נשלח מכתב פתגם לחשוב באמצעות רשיון תשלום,pseudo_sentence_word_context
+396,81,he,ויקיפדיה,ויקיפדיה,0,1,להציג לשלם,pseudo_sentence_word_context
+397,81,he,דעה,דעה,1,2,להציג לשלם,pseudo_sentence_word_context
+398,82,he,מידע,מידע,0,1,כתב פתגם תמונה להאמין נחלת הכלל,pseudo_sentence_word_context
+399,82,he,אינטרנט,אינטרנט,1,2,כתב פתגם תמונה להאמין נחלת הכלל,pseudo_sentence_word_context
+400,82,he,חינם,חינם,2,3,כתב פתגם תמונה להאמין נחלת הכלל,pseudo_sentence_word_context
+401,82,he,מלומד,מלומד,3,4,כתב פתגם תמונה להאמין נחלת הכלל,pseudo_sentence_word_context
+402,82,he,החליט,החליט,4,5,כתב פתגם תמונה להאמין נחלת הכלל,pseudo_sentence_word_context
+403,82,he,סלפי,סלפי,5,6,כתב פתגם תמונה להאמין נחלת הכלל,pseudo_sentence_word_context
+404,83,he,נחלת הכלל,נחלת | הכלל,0,2,מילים אחרות להשתמש רשות לשחרר,pseudo_sentence_word_context
+405,83,he,קוף,קוף,2,3,מילים אחרות להשתמש רשות לשחרר,pseudo_sentence_word_context
+406,83,he,לחוץ,לחוץ,3,4,מילים אחרות להשתמש רשות לשחרר,pseudo_sentence_word_context
+407,83,he,לחצן,לחצן,4,5,מילים אחרות להשתמש רשות לשחרר,pseudo_sentence_word_context
+408,83,he,קוף,קוף,5,6,מילים אחרות להשתמש רשות לשחרר,isolated_word_fallback_span_out_of_range
+409,84,he,יוצר,יוצר,0,1,גניבה,pseudo_sentence_word_context
+410,85,he,תצלום,תצלום,0,1,עושה חי מכירה תמונות,pseudo_sentence_word_context
+411,85,he,ויקיפדיה,ויקיפדיה,1,2,עושה חי מכירה תמונות,pseudo_sentence_word_context
+412,85,he,הערכה,הערכה,2,3,עושה חי מכירה תמונות,pseudo_sentence_word_context
+413,85,he,קופים,קופים,3,4,עושה חי מכירה תמונות,pseudo_sentence_word_context
+414,86,he,שלו,שלו,0,1,מועיל כזה להיט,pseudo_sentence_word_context
+415,86,he,זכויות יוצרים,זכויות | יוצרים,1,3,מועיל כזה להיט,pseudo_sentence_word_context
+416,86,he,תצלום,תצלום,3,4,מועיל כזה להיט,isolated_word_fallback_span_out_of_range
+417,87,he,לשחרר,לשחרר,0,1,הורדה ויקיפדיה לתלות קיר הדפס פרסום,pseudo_sentence_word_context
+418,87,he,שימוש הוגן,שימוש | הוגן,1,3,הורדה ויקיפדיה לתלות קיר הדפס פרסום,pseudo_sentence_word_context
+419,87,he,השתייך,השתייך,3,4,הורדה ויקיפדיה לתלות קיר הדפס פרסום,pseudo_sentence_word_context
+420,87,he,לאינטרנט,לאינטרנט,4,5,הורדה ויקיפדיה לתלות קיר הדפס פרסום,pseudo_sentence_word_context
+421,87,he,מבולבל,מבולבל,5,6,הורדה ויקיפדיה לתלות קיר הדפס פרסום,pseudo_sentence_word_context
+422,87,he,מחשבה,מחשבה,6,7,הורדה ויקיפדיה לתלות קיר הדפס פרסום,isolated_word_fallback_span_out_of_range
+423,88,he,זכות יוצרים,זכות | יוצרים,0,2,ויקיפדיה דעה מידע אינטרנט חינם,pseudo_sentence_word_context
+424,88,he,מערכת,מערכת,2,3,ויקיפדיה דעה מידע אינטרנט חינם,pseudo_sentence_word_context
+425,88,he,מרוכז,מרוכז,3,4,ויקיפדיה דעה מידע אינטרנט חינם,pseudo_sentence_word_context
+426,88,he,יצירתיות,יצירתיות,4,5,ויקיפדיה דעה מידע אינטרנט חינם,pseudo_sentence_word_context
+427,88,he,הכל,הכל,5,6,ויקיפדיה דעה מידע אינטרנט חינם,isolated_word_fallback_span_out_of_range
+428,89,he,קוף,קוף,0,1,מלומד החליט סלפי נחלת הכלל,pseudo_sentence_word_context
+429,89,he,עשה,עשה,1,2,מלומד החליט סלפי נחלת הכלל,pseudo_sentence_word_context
+430,89,he,ללחוץ,ללחוץ,2,3,מלומד החליט סלפי נחלת הכלל,pseudo_sentence_word_context
+431,89,he,לחצן,לחצן,3,4,מלומד החליט סלפי נחלת הכלל,pseudo_sentence_word_context
+432,89,he,ויקיפדיה,ויקיפדיה,4,5,מלומד החליט סלפי נחלת הכלל,pseudo_sentence_word_context
+433,90,he,כולל,כולל,0,1,קוף לחוץ לחצן,pseudo_sentence_word_context
+434,90,he,פתק,פתק,1,2,קוף לחוץ לחצן,pseudo_sentence_word_context
+435,90,he,תצלום,תצלום,2,3,קוף לחוץ לחצן,pseudo_sentence_word_context
+436,91,he,קורא,קורא,0,1,קוף יוצר תצלום,pseudo_sentence_word_context
+437,91,he,קובץ,קובץ,1,2,קוף יוצר תצלום,pseudo_sentence_word_context
+438,91,he,נחלת הכלל,נחלת | הכלל,2,4,קוף יוצר תצלום,isolated_word_fallback_span_out_of_range
+439,92,he,עבודה,עבודה,0,1,ויקיפדיה הערכה קופים שלו זכויות יוצרים,pseudo_sentence_word_context
+440,92,he,חיה,חיה,1,2,ויקיפדיה הערכה קופים שלו זכויות יוצרים,pseudo_sentence_word_context
+441,92,he,אנושי,אנושי,2,3,ויקיפדיה הערכה קופים שלו זכויות יוצרים,pseudo_sentence_word_context
+442,92,he,מחבר,מחבר,3,4,ויקיפדיה הערכה קופים שלו זכויות יוצרים,pseudo_sentence_word_context
+443,92,he,זכות יוצרים,זכות | יוצרים,4,6,ויקיפדיה הערכה קופים שלו זכויות יוצרים,pseudo_sentence_word_context
+444,92,he,מושקע,מושקע,6,7,ויקיפדיה הערכה קופים שלו זכויות יוצרים,isolated_word_fallback_span_out_of_range
+445,93,he,החלטה,החלטה,0,1,תצלום לשחרר שימוש הוגן,pseudo_sentence_word_context
+446,93,he,ויקיפדיה,ויקיפדיה,1,2,תצלום לשחרר שימוש הוגן,pseudo_sentence_word_context
+447,93,he,להכריז,להכריז,2,3,תצלום לשחרר שימוש הוגן,pseudo_sentence_word_context
+448,93,he,תצלום,תצלום,3,4,תצלום לשחרר שימוש הוגן,pseudo_sentence_word_context
+449,94,he,נחלת הכלל,נחלת | הכלל,0,2,השתייך לאינטרנט,pseudo_sentence_word_context
+450,94,he,פתיחה,פתיחה,2,3,השתייך לאינטרנט,isolated_word_fallback_span_out_of_range
+451,95,he,קוף,קוף,0,1,מבולבל,pseudo_sentence_word_context
+452,96,he,סלפי,סלפי,0,1,מחשבה,pseudo_sentence_word_context
+453,97,he,קרב,קרב,0,1,זכות יוצרים,pseudo_sentence_word_context
+454,97,he,לבוא,לבוא,1,2,זכות יוצרים,pseudo_sentence_word_context
+455,98,he,רגע,רגע,0,1,מערכת,pseudo_sentence_word_context
+456,99,he,אמא,אמא,0,1,מרוכז,pseudo_sentence_word_context
+457,100,he,טבע,טבע,0,1,יצירתיות,pseudo_sentence_word_context
+458,101,he,דחף,דחף,0,1,הכל קוף עשה ללחוץ לחצן,pseudo_sentence_word_context
+459,101,he,טבע אנושי,טבע | אנושי,1,3,הכל קוף עשה ללחוץ לחצן,pseudo_sentence_word_context
+460,101,he,ממולא יתר על המידה,ממולא | יתר | על | המידה,3,7,הכל קוף עשה ללחוץ לחצן,isolated_word_fallback_span_out_of_range
+461,101,he,כבודה,כבודה,7,8,הכל קוף עשה ללחוץ לחצן,isolated_word_fallback_span_out_of_range
+462,101,he,חוקים,חוקים,8,9,הכל קוף עשה ללחוץ לחצן,isolated_word_fallback_span_out_of_range
+463,102,he,דעות,דעות,0,1,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+464,102,he,שליטה,שליטה,1,2,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+465,102,he,לקח,לקח,2,3,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+466,102,he,מושב,מושב,3,4,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+467,102,he,התקפי,התקפי,4,5,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+468,102,he,מורכב,מורכב,5,6,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+469,102,he,קבוצה,קבוצה,6,7,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+470,102,he,עורכי דין,עורכי | דין,7,9,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+471,102,he,מחושב,מחושב,9,10,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+472,102,he,חוק זכויות יוצרים,חוק | זכויות | יוצרים,10,13,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+473,102,he,הסתכל,הסתכל,13,14,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+474,102,he,ממצא,ממצא,14,15,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+475,102,he,להעז,להעז,15,16,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+476,102,he,קפיטליסטים,קפיטליסטים,16,17,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+477,102,he,קרן,קרן,17,18,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+478,102,he,תביעה,תביעה,18,19,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+479,102,he,ויקיפדיה,ויקיפדיה,19,20,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+480,102,he,ויקימדיה,ויקימדיה,20,21,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+481,102,he,בעלים,בעלים,21,22,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+482,102,he,ויקיפדיה,ויקיפדיה,22,23,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+483,102,he,נתן,נתן,23,24,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+484,102,he,אצבע,אצבע,24,25,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+485,102,he,גדול,גדול,25,26,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,pseudo_sentence_word_context
+486,102,he,ועידה,ועידה,26,27,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,isolated_word_fallback_span_out_of_range
+487,102,he,לונדון,לונדון,27,28,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,isolated_word_fallback_span_out_of_range
+488,102,he,נקרא,נקרא,28,29,ויקיפדיה כולל פתק תצלום קורא קובץ נחלת הכלל עבודה חיה אנושי מחבר זכות יוצרים מושקע החלטה ויקיפדיה להכריז תצלום נחלת הכלל פתיחה קוף סלפי קרב לבוא,isolated_word_fallback_span_out_of_range
+489,103,he,מייסדים,מייסדים,0,1,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+490,103,he,ויילס,ויילס,1,2,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+491,103,he,לדעת,לדעת,2,3,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+492,103,he,טוב,טוב,3,4,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+493,103,he,ויילס,ויילס,4,5,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+494,103,he,רבים,רבים,5,6,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+495,103,he,נציגים,נציגים,6,7,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+496,103,he,לעגני,לעגני,7,8,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+497,103,he,הדפסה,הדפסה,8,9,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+498,103,he,תמונה,תמונה,9,10,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+499,103,he,גדול,גדול,10,11,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+500,103,he,גדול,גדול,11,12,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+501,103,he,לוחות,לוחות,12,13,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+502,103,he,מוצב,מוצב,13,14,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+503,103,he,ועידה,ועידה,14,15,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+504,103,he,מתקן,מתקן,15,16,רגע אמא טבע דחף טבע אנושי ממולא יתר על המידה כבודה חוקים דעות שליטה לקח מושב,pseudo_sentence_word_context
+505,104,he,ויילס,ויילס,0,1,התקפי מורכב קבוצה עורכי דין מחושב חוק זכויות יוצרים,pseudo_sentence_word_context
+506,104,he,שונים,שונים,1,2,התקפי מורכב קבוצה עורכי דין מחושב חוק זכויות יוצרים,pseudo_sentence_word_context
+507,104,he,אחר,אחר,2,3,התקפי מורכב קבוצה עורכי דין מחושב חוק זכויות יוצרים,pseudo_sentence_word_context
+508,104,he,אנשים,אנשים,3,4,התקפי מורכב קבוצה עורכי דין מחושב חוק זכויות יוצרים,pseudo_sentence_word_context
+509,104,he,מעודד,מעודד,4,5,התקפי מורכב קבוצה עורכי דין מחושב חוק זכויות יוצרים,pseudo_sentence_word_context
+510,104,he,נציגים,נציגים,5,6,התקפי מורכב קבוצה עורכי דין מחושב חוק זכויות יוצרים,pseudo_sentence_word_context
+511,104,he,ליטול,ליטול,6,7,התקפי מורכב קבוצה עורכי דין מחושב חוק זכויות יוצרים,pseudo_sentence_word_context
+512,104,he,סלפי,סלפי,7,8,התקפי מורכב קבוצה עורכי דין מחושב חוק זכויות יוצרים,pseudo_sentence_word_context
+513,104,he,סלפי,סלפי,8,9,התקפי מורכב קבוצה עורכי דין מחושב חוק זכויות יוצרים,pseudo_sentence_word_context
+514,105,he,ממוצע,ממוצע,0,1,הסתכל ממצא להעז קפיטליסטים קרן תביעה ויקיפדיה,pseudo_sentence_word_context
+515,105,he,מעטים,מעטים,1,2,הסתכל ממצא להעז קפיטליסטים קרן תביעה ויקיפדיה,pseudo_sentence_word_context
+516,105,he,תמונות,תמונות,2,3,הסתכל ממצא להעז קפיטליסטים קרן תביעה ויקיפדיה,pseudo_sentence_word_context
+517,105,he,מקום,מקום,3,4,הסתכל ממצא להעז קפיטליסטים קרן תביעה ויקיפדיה,pseudo_sentence_word_context
+518,105,he,לאינטרנט,לאינטרנט,4,5,הסתכל ממצא להעז קפיטליסטים קרן תביעה ויקיפדיה,pseudo_sentence_word_context
+519,105,he,ויילס,ויילס,5,6,הסתכל ממצא להעז קפיטליסטים קרן תביעה ויקיפדיה,pseudo_sentence_word_context
+520,105,he,נתעב,נתעב,6,7,הסתכל ממצא להעז קפיטליסטים קרן תביעה ויקיפדיה,pseudo_sentence_word_context
+521,106,he,לחכות,לחכות,0,1,ויקימדיה בעלים ויקיפדיה נתן אצבע,pseudo_sentence_word_context
+522,106,he,רוצה,רוצה,1,2,ויקימדיה בעלים ויקיפדיה נתן אצבע,pseudo_sentence_word_context
+523,106,he,מבט,מבט,2,3,ויקימדיה בעלים ויקיפדיה נתן אצבע,pseudo_sentence_word_context
+524,106,he,מהיר,מהיר,3,4,ויקימדיה בעלים ויקיפדיה נתן אצבע,pseudo_sentence_word_context
+525,106,he,לתלות,לתלות,4,5,ויקימדיה בעלים ויקיפדיה נתן אצבע,pseudo_sentence_word_context
+526,107,he,ויילס,ויילס,0,1,גדול ועידה לונדון,pseudo_sentence_word_context
+527,107,he,קוף,קוף,1,2,גדול ועידה לונדון,pseudo_sentence_word_context
+528,107,he,סלפי,סלפי,2,3,גדול ועידה לונדון,pseudo_sentence_word_context
+529,108,he,ויילס,ויילס,0,1,נקרא,pseudo_sentence_word_context
+530,109,he,ללכת,ללכת,0,1,מייסדים ויילס,pseudo_sentence_word_context
+531,109,he,מבט,מבט,1,2,מייסדים ויילס,pseudo_sentence_word_context
+532,110,he,סוג,סוג,0,1,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+533,110,he,ויילס,ויילס,1,2,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+534,110,he,קוף,קוף,2,3,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+535,110,he,סלפי,סלפי,3,4,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+536,110,he,למצוא,למצוא,4,5,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+537,110,he,זכר למבוגרים,זכר | למבוגרים,5,7,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+538,110,he,אנושי,אנושי,7,8,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+539,110,he,החזקה,החזקה,8,9,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+540,110,he,טלפון,טלפון,9,10,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+541,110,he,יד,יד,10,11,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+542,110,he,קוף,קוף,11,12,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+543,110,he,סלפי,סלפי,12,13,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+544,110,he,אחר,אחר,13,14,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,pseudo_sentence_word_context
+545,110,he,הבא,הבא,14,15,לדעת טוב ויילס רבים נציגים לעגני הדפסה תמונה גדול גדול לוחות מוצב ועידה מתקן,isolated_word_fallback_span_out_of_range
+546,111,he,פנים,פנים,0,1,ויילס שונים אחר אנשים מעודד נציגים ליטול סלפי סלפי,pseudo_sentence_word_context
+547,111,he,שפתיים,שפתיים,1,2,ויילס שונים אחר אנשים מעודד נציגים ליטול סלפי סלפי,pseudo_sentence_word_context
+548,111,he,מקומט,מקומט,2,3,ויילס שונים אחר אנשים מעודד נציגים ליטול סלפי סלפי,pseudo_sentence_word_context
+549,111,he,להתכופף,להתכופף,3,4,ויילס שונים אחר אנשים מעודד נציגים ליטול סלפי סלפי,pseudo_sentence_word_context
+550,111,he,מראה,מראה,4,5,ויילס שונים אחר אנשים מעודד נציגים ליטול סלפי סלפי,pseudo_sentence_word_context
+551,111,he,מגוחך,מגוחך,5,6,ויילס שונים אחר אנשים מעודד נציגים ליטול סלפי סלפי,pseudo_sentence_word_context
+552,111,he,פנים,פנים,6,7,ויילס שונים אחר אנשים מעודד נציגים ליטול סלפי סלפי,pseudo_sentence_word_context
+553,111,he,הכנה,הכנה,7,8,ויילס שונים אחר אנשים מעודד נציגים ליטול סלפי סלפי,pseudo_sentence_word_context
+554,111,he,להתכופף,להתכופף,8,9,ויילס שונים אחר אנשים מעודד נציגים ליטול סלפי סלפי,pseudo_sentence_word_context
+555,112,he,פנים,פנים,0,1,ממוצע,pseudo_sentence_word_context
+556,113,he,לא יודע,לא | יודע,0,2,מעטים תמונות מקום לאינטרנט ויילס נתעב,pseudo_sentence_word_context
+557,113,he,מגיע,מגיע,2,3,מעטים תמונות מקום לאינטרנט ויילס נתעב,pseudo_sentence_word_context
+558,113,he,מגרש,מגרש,3,4,מעטים תמונות מקום לאינטרנט ויילס נתעב,pseudo_sentence_word_context
+559,113,he,אנשים,אנשים,4,5,מעטים תמונות מקום לאינטרנט ויילס נתעב,pseudo_sentence_word_context
+560,113,he,אל תעשה,אל | תעשה,5,7,מעטים תמונות מקום לאינטרנט ויילס נתעב,isolated_word_fallback_span_out_of_range
+561,113,he,להראות,להראות,7,8,מעטים תמונות מקום לאינטרנט ויילס נתעב,isolated_word_fallback_span_out_of_range
+562,114,he,לעשות,לעשות,0,1,לחכות,pseudo_sentence_word_context
+563,115,he,להתכופף,להתכופף,0,1,רוצה מבט מהיר,pseudo_sentence_word_context
+564,115,he,שפתיים,שפתיים,1,2,רוצה מבט מהיר,pseudo_sentence_word_context
+565,115,he,עשה,עשה,2,3,רוצה מבט מהיר,pseudo_sentence_word_context
+566,116,he,תחושה,תחושה,0,1,לתלות,pseudo_sentence_word_context
+567,117,he,מסור,מסור,0,1,,isolated_word_fallback_span_out_of_range
+568,118,he,ויילס,ויילס,0,1,ויילס קוף סלפי,pseudo_sentence_word_context
+569,118,he,סלפי,סלפי,1,2,ויילס קוף סלפי,pseudo_sentence_word_context
+570,118,he,קוף,קוף,2,3,ויילס קוף סלפי,pseudo_sentence_word_context
+571,119,he,סלפי,סלפי,0,1,ויילס,pseudo_sentence_word_context
+572,120,he,כועס,כועס,0,1,ללכת,pseudo_sentence_word_context
+573,121,he,לחימה,לחימה,0,1,,isolated_word_fallback_span_out_of_range
+574,122,he,יום,יום,0,1,מבט,pseudo_sentence_word_context
+575,123,he,קרב,קרב,0,1,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+576,123,he,לקח,לקח,1,2,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+577,123,he,אפוס,אפוס,2,3,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+578,123,he,חדש,חדש,3,4,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+579,123,he,פרופורציות,פרופורציות,4,5,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+580,123,he,מלך,מלך,5,6,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+581,123,he,הלכתי,הלכתי,6,7,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+582,123,he,סצינה,סצינה,7,8,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+583,123,he,קרב,קרב,8,9,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+584,123,he,מחלוקת,מחלוקת,9,10,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+585,123,he,ויקימדיה,ויקימדיה,10,11,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+586,123,he,נוצר,נוצר,11,12,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+587,123,he,ללחוץ,ללחוץ,12,13,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+588,123,he,יום,יום,13,14,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+589,123,he,אשה,אשה,14,15,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+590,123,he,צלם,צלם,15,16,סוג ויילס קוף סלפי למצוא זכר למבוגרים אנושי החזקה טלפון יד קוף סלפי אחר הבא פנים,pseudo_sentence_word_context
+591,124,he,תבע,תבע,0,1,שפתיים מקומט להתכופף,pseudo_sentence_word_context
+592,124,he,קוף,קוף,1,2,שפתיים מקומט להתכופף,pseudo_sentence_word_context
+593,124,he,נמצא,נמצא,2,3,שפתיים מקומט להתכופף,pseudo_sentence_word_context
+594,125,he,קוף,קוף,0,1,מראה מגוחך,pseudo_sentence_word_context
+595,125,he,תביעה,תביעה,1,2,מראה מגוחך,pseudo_sentence_word_context
+596,126,he,אשה,אשה,0,1,פנים הכנה,pseudo_sentence_word_context
+597,126,he,מצא,מצא,1,2,פנים הכנה,pseudo_sentence_word_context
+598,127,he,מצא,מצא,0,1,להתכופף פנים,pseudo_sentence_word_context
+599,127,he,ויקיפדיה,ויקיפדיה,1,2,להתכופף פנים,pseudo_sentence_word_context
+600,128,he,גניבה,גניבה,0,1,לא יודע מגיע,pseudo_sentence_word_context
+601,128,he,נתקל,נתקל,1,2,לא יודע מגיע,pseudo_sentence_word_context
+602,128,he,נתקל,נתקל,2,3,לא יודע מגיע,pseudo_sentence_word_context
+603,129,he,עובדה,עובדה,0,1,אל תעשה,pseudo_sentence_word_context
+604,129,he,תבע,תבע,1,2,אל תעשה,pseudo_sentence_word_context
+605,130,he,קוף,קוף,0,1,מגרש אנשים להראות לעשות להתכופף שפתיים,pseudo_sentence_word_context
+606,130,he,קוף,קוף,1,2,מגרש אנשים להראות לעשות להתכופף שפתיים,pseudo_sentence_word_context
+607,130,he,סלפי,סלפי,2,3,מגרש אנשים להראות לעשות להתכופף שפתיים,pseudo_sentence_word_context
+608,130,he,תמונות,תמונות,3,4,מגרש אנשים להראות לעשות להתכופף שפתיים,pseudo_sentence_word_context
+609,130,he,תביעה,תביעה,4,5,מגרש אנשים להראות לעשות להתכופף שפתיים,pseudo_sentence_word_context
+610,130,he,הפרת זכויות יוצרים,הפרת | זכויות | יוצרים,5,8,מגרש אנשים להראות לעשות להתכופף שפתיים,isolated_word_fallback_span_out_of_range
+611,131,he,עזרה,עזרה,0,1,עשה תחושה מסור ויילס סלפי קוף סלפי,pseudo_sentence_word_context
+612,131,he,אנשים,אנשים,1,2,עשה תחושה מסור ויילס סלפי קוף סלפי,pseudo_sentence_word_context
+613,131,he,אתי,אתי,2,3,עשה תחושה מסור ויילס סלפי קוף סלפי,pseudo_sentence_word_context
+614,131,he,יחס,יחס,3,4,עשה תחושה מסור ויילס סלפי קוף סלפי,pseudo_sentence_word_context
+615,131,he,בעלי חיים,בעלי | חיים,4,6,עשה תחושה מסור ויילס סלפי קוף סלפי,pseudo_sentence_word_context
+616,131,he,נקרא,נקרא,6,7,עשה תחושה מסור ויילס סלפי קוף סלפי,pseudo_sentence_word_context
+617,131,he,עורכי דין,עורכי | דין,7,9,עשה תחושה מסור ויילס סלפי קוף סלפי,isolated_word_fallback_span_out_of_range
+618,132,he,אמר,אמר,0,1,כועס,pseudo_sentence_word_context
+619,133,he,מבט,מבט,0,1,לחימה,pseudo_sentence_word_context
+620,134,he,ראה,ראה,0,1,יום קרב לקח אפוס חדש פרופורציות,pseudo_sentence_word_context
+621,134,he,מתרחש,מתרחש,1,2,יום קרב לקח אפוס חדש פרופורציות,pseudo_sentence_word_context
+622,134,he,לעשות,לעשות,2,3,יום קרב לקח אפוס חדש פרופורציות,pseudo_sentence_word_context
+623,134,he,אמר,אמר,3,4,יום קרב לקח אפוס חדש פרופורציות,pseudo_sentence_word_context
+624,134,he,טיפשים,טיפשים,4,5,יום קרב לקח אפוס חדש פרופורציות,pseudo_sentence_word_context
+625,134,he,שיש,שיש,5,6,יום קרב לקח אפוס חדש פרופורציות,pseudo_sentence_word_context
+626,135,he,אמר,אמר,0,1,מלך הלכתי סצינה קרב,pseudo_sentence_word_context
+627,135,he,לשבת,לשבת,1,2,מלך הלכתי סצינה קרב,pseudo_sentence_word_context
+628,135,he,מאפשר,מאפשר,2,3,מלך הלכתי סצינה קרב,pseudo_sentence_word_context
+629,135,he,לראות,לראות,3,4,מלך הלכתי סצינה קרב,pseudo_sentence_word_context
+630,136,he,קורה,קורה,0,1,מחלוקת ויקימדיה נוצר ללחוץ,pseudo_sentence_word_context
+631,136,he,לעשות,לעשות,1,2,מחלוקת ויקימדיה נוצר ללחוץ,pseudo_sentence_word_context
+632,136,he,להגיב,להגיב,2,3,מחלוקת ויקימדיה נוצר ללחוץ,pseudo_sentence_word_context
+633,136,he,לדעת,לדעת,3,4,מחלוקת ויקימדיה נוצר ללחוץ,pseudo_sentence_word_context
+634,137,he,דאגה,דאגה,0,1,יום אשה,pseudo_sentence_word_context
+635,137,he,מוגש,מוגש,1,2,יום אשה,pseudo_sentence_word_context
+636,138,he,ניירות,ניירות,0,1,,isolated_word_fallback_span_out_of_range
+637,139,he,מאפשר,מאפשר,0,1,צלם תבע קוף,pseudo_sentence_word_context
+638,139,he,לראות,לראות,1,2,צלם תבע קוף,pseudo_sentence_word_context
+639,139,he,קורה,קורה,2,3,צלם תבע קוף,pseudo_sentence_word_context
+640,140,he,בטוח,בטוח,0,1,נמצא קוף תביעה אשה מצא,pseudo_sentence_word_context
+641,140,he,צהריים,צהריים,1,2,נמצא קוף תביעה אשה מצא,pseudo_sentence_word_context
+642,140,he,בית,בית,2,3,נמצא קוף תביעה אשה מצא,pseudo_sentence_word_context
+643,140,he,נקישה,נקישה,3,4,נמצא קוף תביעה אשה מצא,pseudo_sentence_word_context
+644,140,he,דלת,דלת,4,5,נמצא קוף תביעה אשה מצא,pseudo_sentence_word_context
+645,141,he,אדם,אדם,0,1,,isolated_word_fallback_span_out_of_range
+646,142,he,שחור,שחור,0,1,מצא ויקיפדיה גניבה נתקל נתקל עובדה תבע קוף,pseudo_sentence_word_context
+647,142,he,חליפה,חליפה,1,2,מצא ויקיפדיה גניבה נתקל נתקל עובדה תבע קוף,pseudo_sentence_word_context
+648,142,he,עומד,עומד,2,3,מצא ויקיפדיה גניבה נתקל נתקל עובדה תבע קוף,pseudo_sentence_word_context
+649,142,he,מרפסת,מרפסת,3,4,מצא ויקיפדיה גניבה נתקל נתקל עובדה תבע קוף,pseudo_sentence_word_context
+650,142,he,דרך,דרך,4,5,מצא ויקיפדיה גניבה נתקל נתקל עובדה תבע קוף,pseudo_sentence_word_context
+651,142,he,נפתח,נפתח,5,6,מצא ויקיפדיה גניבה נתקל נתקל עובדה תבע קוף,pseudo_sentence_word_context
+652,142,he,דלת,דלת,6,7,מצא ויקיפדיה גניבה נתקל נתקל עובדה תבע קוף,pseudo_sentence_word_context
+653,142,he,דחף,דחף,7,8,מצא ויקיפדיה גניבה נתקל נתקל עובדה תבע קוף,pseudo_sentence_word_context
+654,143,he,גדול,גדול,0,1,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+655,143,he,בגודל,בגודל,1,2,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+656,143,he,לבן,לבן,2,3,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+657,143,he,מעטפה,מעטפה,3,4,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+658,143,he,יד,יד,4,5,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+659,143,he,אומר,אומר,5,6,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+660,143,he,הורה,הורה,6,7,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+661,143,he,לעבור,לעבור,7,8,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+662,143,he,אמר,אמר,8,9,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+663,143,he,נפתח,נפתח,9,10,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+664,143,he,חזית,חזית,10,11,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+665,143,he,לקח,לקח,11,12,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+666,143,he,אמר,אמר,12,13,קוף סלפי תמונות תביעה הפרת זכויות יוצרים עזרה אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+667,144,he,לעשות,לעשות,0,1,נקרא עורכי דין אמר,pseudo_sentence_word_context
+668,144,he,לדעת,לדעת,1,2,נקרא עורכי דין אמר,pseudo_sentence_word_context
+669,144,he,אמר,אמר,2,3,נקרא עורכי דין אמר,pseudo_sentence_word_context
+670,144,he,אמר,אמר,3,4,נקרא עורכי דין אמר,pseudo_sentence_word_context
+671,145,he,תבע,תבע,0,1,מבט,pseudo_sentence_word_context
+672,146,he,קוף,קוף,0,1,ראה מתרחש,pseudo_sentence_word_context
+673,146,he,הראה,הראה,1,2,ראה מתרחש,pseudo_sentence_word_context
+674,147,he,התחיל,התחיל,0,1,לעשות,pseudo_sentence_word_context
+675,148,he,צוחק,צוחק,0,1,אמר טיפשים,pseudo_sentence_word_context
+676,148,he,לשוחח,לשוחח,1,2,אמר טיפשים,pseudo_sentence_word_context
+677,149,he,לגרום,לגרום,0,1,שיש,pseudo_sentence_word_context
+678,150,he,מקומי,מקומי,0,1,אמר לשבת,pseudo_sentence_word_context
+679,150,he,מקומי,מקומי,1,2,אמר לשבת,pseudo_sentence_word_context
+680,151,he,מוצק,מוצק,0,1,מאפשר לראות קורה,pseudo_sentence_word_context
+681,151,he,כביש,כביש,1,2,מאפשר לראות קורה,pseudo_sentence_word_context
+682,151,he,הלך,הלך,2,3,מאפשר לראות קורה,pseudo_sentence_word_context
+683,152,he,שמח,שמח,0,1,לעשות להגיב לדעת,pseudo_sentence_word_context
+684,152,he,דרך,דרך,1,2,לעשות להגיב לדעת,pseudo_sentence_word_context
+685,152,he,לקרוא,לקרוא,2,3,לעשות להגיב לדעת,pseudo_sentence_word_context
+686,153,he,תלונה,תלונה,0,1,דאגה מוגש ניירות,pseudo_sentence_word_context
+687,153,he,משונה,משונה,1,2,דאגה מוגש ניירות,pseudo_sentence_word_context
+688,153,he,להעיף,להעיף,2,3,דאגה מוגש ניירות,pseudo_sentence_word_context
+689,154,he,דפים,דפים,0,1,מאפשר לראות קורה,pseudo_sentence_word_context
+690,154,he,דפים,דפים,1,2,מאפשר לראות קורה,pseudo_sentence_word_context
+691,154,he,חוק זכויות יוצרים,חוק | זכויות | יוצרים,2,5,מאפשר לראות קורה,isolated_word_fallback_span_out_of_range
+692,155,he,סוף,סוף,0,1,,isolated_word_fallback_span_out_of_range
+693,156,he,תערוכות,תערוכות,0,1,בטוח צהריים בית,pseudo_sentence_word_context
+694,156,he,צרור,צרור,1,2,בטוח צהריים בית,pseudo_sentence_word_context
+695,156,he,קוף,קוף,2,3,בטוח צהריים בית,pseudo_sentence_word_context
+696,157,he,סלפי,סלפי,0,1,נקישה דלת,pseudo_sentence_word_context
+697,157,he,מחייך,מחייך,1,2,נקישה דלת,pseudo_sentence_word_context
+698,158,he,רציני,רציני,0,1,אדם שחור חליפה עומד מרפסת דרך,pseudo_sentence_word_context
+699,158,he,יללות,יללות,1,2,אדם שחור חליפה עומד מרפסת דרך,pseudo_sentence_word_context
+700,158,he,קוף,קוף,2,3,אדם שחור חליפה עומד מרפסת דרך,pseudo_sentence_word_context
+701,158,he,סלפי,סלפי,3,4,אדם שחור חליפה עומד מרפסת דרך,pseudo_sentence_word_context
+702,158,he,מסמך משפטי,מסמך | משפטי,4,6,אדם שחור חליפה עומד מרפסת דרך,pseudo_sentence_word_context
+703,158,he,לשים,לשים,6,7,אדם שחור חליפה עומד מרפסת דרך,isolated_word_fallback_span_out_of_range
+704,159,he,סקרן,סקרן,0,1,נפתח דלת,pseudo_sentence_word_context
+705,159,he,קוף,קוף,1,2,נפתח דלת,pseudo_sentence_word_context
+706,160,he,שם,שם,0,1,דחף גדול בגודל לבן מעטפה יד,pseudo_sentence_word_context
+707,160,he,תביעה,תביעה,1,2,דחף גדול בגודל לבן מעטפה יד,pseudo_sentence_word_context
+708,160,he,הבא,הבא,2,3,דחף גדול בגודל לבן מעטפה יד,pseudo_sentence_word_context
+709,160,he,חברים,חברים,3,4,דחף גדול בגודל לבן מעטפה יד,pseudo_sentence_word_context
+710,160,he,אנשים,אנשים,4,5,דחף גדול בגודל לבן מעטפה יד,pseudo_sentence_word_context
+711,160,he,אתי,אתי,5,6,דחף גדול בגודל לבן מעטפה יד,pseudo_sentence_word_context
+712,161,he,יחס,יחס,0,1,אומר הורה לעבור,pseudo_sentence_word_context
+713,161,he,בעלי חיים,בעלי | חיים,1,3,אומר הורה לעבור,pseudo_sentence_word_context
+714,161,he,מקרה,מקרה,3,4,אומר הורה לעבור,isolated_word_fallback_span_out_of_range
+715,162,he,נקרא,נקרא,0,1,אמר,pseudo_sentence_word_context
+716,163,he,מקוק,מקוק,0,1,נפתח חזית,pseudo_sentence_word_context
+717,163,he,הבא,הבא,1,2,נפתח חזית,pseudo_sentence_word_context
+718,164,he,חברים,חברים,0,1,לקח,pseudo_sentence_word_context
+719,165,he,אנשים,אנשים,0,1,אמר לעשות לדעת,pseudo_sentence_word_context
+720,165,he,אתי,אתי,1,2,אמר לעשות לדעת,pseudo_sentence_word_context
+721,165,he,יחס,יחס,2,3,אמר לעשות לדעת,pseudo_sentence_word_context
+722,166,he,בעלי חיים,בעלי | חיים,0,2,אמר,isolated_word_fallback_span_out_of_range
+723,167,he,אישי,אישי,0,1,אמר תבע קוף,pseudo_sentence_word_context
+724,167,he,משפטי,משפטי,1,2,אמר תבע קוף,pseudo_sentence_word_context
+725,167,he,אפן הדבור,אפן | הדבור,2,4,אמר תבע קוף,isolated_word_fallback_span_out_of_range
+726,168,he,הבא,הבא,0,1,הראה,pseudo_sentence_word_context
+727,169,he,חבר,חבר,0,1,התחיל צוחק,pseudo_sentence_word_context
+728,169,he,סטטוס,סטטוס,1,2,התחיל צוחק,pseudo_sentence_word_context
+729,170,he,אפוטרופוס,אפוטרופוס,0,1,לשוחח לגרום,pseudo_sentence_word_context
+730,170,he,ליצג,ליצג,1,2,לשוחח לגרום,pseudo_sentence_word_context
+731,171,he,בית משפט,בית | משפט,0,2,מקומי מקומי מוצק כביש,pseudo_sentence_word_context
+732,171,he,הבא,הבא,2,3,מקומי מקומי מוצק כביש,pseudo_sentence_word_context
+733,171,he,חבר,חבר,3,4,מקומי מקומי מוצק כביש,pseudo_sentence_word_context
+734,171,he,שלב,שלב,4,5,מקומי מקומי מוצק כביש,isolated_word_fallback_span_out_of_range
+735,172,he,אותו,אותו,0,1,הלך שמח דרך,pseudo_sentence_word_context
+736,172,he,תינוק,תינוק,1,2,הלך שמח דרך,pseudo_sentence_word_context
+737,172,he,נכה,נכה,2,3,הלך שמח דרך,pseudo_sentence_word_context
+738,173,he,מבוגר,מבוגר,0,1,לקרוא תלונה,pseudo_sentence_word_context
+739,173,he,לדבר,לדבר,1,2,לקרוא תלונה,pseudo_sentence_word_context
+740,174,he,ליצג,ליצג,0,1,משונה,pseudo_sentence_word_context
+741,175,he,לראות,לראות,0,1,להעיף דפים דפים חוק זכויות יוצרים,pseudo_sentence_word_context
+742,175,he,יוצא דופן,יוצא | דופן,1,3,להעיף דפים דפים חוק זכויות יוצרים,pseudo_sentence_word_context
+743,175,he,אנושי,אנושי,3,4,להעיף דפים דפים חוק זכויות יוצרים,pseudo_sentence_word_context
+744,175,he,חוק,חוק,4,5,להעיף דפים דפים חוק זכויות יוצרים,pseudo_sentence_word_context
+745,175,he,מוניטין,מוניטין,5,6,להעיף דפים דפים חוק זכויות יוצרים,pseudo_sentence_word_context
+746,175,he,משיכה,משיכה,6,7,להעיף דפים דפים חוק זכויות יוצרים,isolated_word_fallback_span_out_of_range
+747,176,he,פעלולים,פעלולים,0,1,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+748,176,he,למשוך תשומת לב,למשוך | תשומת | לב,1,4,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+749,176,he,מצב,מצב,4,5,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+750,176,he,בעלי חיים,בעלי | חיים,5,7,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+751,176,he,זרקו,זרקו,7,8,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+752,176,he,סוס,סוס,8,9,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+753,176,he,מדרכה,מדרכה,9,10,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+754,176,he,גורדון,גורדון,10,11,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+755,176,he,רמזיס,רמזיס,11,12,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+756,176,he,מסעדה,מסעדה,12,13,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+757,176,he,לונדון,לונדון,13,14,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,pseudo_sentence_word_context
+758,176,he,אורח,אורח,14,15,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,isolated_word_fallback_span_out_of_range
+759,176,he,בישול,בישול,15,16,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,isolated_word_fallback_span_out_of_range
+760,176,he,להציג,להציג,16,17,סוף תערוכות צרור קוף סלפי מחייך רציני יללות קוף סלפי מסמך משפטי לשים סקרן,isolated_word_fallback_span_out_of_range
+761,177,he,עשוי,עשוי,0,1,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+762,177,he,מנה,מנה,1,2,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+763,177,he,סוס,סוס,2,3,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+764,177,he,בשר,בשר,3,4,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+765,177,he,עשוי,עשוי,4,5,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+766,177,he,קומיקס,קומיקס,5,6,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+767,177,he,נקרא,נקרא,6,7,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+768,177,he,הורג,הורג,7,8,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+769,177,he,בעלי חיים,בעלי | חיים,8,10,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,pseudo_sentence_word_context
+770,177,he,מסר,מסר,10,11,קוף שם תביעה הבא חברים אנשים אתי יחס בעלי חיים,isolated_word_fallback_span_out_of_range
+771,178,he,אמהות,אמהות,0,1,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+772,178,he,לבישה,לבישה,1,2,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+773,178,he,פרווה,פרווה,2,3,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+774,178,he,מעילים,מעילים,3,4,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+775,178,he,הופעות,הופעות,4,5,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+776,178,he,ניהל קמפיין,ניהל | קמפיין,5,7,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+777,178,he,לשנות,לשנות,7,8,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+778,178,he,מלה,מלה,8,9,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+779,178,he,לדוג,לדוג,9,10,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+780,178,he,ים,ים,10,11,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,pseudo_sentence_word_context
+781,178,he,גורים,גורים,11,12,מקרה נקרא מקוק הבא חברים אנשים אתי יחס בעלי חיים אישי,isolated_word_fallback_span_out_of_range
+782,179,he,אנשים,אנשים,0,1,משפטי אפן הדבור הבא חבר סטטוס אפוטרופוס,pseudo_sentence_word_context
+783,179,he,משייכים,משייכים,1,2,משפטי אפן הדבור הבא חבר סטטוס אפוטרופוס,pseudo_sentence_word_context
+784,179,he,פירות ים,פירות | ים,2,4,משפטי אפן הדבור הבא חבר סטטוס אפוטרופוס,pseudo_sentence_word_context
+785,179,he,מקסים,מקסים,4,5,משפטי אפן הדבור הבא חבר סטטוס אפוטרופוס,pseudo_sentence_word_context
+786,179,he,חתולים,חתולים,5,6,משפטי אפן הדבור הבא חבר סטטוס אפוטרופוס,pseudo_sentence_word_context
+787,179,he,להפסיק,להפסיק,6,7,משפטי אפן הדבור הבא חבר סטטוס אפוטרופוס,pseudo_sentence_word_context
+788,179,he,אכילה,אכילה,7,8,משפטי אפן הדבור הבא חבר סטטוס אפוטרופוס,isolated_word_fallback_span_out_of_range
+789,180,he,דגים,דגים,0,1,ליצג בית משפט הבא חבר שלב,pseudo_sentence_word_context
+790,180,he,ממוצע,ממוצע,1,2,ליצג בית משפט הבא חבר שלב,pseudo_sentence_word_context
+791,180,he,כללי,כללי,2,3,ליצג בית משפט הבא חבר שלב,pseudo_sentence_word_context
+792,180,he,עורך דין,עורך | דין,3,5,ליצג בית משפט הבא חבר שלב,pseudo_sentence_word_context
+793,180,he,אומר,אומר,5,6,ליצג בית משפט הבא חבר שלב,pseudo_sentence_word_context
+794,180,he,קוף,קוף,6,7,ליצג בית משפט הבא חבר שלב,isolated_word_fallback_span_out_of_range
+795,181,he,סלפי,סלפי,0,1,אותו תינוק נכה מבוגר לדבר ליצג,pseudo_sentence_word_context
+796,181,he,מקרה,מקרה,1,2,אותו תינוק נכה מבוגר לדבר ליצג,pseudo_sentence_word_context
+797,181,he,פעלולים,פעלולים,2,3,אותו תינוק נכה מבוגר לדבר ליצג,pseudo_sentence_word_context
+798,181,he,מסור,מסור,3,4,אותו תינוק נכה מבוגר לדבר ליצג,pseudo_sentence_word_context
+799,181,he,קוף,קוף,4,5,אותו תינוק נכה מבוגר לדבר ליצג,pseudo_sentence_word_context
+800,181,he,סלפי,סלפי,5,6,אותו תינוק נכה מבוגר לדבר ליצג,pseudo_sentence_word_context
+801,182,he,מחלוקת,מחלוקת,0,1,לראות,pseudo_sentence_word_context
+802,183,he,ויקימדיה,ויקימדיה,0,1,יוצא דופן אנושי חוק,pseudo_sentence_word_context
+803,183,he,הפך,הפך,1,2,יוצא דופן אנושי חוק,pseudo_sentence_word_context
+804,183,he,חדשות,חדשות,2,3,יוצא דופן אנושי חוק,pseudo_sentence_word_context
+805,183,he,נוף,נוף,3,4,יוצא דופן אנושי חוק,pseudo_sentence_word_context
+806,184,he,נוצר,נוצר,0,1,מוניטין משיכה פעלולים למשוך תשומת לב מצב בעלי חיים,pseudo_sentence_word_context
+807,184,he,נוצר,נוצר,1,2,מוניטין משיכה פעלולים למשוך תשומת לב מצב בעלי חיים,pseudo_sentence_word_context
+808,184,he,תצלום,תצלום,2,3,מוניטין משיכה פעלולים למשוך תשומת לב מצב בעלי חיים,pseudo_sentence_word_context
+809,184,he,שלו,שלו,3,4,מוניטין משיכה פעלולים למשוך תשומת לב מצב בעלי חיים,pseudo_sentence_word_context
+810,184,he,זכות יוצרים,זכות | יוצרים,4,6,מוניטין משיכה פעלולים למשוך תשומת לב מצב בעלי חיים,pseudo_sentence_word_context
+811,184,he,מסור,מסור,6,7,מוניטין משיכה פעלולים למשוך תשומת לב מצב בעלי חיים,pseudo_sentence_word_context
+812,184,he,מחלוקת,מחלוקת,7,8,מוניטין משיכה פעלולים למשוך תשומת לב מצב בעלי חיים,pseudo_sentence_word_context
+813,184,he,צלם,צלם,8,9,מוניטין משיכה פעלולים למשוך תשומת לב מצב בעלי חיים,pseudo_sentence_word_context
+814,184,he,רוצה,רוצה,9,10,מוניטין משיכה פעלולים למשוך תשומת לב מצב בעלי חיים,isolated_word_fallback_span_out_of_range
+815,185,he,לתבוע,לתבוע,0,1,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+816,185,he,ויקימדיה,ויקימדיה,1,2,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+817,185,he,ויקימדיה,ויקימדיה,2,3,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+818,185,he,טוען,טוען,3,4,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+819,185,he,תצלום,תצלום,4,5,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+820,185,he,נחלת הכלל,נחלת | הכלל,5,7,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+821,185,he,עומד,עומד,7,8,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+822,185,he,קוף,קוף,8,9,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+823,185,he,חוק,חוק,9,10,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+824,185,he,טענה,טענה,10,11,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+825,185,he,לפנות,לפנות,11,12,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+826,185,he,קורה,קורה,12,13,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+827,185,he,נולד,נולד,13,14,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,pseudo_sentence_word_context
+828,185,he,אנושי,אנושי,14,15,זרקו סוס מדרכה גורדון רמזיס מסעדה לונדון אורח בישול להציג עשוי מנה סוס בשר,isolated_word_fallback_span_out_of_range
+829,186,he,קוף,קוף,0,1,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+830,186,he,לא חשבתי,לא | חשבתי,1,3,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+831,186,he,גדול,גדול,3,4,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+832,186,he,מצלמה,מצלמה,4,5,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+833,186,he,ידיים,ידיים,5,6,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+834,186,he,הולך,הולך,6,7,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+835,186,he,לצלם,לצלם,7,8,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+836,186,he,זוג,זוג,8,9,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+837,186,he,מסגרות,מסגרות,9,10,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+838,186,he,לעדכן,לעדכן,10,11,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+839,186,he,פרופיל,פרופיל,11,12,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,pseudo_sentence_word_context
+840,186,he,לדעת,לדעת,12,13,עשוי קומיקס נקרא הורג בעלי חיים מסר אמהות לבישה פרווה מעילים הופעות,isolated_word_fallback_span_out_of_range
+841,187,he,קופים,קופים,0,1,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+842,187,he,חשיבה,חשיבה,1,2,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+843,187,he,לקיחה,לקיחה,2,3,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+844,187,he,תצלום,תצלום,3,4,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+845,187,he,מחויב,מחויב,4,5,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+846,187,he,חוק זכויות יוצרים,חוק | זכויות | יוצרים,5,8,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+847,187,he,מחויב,מחויב,8,9,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+848,187,he,חוק זכויות יוצרים,חוק | זכויות | יוצרים,9,12,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+849,187,he,מספק,מספק,12,13,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+850,187,he,מחבר,מחבר,13,14,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+851,187,he,יוצר,יוצר,14,15,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+852,187,he,תמונה,תמונה,15,16,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+853,187,he,רשאי,רשאי,16,17,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,pseudo_sentence_word_context
+854,187,he,שלו,שלו,17,18,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,isolated_word_fallback_span_out_of_range
+855,187,he,לא,לא,18,19,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,isolated_word_fallback_span_out_of_range
+856,187,he,לומר,לומר,19,20,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,isolated_word_fallback_span_out_of_range
+857,187,he,מחבר,מחבר,20,21,ניהל קמפיין לשנות מלה לדוג ים גורים אנשים משייכים פירות ים מקסים חתולים להפסיק אכילה דגים ממוצע,isolated_word_fallback_span_out_of_range
+858,188,he,לדעת,לדעת,0,1,כללי עורך דין אומר קוף סלפי מקרה פעלולים,pseudo_sentence_word_context
+859,188,he,הכנה,הכנה,1,2,כללי עורך דין אומר קוף סלפי מקרה פעלולים,pseudo_sentence_word_context
+860,188,he,תצלום,תצלום,2,3,כללי עורך דין אומר קוף סלפי מקרה פעלולים,pseudo_sentence_word_context
+861,188,he,נותן,נותן,3,4,כללי עורך דין אומר קוף סלפי מקרה פעלולים,pseudo_sentence_word_context
+862,188,he,מצלמה,מצלמה,4,5,כללי עורך דין אומר קוף סלפי מקרה פעלולים,pseudo_sentence_word_context
+863,188,he,שואל,שואל,5,6,כללי עורך דין אומר קוף סלפי מקרה פעלולים,pseudo_sentence_word_context
+864,188,he,לצלם,לצלם,6,7,כללי עורך דין אומר קוף סלפי מקרה פעלולים,pseudo_sentence_word_context
+865,188,he,תצלום,תצלום,7,8,כללי עורך דין אומר קוף סלפי מקרה פעלולים,pseudo_sentence_word_context
+866,189,he,לארגן,לארגן,0,1,מסור קוף סלפי מחלוקת ויקימדיה הפך חדשות,pseudo_sentence_word_context
+867,189,he,לצלם,לצלם,1,2,מסור קוף סלפי מחלוקת ויקימדיה הפך חדשות,pseudo_sentence_word_context
+868,189,he,תצלום,תצלום,2,3,מסור קוף סלפי מחלוקת ויקימדיה הפך חדשות,pseudo_sentence_word_context
+869,189,he,נסיבות,נסיבות,3,4,מסור קוף סלפי מחלוקת ויקימדיה הפך חדשות,pseudo_sentence_word_context
+870,189,he,שלו,שלו,4,5,מסור קוף סלפי מחלוקת ויקימדיה הפך חדשות,pseudo_sentence_word_context
+871,189,he,זכות יוצרים,זכות | יוצרים,5,7,מסור קוף סלפי מחלוקת ויקימדיה הפך חדשות,pseudo_sentence_word_context
+872,189,he,צרפתים,צרפתים,7,8,מסור קוף סלפי מחלוקת ויקימדיה הפך חדשות,isolated_word_fallback_span_out_of_range
+873,190,he,תיירים,תיירים,0,1,נוף נוצר נוצר תצלום שלו זכות יוצרים,pseudo_sentence_word_context
+874,190,he,צריך,צריך,1,2,נוף נוצר נוצר תצלום שלו זכות יוצרים,pseudo_sentence_word_context
+875,190,he,לתבוע,לתבוע,2,3,נוף נוצר נוצר תצלום שלו זכות יוצרים,pseudo_sentence_word_context
+876,190,he,ארגון,ארגון,3,4,נוף נוצר נוצר תצלום שלו זכות יוצרים,pseudo_sentence_word_context
+877,190,he,מקרה,מקרה,4,5,נוף נוצר נוצר תצלום שלו זכות יוצרים,pseudo_sentence_word_context
+878,190,he,נשמע,נשמע,5,6,נוף נוצר נוצר תצלום שלו זכות יוצרים,pseudo_sentence_word_context
+879,190,he,בית משפט פדרלי,בית | משפט | פדרלי,6,9,נוף נוצר נוצר תצלום שלו זכות יוצרים,isolated_word_fallback_span_out_of_range
+880,191,he,סן פרנסיסקו,סן | פרנסיסקו,0,2,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,pseudo_sentence_word_context
+881,191,he,דיבר,דיבר,2,3,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,pseudo_sentence_word_context
+882,191,he,עורכי דין,עורכי | דין,3,5,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,pseudo_sentence_word_context
+883,191,he,אנגליה,אנגליה,5,6,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,pseudo_sentence_word_context
+884,191,he,סיפר,סיפר,6,7,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,pseudo_sentence_word_context
+885,191,he,נחוץ,נחוץ,7,8,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,pseudo_sentence_word_context
+886,191,he,לשכור,לשכור,8,9,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,pseudo_sentence_word_context
+887,191,he,עורך דין,עורך | דין,9,11,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,pseudo_sentence_word_context
+888,191,he,מאבק,מאבק,11,12,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,isolated_word_fallback_span_out_of_range
+889,191,he,מומלץ,מומלץ,12,13,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,isolated_word_fallback_span_out_of_range
+890,191,he,שיחה,שיחה,13,14,מסור מחלוקת צלם רוצה לתבוע ויקימדיה ויקימדיה טוען תצלום נחלת הכלל,isolated_word_fallback_span_out_of_range
+891,192,he,עורכי דין,עורכי | דין,0,2,עומד קוף,pseudo_sentence_word_context
+892,192,he,צורך,צורך,2,3,עומד קוף,isolated_word_fallback_span_out_of_range
+893,193,he,עשה,עשה,0,1,חוק,pseudo_sentence_word_context
+894,194,he,צורך,צורך,0,1,טענה לפנות קורה נולד אנושי,pseudo_sentence_word_context
+895,194,he,לעקוב,לעקוב,1,2,טענה לפנות קורה נולד אנושי,pseudo_sentence_word_context
+896,194,he,הזדמנות,הזדמנות,2,3,טענה לפנות קורה נולד אנושי,pseudo_sentence_word_context
+897,194,he,הזדמנות,הזדמנות,3,4,טענה לפנות קורה נולד אנושי,pseudo_sentence_word_context
+898,194,he,הולך,הולך,4,5,טענה לפנות קורה נולד אנושי,pseudo_sentence_word_context
+899,195,he,קופים,קופים,0,1,קוף לא חשבתי גדול,pseudo_sentence_word_context
+900,195,he,דרך,דרך,1,2,קוף לא חשבתי גדול,pseudo_sentence_word_context
+901,195,he,לא,לא,2,3,קוף לא חשבתי גדול,pseudo_sentence_word_context
+902,195,he,אתגר,אתגר,3,4,קוף לא חשבתי גדול,pseudo_sentence_word_context
+903,196,he,קוף,קוף,0,1,מצלמה ידיים,pseudo_sentence_word_context
+904,196,he,לנצח,לנצח,1,2,מצלמה ידיים,pseudo_sentence_word_context
+905,197,he,בית משפט,בית | משפט,0,2,הולך לצלם זוג מסגרות לעדכן פרופיל לדעת,pseudo_sentence_word_context
+906,197,he,קליפורניה,קליפורניה,2,3,הולך לצלם זוג מסגרות לעדכן פרופיל לדעת,pseudo_sentence_word_context
+907,197,he,דעה,דעה,3,4,הולך לצלם זוג מסגרות לעדכן פרופיל לדעת,pseudo_sentence_word_context
+908,197,he,לקרות,לקרות,4,5,הולך לצלם זוג מסגרות לעדכן פרופיל לדעת,pseudo_sentence_word_context
+909,197,he,לא יודע,לא | יודע,5,7,הולך לצלם זוג מסגרות לעדכן פרופיל לדעת,pseudo_sentence_word_context
+910,197,he,נכון,נכון,7,8,הולך לצלם זוג מסגרות לעדכן פרופיל לדעת,isolated_word_fallback_span_out_of_range
+911,197,he,סיפר,סיפר,8,9,הולך לצלם זוג מסגרות לעדכן פרופיל לדעת,isolated_word_fallback_span_out_of_range
+912,198,he,ליטול,ליטול,0,1,קופים חשיבה לקיחה תצלום,pseudo_sentence_word_context
+913,198,he,להסתכן,להסתכן,1,2,קופים חשיבה לקיחה תצלום,pseudo_sentence_word_context
+914,198,he,קליפורניה,קליפורניה,2,3,קופים חשיבה לקיחה תצלום,pseudo_sentence_word_context
+915,198,he,כמובן,כמובן,3,4,קופים חשיבה לקיחה תצלום,pseudo_sentence_word_context
+916,199,he,נכון,נכון,0,1,מחויב חוק זכויות יוצרים,pseudo_sentence_word_context
+917,199,he,שכר,שכר,1,2,מחויב חוק זכויות יוצרים,pseudo_sentence_word_context
+918,199,he,ליצג,ליצג,2,3,מחויב חוק זכויות יוצרים,pseudo_sentence_word_context
+919,199,he,לעשות,לעשות,3,4,מחויב חוק זכויות יוצרים,pseudo_sentence_word_context
+920,200,he,לזכור,לזכור,0,1,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,pseudo_sentence_word_context
+921,200,he,נשמע,נשמע,1,2,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,pseudo_sentence_word_context
+922,200,he,מקרה,מקרה,2,3,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,pseudo_sentence_word_context
+923,200,he,שיחה,שיחה,3,4,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,pseudo_sentence_word_context
+924,200,he,נשמע,נשמע,4,5,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,pseudo_sentence_word_context
+925,200,he,לקרוא,לקרוא,5,6,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,pseudo_sentence_word_context
+926,200,he,אל תעשה,אל | תעשה,6,8,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,pseudo_sentence_word_context
+927,200,he,לזכור,לזכור,8,9,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,pseudo_sentence_word_context
+928,200,he,לקרוא,לקרוא,9,10,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,pseudo_sentence_word_context
+929,200,he,נרגש,נרגש,10,11,מחויב חוק זכויות יוצרים מספק מחבר יוצר תמונה רשאי שלו,isolated_word_fallback_span_out_of_range
+930,201,he,מסור,מסור,0,1,לא לומר מחבר לדעת הכנה תצלום,pseudo_sentence_word_context
+931,201,he,מתויק,מתויק,1,2,לא לומר מחבר לדעת הכנה תצלום,pseudo_sentence_word_context
+932,201,he,סן פרנסיסקו,סן | פרנסיסקו,2,4,לא לומר מחבר לדעת הכנה תצלום,pseudo_sentence_word_context
+933,201,he,בית משפט פדרלי,בית | משפט | פדרלי,4,7,לא לומר מחבר לדעת הכנה תצלום,isolated_word_fallback_span_out_of_range
+934,201,he,לגרום,לגרום,7,8,לא לומר מחבר לדעת הכנה תצלום,isolated_word_fallback_span_out_of_range
+935,201,he,ברקלי,ברקלי,8,9,לא לומר מחבר לדעת הכנה תצלום,isolated_word_fallback_span_out_of_range
+936,202,he,חשבתי,חשבתי,0,1,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+937,202,he,מושלם,מושלם,1,2,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+938,202,he,מקרה,מקרה,2,3,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+939,202,he,קניין רוחני,קניין | רוחני,3,5,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+940,202,he,עורך דין,עורך | דין,5,7,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+941,202,he,עבודות,עבודות,7,8,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+942,202,he,לקרוא,לקרוא,8,9,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+943,202,he,מקרה,מקרה,9,10,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+944,202,he,הגיע,הגיע,10,11,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+945,202,he,לשאול,לשאול,11,12,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,pseudo_sentence_word_context
+946,202,he,ליטול,ליטול,12,13,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,isolated_word_fallback_span_out_of_range
+947,202,he,לחשוב,לחשוב,13,14,נותן מצלמה שואל לצלם תצלום לארגן לצלם תצלום נסיבות שלו זכות יוצרים,isolated_word_fallback_span_out_of_range
+948,203,he,מושלם,מושלם,0,1,צרפתים תיירים צריך לתבוע,pseudo_sentence_word_context
+949,203,he,מקרה,מקרה,1,2,צרפתים תיירים צריך לתבוע,pseudo_sentence_word_context
+950,203,he,חושב,חושב,2,3,צרפתים תיירים צריך לתבוע,pseudo_sentence_word_context
+951,203,he,יודע,יודע,3,4,צרפתים תיירים צריך לתבוע,pseudo_sentence_word_context
+952,204,he,מקרה,מקרה,0,1,ארגון,pseudo_sentence_word_context
+953,205,he,יודע,יודע,0,1,מקרה נשמע בית משפט פדרלי סן פרנסיסקו,pseudo_sentence_word_context
+954,205,he,הכנה,הכנה,1,2,מקרה נשמע בית משפט פדרלי סן פרנסיסקו,pseudo_sentence_word_context
+955,205,he,קוף,קוף,2,3,מקרה נשמע בית משפט פדרלי סן פרנסיסקו,pseudo_sentence_word_context
+956,205,he,משחקי מילים,משחקי | מילים,3,5,מקרה נשמע בית משפט פדרלי סן פרנסיסקו,pseudo_sentence_word_context
+957,205,he,דברים,דברים,5,6,מקרה נשמע בית משפט פדרלי סן פרנסיסקו,pseudo_sentence_word_context
+958,205,he,מחשבה,מחשבה,6,7,מקרה נשמע בית משפט פדרלי סן פרנסיסקו,pseudo_sentence_word_context
+959,205,he,לא יודע,לא | יודע,7,9,מקרה נשמע בית משפט פדרלי סן פרנסיסקו,isolated_word_fallback_span_out_of_range
+960,206,he,ראה,ראה,0,1,דיבר עורכי דין אנגליה,pseudo_sentence_word_context
+961,206,he,לינקדאין,לינקדאין,1,2,דיבר עורכי דין אנגליה,pseudo_sentence_word_context
+962,206,he,פרופיל,פרופיל,2,3,דיבר עורכי דין אנגליה,pseudo_sentence_word_context
+963,206,he,צ'יפנדיילס,צ'יפנדיילס,3,4,דיבר עורכי דין אנגליה,pseudo_sentence_word_context
+964,207,he,תלבושת,תלבושת,0,1,סיפר נחוץ לשכור עורך דין מאבק,pseudo_sentence_word_context
+965,207,he,לינקדאין,לינקדאין,1,2,סיפר נחוץ לשכור עורך דין מאבק,pseudo_sentence_word_context
+966,207,he,תמונה,תמונה,2,3,סיפר נחוץ לשכור עורך דין מאבק,pseudo_sentence_word_context
+967,207,he,בחר,בחר,3,4,סיפר נחוץ לשכור עורך דין מאבק,pseudo_sentence_word_context
+968,207,he,בעיטה,בעיטה,4,5,סיפר נחוץ לשכור עורך דין מאבק,pseudo_sentence_word_context
+969,207,he,לבישה,לבישה,5,6,סיפר נחוץ לשכור עורך דין מאבק,pseudo_sentence_word_context
+970,208,he,משקפים,משקפים,0,1,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+971,208,he,קשת,קשת,1,2,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+972,208,he,עניבה,עניבה,2,3,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+973,208,he,שנים,שנים,3,4,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+974,208,he,מתאמן,מתאמן,4,5,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+975,208,he,שנים,שנים,5,6,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+976,208,he,מסוגל,מסוגל,6,7,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+977,208,he,מתויק,מתויק,7,8,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+978,208,he,בית משפט,בית | משפט,8,10,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+979,208,he,מקרה,מקרה,10,11,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+980,208,he,אמר,אמר,11,12,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+981,208,he,אמיתי,אמיתי,12,13,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+982,208,he,קניין רוחני,קניין | רוחני,13,15,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,pseudo_sentence_word_context
+983,208,he,עורך דין,עורך | דין,15,17,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,isolated_word_fallback_span_out_of_range
+984,208,he,מוגן,מוגן,17,18,מומלץ שיחה עורכי דין צורך עשה צורך לעקוב הזדמנות הזדמנות הולך קופים דרך לא אתגר,isolated_word_fallback_span_out_of_range
+985,209,he,צעצוע,צעצוע,0,1,קוף לנצח,pseudo_sentence_word_context
+986,209,he,חברה,חברה,1,2,קוף לנצח,pseudo_sentence_word_context
+987,210,he,ניצח,ניצח,0,1,,isolated_word_fallback_span_out_of_range
+988,211,he,חשוב,חשוב,0,1,בית משפט קליפורניה,pseudo_sentence_word_context
+989,211,he,מקרה,מקרה,1,2,בית משפט קליפורניה,pseudo_sentence_word_context
+990,211,he,מקרה,מקרה,2,3,בית משפט קליפורניה,pseudo_sentence_word_context
+991,212,he,בננה,בננה,0,1,דעה לקרות,pseudo_sentence_word_context
+992,212,he,בעיה,בעיה,1,2,דעה לקרות,pseudo_sentence_word_context
+993,213,he,ענה,ענה,0,1,לא יודע נכון,pseudo_sentence_word_context
+994,213,he,תלונה,תלונה,1,2,לא יודע נכון,pseudo_sentence_word_context
+995,213,he,תנועה,תנועה,2,3,לא יודע נכון,pseudo_sentence_word_context
+996,214,he,לדחות,לדחות,0,1,סיפר ליטול להסתכן,pseudo_sentence_word_context
+997,214,he,מקרה,מקרה,1,2,סיפר ליטול להסתכן,pseudo_sentence_word_context
+998,214,he,קופים,קופים,2,3,סיפר ליטול להסתכן,pseudo_sentence_word_context
+999,215,he,אמר,אמר,0,1,כמובן,pseudo_sentence_word_context
+1000,216,he,עומד,עומד,0,1,קליפורניה,pseudo_sentence_word_context
+1001,217,he,לתבוע,לתבוע,0,1,,isolated_word_fallback_span_out_of_range
+1002,218,he,בית משפט פדרלי,בית | משפט | פדרלי,0,3,נכון,isolated_word_fallback_span_out_of_range
+1003,219,he,טענה,טענה,0,1,שכר ליצג,pseudo_sentence_word_context
+1004,219,he,מבוסס,מבוסס,1,2,שכר ליצג,pseudo_sentence_word_context
+1005,220,he,תקדים,תקדים,0,1,לעשות לזכור נשמע מקרה,pseudo_sentence_word_context
+1006,220,he,מערכת,מערכת,1,2,לעשות לזכור נשמע מקרה,pseudo_sentence_word_context
+1007,220,he,מקרה,מקרה,2,3,לעשות לזכור נשמע מקרה,pseudo_sentence_word_context
+1008,220,he,נקרא,נקרא,3,4,לעשות לזכור נשמע מקרה,pseudo_sentence_word_context
+1009,221,he,קהילה,קהילה,0,1,שיחה,pseudo_sentence_word_context
+1010,222,he,עולמות,עולמות,0,1,נשמע,pseudo_sentence_word_context
+1011,223,he,לווייתנים,לווייתנים,0,1,לקרוא,pseudo_sentence_word_context
+1012,224,he,דולפינים,דולפינים,0,1,אל תעשה לזכור לקרוא,pseudo_sentence_word_context
+1013,224,he,דולפינים,דולפינים,1,2,אל תעשה לזכור לקרוא,pseudo_sentence_word_context
+1014,224,he,תבע,תבע,2,3,אל תעשה לזכור לקרוא,pseudo_sentence_word_context
+1015,224,he,נשיא,נשיא,3,4,אל תעשה לזכור לקרוא,pseudo_sentence_word_context
+1016,225,he,עולמות,עולמות,0,1,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,pseudo_sentence_word_context
+1017,225,he,לווייתנים,לווייתנים,1,2,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,pseudo_sentence_word_context
+1018,225,he,דולפינים,דולפינים,2,3,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,pseudo_sentence_word_context
+1019,225,he,דולפינים,דולפינים,3,4,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,pseudo_sentence_word_context
+1020,225,he,טען,טען,4,5,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,pseudo_sentence_word_context
+1021,225,he,צבאות,צבאות,5,6,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,pseudo_sentence_word_context
+1022,225,he,להשתמש,להשתמש,6,7,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,pseudo_sentence_word_context
+1023,225,he,תת ימי,תת | ימי,7,9,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,pseudo_sentence_word_context
+1024,225,he,פוגע,פוגע,9,10,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,pseudo_sentence_word_context
+1025,225,he,משתנה,משתנה,10,11,נרגש מסור מתויק סן פרנסיסקו בית משפט פדרלי לגרום ברקלי,isolated_word_fallback_span_out_of_range
+1026,226,he,טבעי,טבעי,0,1,חשבתי מושלם מקרה,pseudo_sentence_word_context
+1027,226,he,התנהגויות,התנהגויות,1,2,חשבתי מושלם מקרה,pseudo_sentence_word_context
+1028,226,he,אכילה,אכילה,2,3,חשבתי מושלם מקרה,pseudo_sentence_word_context
+1029,227,he,הזדווגות,הזדווגות,0,1,קניין רוחני עורך דין,pseudo_sentence_word_context
+1030,227,he,בקול רם,בקול | רם,1,3,קניין רוחני עורך דין,pseudo_sentence_word_context
+1031,227,he,גל קול,גל | קול,3,5,קניין רוחני עורך דין,isolated_word_fallback_span_out_of_range
+1032,227,he,יונקים ימיים,יונקים | ימיים,5,7,קניין רוחני עורך דין,isolated_word_fallback_span_out_of_range
+1033,228,he,מדעי,מדעי,0,1,עבודות,pseudo_sentence_word_context
+1034,229,he,מלה,מלה,0,1,לקרוא מקרה הגיע לשאול ליטול,pseudo_sentence_word_context
+1035,229,he,קטגוריה,קטגוריה,1,2,לקרוא מקרה הגיע לשאול ליטול,pseudo_sentence_word_context
+1036,229,he,יונק,יונק,2,3,לקרוא מקרה הגיע לשאול ליטול,pseudo_sentence_word_context
+1037,229,he,יונקים ימיים,יונקים | ימיים,3,5,לקרוא מקרה הגיע לשאול ליטול,pseudo_sentence_word_context
+1038,229,he,לשמוע,לשמוע,5,6,לקרוא מקרה הגיע לשאול ליטול,isolated_word_fallback_span_out_of_range
+1039,230,he,חוף,חוף,0,1,לחשוב מושלם מקרה,pseudo_sentence_word_context
+1040,230,he,מקרה,מקרה,1,2,לחשוב מושלם מקרה,pseudo_sentence_word_context
+1041,230,he,בית משפט,בית | משפט,2,4,לחשוב מושלם מקרה,isolated_word_fallback_span_out_of_range
+1042,231,he,ערעורים,ערעורים,0,1,חושב יודע מקרה יודע הכנה קוף משחקי מילים דברים,pseudo_sentence_word_context
+1043,231,he,החליט,החליט,1,2,חושב יודע מקרה יודע הכנה קוף משחקי מילים דברים,pseudo_sentence_word_context
+1044,231,he,מדינות,מדינות,2,3,חושב יודע מקרה יודע הכנה קוף משחקי מילים דברים,pseudo_sentence_word_context
+1045,231,he,בעלי חיים,בעלי | חיים,3,5,חושב יודע מקרה יודע הכנה קוף משחקי מילים דברים,pseudo_sentence_word_context
+1046,231,he,עומד,עומד,5,6,חושב יודע מקרה יודע הכנה קוף משחקי מילים דברים,pseudo_sentence_word_context
+1047,231,he,לתבוע,לתבוע,6,7,חושב יודע מקרה יודע הכנה קוף משחקי מילים דברים,pseudo_sentence_word_context
+1048,231,he,בית משפט פדרלי,בית | משפט | פדרלי,7,10,חושב יודע מקרה יודע הכנה קוף משחקי מילים דברים,isolated_word_fallback_span_out_of_range
+1049,231,he,מקרה,מקרה,10,11,חושב יודע מקרה יודע הכנה קוף משחקי מילים דברים,isolated_word_fallback_span_out_of_range
+1050,231,he,מחודד,מחודד,11,12,חושב יודע מקרה יודע הכנה קוף משחקי מילים דברים,isolated_word_fallback_span_out_of_range
+1051,232,he,הגנה,הגנה,0,1,מחשבה,pseudo_sentence_word_context
+1052,233,he,נשכר,נשכר,0,1,,isolated_word_fallback_span_out_of_range
+1053,234,he,עורך דין,עורך | דין,0,2,לא יודע ראה לינקדאין פרופיל,pseudo_sentence_word_context
+1054,234,he,ליצג,ליצג,2,3,לא יודע ראה לינקדאין פרופיל,pseudo_sentence_word_context
+1055,234,he,קוף,קוף,3,4,לא יודע ראה לינקדאין פרופיל,pseudo_sentence_word_context
+1056,234,he,בית משפט,בית | משפט,4,6,לא יודע ראה לינקדאין פרופיל,isolated_word_fallback_span_out_of_range
+1057,234,he,בחור,בחור,6,7,לא יודע ראה לינקדאין פרופיל,isolated_word_fallback_span_out_of_range
+1058,235,he,שם,שם,0,1,צ'יפנדיילס תלבושת,pseudo_sentence_word_context
+1059,235,he,בחור,בחור,1,2,צ'יפנדיילס תלבושת,pseudo_sentence_word_context
+1060,236,he,מגיע,מגיע,0,1,לינקדאין תמונה בחר בעיטה לבישה משקפים קשת עניבה,pseudo_sentence_word_context
+1061,236,he,משרד עורכי דין,משרד | עורכי | דין,1,4,לינקדאין תמונה בחר בעיטה לבישה משקפים קשת עניבה,pseudo_sentence_word_context
+1062,236,he,לוס אנג'לס,לוס | אנג'לס,4,6,לינקדאין תמונה בחר בעיטה לבישה משקפים קשת עניבה,pseudo_sentence_word_context
+1063,236,he,ידוע,ידוע,6,7,לינקדאין תמונה בחר בעיטה לבישה משקפים קשת עניבה,pseudo_sentence_word_context
+1064,236,he,קניין רוחני,קניין | רוחני,7,9,לינקדאין תמונה בחר בעיטה לבישה משקפים קשת עניבה,isolated_word_fallback_span_out_of_range
+1065,236,he,חוק,חוק,9,10,לינקדאין תמונה בחר בעיטה לבישה משקפים קשת עניבה,isolated_word_fallback_span_out_of_range
+1066,236,he,מקרה,מקרה,10,11,לינקדאין תמונה בחר בעיטה לבישה משקפים קשת עניבה,isolated_word_fallback_span_out_of_range
+1067,236,he,קניין רוחני,קניין | רוחני,11,13,לינקדאין תמונה בחר בעיטה לבישה משקפים קשת עניבה,isolated_word_fallback_span_out_of_range
+1068,237,he,טענה,טענה,0,1,שנים מתאמן שנים מסוגל מתויק בית משפט,pseudo_sentence_word_context
+1069,237,he,משפטי,משפטי,1,2,שנים מתאמן שנים מסוגל מתויק בית משפט,pseudo_sentence_word_context
+1070,237,he,זכות יוצרים,זכות | יוצרים,2,4,שנים מתאמן שנים מסוגל מתויק בית משפט,pseudo_sentence_word_context
+1071,237,he,יצר,יצר,4,5,שנים מתאמן שנים מסוגל מתויק בית משפט,pseudo_sentence_word_context
+1072,237,he,תצלום,תצלום,5,6,שנים מתאמן שנים מסוגל מתויק בית משפט,pseudo_sentence_word_context
+1073,237,he,ראה,ראה,6,7,שנים מתאמן שנים מסוגל מתויק בית משפט,pseudo_sentence_word_context
+1074,237,he,מקרה,מקרה,7,8,שנים מתאמן שנים מסוגל מתויק בית משפט,isolated_word_fallback_span_out_of_range
+1075,238,he,הזדמנות,הזדמנות,0,1,מקרה,pseudo_sentence_word_context
+1076,239,he,להזיז,להזיז,0,1,אמר אמיתי קניין רוחני עורך דין,pseudo_sentence_word_context
+1077,239,he,חוק,חוק,1,2,אמר אמיתי קניין רוחני עורך דין,pseudo_sentence_word_context
+1078,239,he,מערכת,מערכת,2,3,אמר אמיתי קניין רוחני עורך דין,pseudo_sentence_word_context
+1079,239,he,תקדים,תקדים,3,4,אמר אמיתי קניין רוחני עורך דין,pseudo_sentence_word_context
+1080,239,he,לא הסכים,לא | הסכים,4,6,אמר אמיתי קניין רוחני עורך דין,pseudo_sentence_word_context
+1081,239,he,פסק דין,פסק | דין,6,8,אמר אמיתי קניין רוחני עורך דין,isolated_word_fallback_span_out_of_range
+1082,240,he,מקרה,מקרה,0,1,מוגן צעצוע חברה ניצח חשוב מקרה,pseudo_sentence_word_context
+1083,240,he,מאמינים,מאמינים,1,2,מוגן צעצוע חברה ניצח חשוב מקרה,pseudo_sentence_word_context
+1084,240,he,בעלי חיים,בעלי | חיים,2,4,מוגן צעצוע חברה ניצח חשוב מקרה,pseudo_sentence_word_context
+1085,240,he,בית משפט,בית | משפט,4,6,מוגן צעצוע חברה ניצח חשוב מקרה,pseudo_sentence_word_context
+1086,240,he,יעוד,יעוד,6,7,מוגן צעצוע חברה ניצח חשוב מקרה,isolated_word_fallback_span_out_of_range
+1087,240,he,אזרחי,אזרחי,7,8,מוגן צעצוע חברה ניצח חשוב מקרה,isolated_word_fallback_span_out_of_range
+1088,241,he,חומר,חומר,0,1,מקרה בננה בעיה,pseudo_sentence_word_context
+1089,241,he,לזנק,לזנק,1,2,מקרה בננה בעיה,pseudo_sentence_word_context
+1090,241,he,עורך דין,עורך | דין,2,4,מקרה בננה בעיה,isolated_word_fallback_span_out_of_range
+1091,242,he,לבוא,לבוא,0,1,ענה תלונה תנועה לדחות מקרה,pseudo_sentence_word_context
+1092,242,he,מדינה,מדינה,1,2,ענה תלונה תנועה לדחות מקרה,pseudo_sentence_word_context
+1093,242,he,הופעה,הופעה,2,3,ענה תלונה תנועה לדחות מקרה,pseudo_sentence_word_context
+1094,242,he,טוב,טוב,3,4,ענה תלונה תנועה לדחות מקרה,pseudo_sentence_word_context
+1095,242,he,צהריים,צהריים,4,5,ענה תלונה תנועה לדחות מקרה,pseudo_sentence_word_context
+1096,243,he,הקלטה,הקלטה,0,1,קופים אמר עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1097,243,he,שמיעה,שמיעה,1,2,קופים אמר עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1098,243,he,בית משפט פדרלי,בית | משפט | פדרלי,2,5,קופים אמר עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1099,243,he,סן פרנסיסקו,סן | פרנסיסקו,5,7,קופים אמר עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1100,243,he,בלתי צפוי,בלתי | צפוי,7,9,קופים אמר עומד לתבוע בית משפט פדרלי,isolated_word_fallback_span_out_of_range
+1101,243,he,לשפוט,לשפוט,9,10,קופים אמר עומד לתבוע בית משפט פדרלי,isolated_word_fallback_span_out_of_range
+1102,243,he,שאל,שאל,10,11,קופים אמר עומד לתבוע בית משפט פדרלי,isolated_word_fallback_span_out_of_range
+1103,244,he,דוגמה,דוגמה,0,1,טענה מבוסס תקדים מערכת מקרה נקרא קהילה,pseudo_sentence_word_context
+1104,244,he,חיה,חיה,1,2,טענה מבוסס תקדים מערכת מקרה נקרא קהילה,pseudo_sentence_word_context
+1105,244,he,מוענק,מוענק,2,3,טענה מבוסס תקדים מערכת מקרה נקרא קהילה,pseudo_sentence_word_context
+1106,244,he,זכות יוצרים,זכות | יוצרים,3,5,טענה מבוסס תקדים מערכת מקרה נקרא קהילה,pseudo_sentence_word_context
+1107,244,he,עצום,עצום,5,6,טענה מבוסס תקדים מערכת מקרה נקרא קהילה,pseudo_sentence_word_context
+1108,244,he,היסטוריה,היסטוריה,6,7,טענה מבוסס תקדים מערכת מקרה נקרא קהילה,pseudo_sentence_word_context
+1109,244,he,המשפט המקובל,המשפט | המקובל,7,9,טענה מבוסס תקדים מערכת מקרה נקרא קהילה,isolated_word_fallback_span_out_of_range
+1110,245,he,חוק זכויות יוצרים,חוק | זכויות | יוצרים,0,3,עולמות לווייתנים דולפינים דולפינים תבע נשיא,pseudo_sentence_word_context
+1111,245,he,דוגמה,דוגמה,3,4,עולמות לווייתנים דולפינים דולפינים תבע נשיא,pseudo_sentence_word_context
+1112,245,he,חיה,חיה,4,5,עולמות לווייתנים דולפינים דולפינים תבע נשיא,pseudo_sentence_word_context
+1113,245,he,מוענק,מוענק,5,6,עולמות לווייתנים דולפינים דולפינים תבע נשיא,pseudo_sentence_word_context
+1114,245,he,זכות יוצרים,זכות | יוצרים,6,8,עולמות לווייתנים דולפינים דולפינים תבע נשיא,isolated_word_fallback_span_out_of_range
+1115,245,he,דוגמה,דוגמה,8,9,עולמות לווייתנים דולפינים דולפינים תבע נשיא,isolated_word_fallback_span_out_of_range
+1116,246,he,חיה,חיה,0,1,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1117,246,he,מוענק,מוענק,1,2,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1118,246,he,זכות יוצרים,זכות | יוצרים,2,4,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1119,246,he,לעשות,לעשות,4,5,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1120,246,he,טיעון נגדי,טיעון | נגדי,5,7,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1121,246,he,אחר,אחר,7,8,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1122,246,he,בני אדם,בני | אדם,8,10,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1123,246,he,נדחתה,נדחתה,10,11,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1124,246,he,הגנה,הגנה,11,12,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1125,246,he,חוק,חוק,12,13,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1126,246,he,עקב,עקב,13,14,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1127,246,he,צבע,צבע,14,15,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,pseudo_sentence_word_context
+1128,246,he,עור,עור,15,16,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,isolated_word_fallback_span_out_of_range
+1129,246,he,לראות,לראות,16,17,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,isolated_word_fallback_span_out_of_range
+1130,246,he,סתירה,סתירה,17,18,עולמות לווייתנים דולפינים דולפינים טען צבאות להשתמש תת ימי פוגע משתנה טבעי התנהגויות אכילה הזדווגות,isolated_word_fallback_span_out_of_range
+1131,247,he,פירוש,פירוש,0,1,בקול רם גל קול,pseudo_sentence_word_context
+1132,247,he,לראות,לראות,1,2,בקול רם גל קול,pseudo_sentence_word_context
+1133,247,he,בעיה,בעיה,2,3,בקול רם גל קול,pseudo_sentence_word_context
+1134,247,he,ימים,ימים,3,4,בקול רם גל קול,pseudo_sentence_word_context
+1135,248,he,מבט,מבט,0,1,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,pseudo_sentence_word_context
+1136,248,he,יסודות,יסודות,1,2,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,pseudo_sentence_word_context
+1137,248,he,מתיחה,מתיחה,2,3,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,pseudo_sentence_word_context
+1138,248,he,הפסקה,הפסקה,3,4,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,pseudo_sentence_word_context
+1139,248,he,רגע,רגע,4,5,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,pseudo_sentence_word_context
+1140,248,he,ענה,ענה,5,6,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,pseudo_sentence_word_context
+1141,248,he,השוואה,השוואה,6,7,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,pseudo_sentence_word_context
+1142,248,he,קופים,קופים,7,8,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,pseudo_sentence_word_context
+1143,248,he,חוסר,חוסר,8,9,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,pseudo_sentence_word_context
+1144,248,he,זכות יוצרים,זכות | יוצרים,9,11,יונקים ימיים מדעי מלה קטגוריה יונק יונקים ימיים לשמוע חוף,isolated_word_fallback_span_out_of_range
+1145,249,he,עבדות מיטלטלין,עבדות | מיטלטלין,0,2,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1146,249,he,התקפי,התקפי,2,3,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1147,249,he,נראה,נראה,3,4,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1148,249,he,לסמא,לסמא,4,5,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1149,249,he,גזען,גזען,5,6,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1150,249,he,היסטוריה,היסטוריה,6,7,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1151,249,he,השוואה,השוואה,7,8,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1152,249,he,אנשים שחורים,אנשים | שחורים,8,10,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1153,249,he,קופים,קופים,10,11,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1154,249,he,נראה,נראה,11,12,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,pseudo_sentence_word_context
+1155,249,he,לא נוח,לא | נוח,12,14,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,isolated_word_fallback_span_out_of_range
+1156,249,he,פתגם,פתגם,14,15,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,isolated_word_fallback_span_out_of_range
+1157,249,he,מכחיש,מכחיש,15,16,מקרה בית משפט ערעורים החליט מדינות בעלי חיים עומד לתבוע בית משפט פדרלי,isolated_word_fallback_span_out_of_range
+1158,250,he,קוף,קוף,0,1,מקרה מחודד הגנה,pseudo_sentence_word_context
+1159,250,he,נכס משלו,נכס | משלו,1,3,מקרה מחודד הגנה,pseudo_sentence_word_context
+1160,250,he,אותו הדבר,אותו | הדבר,3,5,מקרה מחודד הגנה,isolated_word_fallback_span_out_of_range
+1161,251,he,מכחיש,מכחיש,0,1,נשכר עורך דין ליצג קוף בית משפט בחור שם,pseudo_sentence_word_context
+1162,251,he,בני אדם,בני | אדם,1,3,נשכר עורך דין ליצג קוף בית משפט בחור שם,pseudo_sentence_word_context
+1163,251,he,נכס משלו,נכס | משלו,3,5,נשכר עורך דין ליצג קוף בית משפט בחור שם,pseudo_sentence_word_context
+1164,251,he,צבע,צבע,5,6,נשכר עורך דין ליצג קוף בית משפט בחור שם,pseudo_sentence_word_context
+1165,251,he,עור,עור,6,7,נשכר עורך דין ליצג קוף בית משפט בחור שם,pseudo_sentence_word_context
+1166,251,he,למתוח,למתוח,7,8,נשכר עורך דין ליצג קוף בית משפט בחור שם,pseudo_sentence_word_context
+1167,251,he,חנינה,חנינה,8,9,נשכר עורך דין ליצג קוף בית משפט בחור שם,pseudo_sentence_word_context
+1168,251,he,למתוח,למתוח,9,10,נשכר עורך דין ליצג קוף בית משפט בחור שם,isolated_word_fallback_span_out_of_range
+1169,251,he,ללכת,ללכת,10,11,נשכר עורך דין ליצג קוף בית משפט בחור שם,isolated_word_fallback_span_out_of_range
+1170,252,he,לעשות,לעשות,0,1,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1171,252,he,מרכז,מרכז,1,2,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1172,252,he,טענה,טענה,2,3,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1173,252,he,היום,היום,3,4,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1174,252,he,הוגן,הוגן,4,5,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1175,252,he,לומר,לומר,5,6,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1176,252,he,אימוץ,אימוץ,6,7,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1177,252,he,ארבעה עשר,ארבעה | עשר,7,9,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1178,252,he,תקון,תקון,9,10,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1179,252,he,מושגים,מושגים,10,11,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,pseudo_sentence_word_context
+1180,252,he,בעלות נכס,בעלות | נכס,11,13,בחור מגיע משרד עורכי דין לוס אנג'לס ידוע קניין רוחני חוק,isolated_word_fallback_span_out_of_range
+1181,253,he,אזור,אזור,0,1,מקרה קניין רוחני טענה משפטי זכות יוצרים יצר תצלום,pseudo_sentence_word_context
+1182,253,he,פטנטים,פטנטים,1,2,מקרה קניין רוחני טענה משפטי זכות יוצרים יצר תצלום,pseudo_sentence_word_context
+1183,253,he,יכולת,יכולת,2,3,מקרה קניין רוחני טענה משפטי זכות יוצרים יצר תצלום,pseudo_sentence_word_context
+1184,253,he,עבד,עבד,3,4,מקרה קניין רוחני טענה משפטי זכות יוצרים יצר תצלום,pseudo_sentence_word_context
+1185,253,he,תביעה,תביעה,4,5,מקרה קניין רוחני טענה משפטי זכות יוצרים יצר תצלום,pseudo_sentence_word_context
+1186,253,he,בעלות,בעלות,5,6,מקרה קניין רוחני טענה משפטי זכות יוצרים יצר תצלום,pseudo_sentence_word_context
+1187,253,he,פטנט,פטנט,6,7,מקרה קניין רוחני טענה משפטי זכות יוצרים יצר תצלום,pseudo_sentence_word_context
+1188,253,he,הולך,הולך,7,8,מקרה קניין רוחני טענה משפטי זכות יוצרים יצר תצלום,pseudo_sentence_word_context
+1189,253,he,רואה,רואה,8,9,מקרה קניין רוחני טענה משפטי זכות יוצרים יצר תצלום,pseudo_sentence_word_context
+1190,254,he,קוף,קוף,0,1,ראה מקרה הזדמנות להזיז חוק מערכת תקדים,pseudo_sentence_word_context
+1191,254,he,סלפי,סלפי,1,2,ראה מקרה הזדמנות להזיז חוק מערכת תקדים,pseudo_sentence_word_context
+1192,254,he,מקרה,מקרה,2,3,ראה מקרה הזדמנות להזיז חוק מערכת תקדים,pseudo_sentence_word_context
+1193,254,he,הקשר,הקשר,3,4,ראה מקרה הזדמנות להזיז חוק מערכת תקדים,pseudo_sentence_word_context
+1194,254,he,גדול יותר,גדול | יותר,4,6,ראה מקרה הזדמנות להזיז חוק מערכת תקדים,pseudo_sentence_word_context
+1195,254,he,סוף המשחק,סוף | המשחק,6,8,ראה מקרה הזדמנות להזיז חוק מערכת תקדים,isolated_word_fallback_span_out_of_range
+1196,254,he,בית משפט,בית | משפט,8,10,ראה מקרה הזדמנות להזיז חוק מערכת תקדים,isolated_word_fallback_span_out_of_range
+1197,255,he,להסכים,להסכים,0,1,לא הסכים פסק דין מקרה,pseudo_sentence_word_context
+1198,255,he,מכחיש,מכחיש,1,2,לא הסכים פסק דין מקרה,pseudo_sentence_word_context
+1199,255,he,קוף,קוף,2,3,לא הסכים פסק דין מקרה,pseudo_sentence_word_context
+1200,255,he,נכס משלו,נכס | משלו,3,5,לא הסכים פסק דין מקרה,pseudo_sentence_word_context
+1201,255,he,אותו,אותו,5,6,לא הסכים פסק דין מקרה,isolated_word_fallback_span_out_of_range
+1202,256,he,מכחיש,מכחיש,0,1,מאמינים בעלי חיים בית משפט,pseudo_sentence_word_context
+1203,256,he,אנושי,אנושי,1,2,מאמינים בעלי חיים בית משפט,pseudo_sentence_word_context
+1204,256,he,נכס משלו,נכס | משלו,2,4,מאמינים בעלי חיים בית משפט,pseudo_sentence_word_context
+1205,256,he,נפתח,נפתח,4,5,מאמינים בעלי חיים בית משפט,pseudo_sentence_word_context
+1206,256,he,דלת,דלת,5,6,מאמינים בעלי חיים בית משפט,isolated_word_fallback_span_out_of_range
+1207,257,he,מערכת משפטית,מערכת | משפטית,0,2,יעוד אזרחי חומר לזנק,pseudo_sentence_word_context
+1208,257,he,לשקול שוב,לשקול | שוב,2,4,יעוד אזרחי חומר לזנק,pseudo_sentence_word_context
+1209,257,he,סטטוס משפטי,סטטוס | משפטי,4,6,יעוד אזרחי חומר לזנק,isolated_word_fallback_span_out_of_range
+1210,257,he,בעלי חיים,בעלי | חיים,6,8,יעוד אזרחי חומר לזנק,isolated_word_fallback_span_out_of_range
+1211,258,he,חיה,חיה,0,1,עורך דין לבוא מדינה הופעה טוב,pseudo_sentence_word_context
+1212,258,he,יוכרז,יוכרז,1,2,עורך דין לבוא מדינה הופעה טוב,pseudo_sentence_word_context
+1213,258,he,נכס,נכס,2,3,עורך דין לבוא מדינה הופעה טוב,pseudo_sentence_word_context
+1214,258,he,נכס,נכס,3,4,עורך דין לבוא מדינה הופעה טוב,pseudo_sentence_word_context
+1215,258,he,זמן,זמן,4,5,עורך דין לבוא מדינה הופעה טוב,pseudo_sentence_word_context
+1216,258,he,ניסה,ניסה,5,6,עורך דין לבוא מדינה הופעה טוב,pseudo_sentence_word_context
+1217,259,he,טענה,טענה,0,1,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,pseudo_sentence_word_context
+1218,259,he,בתי המשפט,בתי | המשפט,1,3,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,pseudo_sentence_word_context
+1219,259,he,תבע,תבע,3,4,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,pseudo_sentence_word_context
+1220,259,he,מטעם,מטעם,4,5,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,pseudo_sentence_word_context
+1221,259,he,דייגו,דייגו,5,6,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,pseudo_sentence_word_context
+1222,259,he,עצום,עצום,6,7,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,pseudo_sentence_word_context
+1223,259,he,רגליים,רגליים,7,8,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,pseudo_sentence_word_context
+1224,259,he,לשקול,לשקול,8,9,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,pseudo_sentence_word_context
+1225,259,he,טונות,טונות,9,10,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,pseudo_sentence_word_context
+1226,259,he,לנסוע,לנסוע,10,11,צהריים הקלטה שמיעה בית משפט פדרלי סן פרנסיסקו בלתי צפוי,isolated_word_fallback_span_out_of_range
+1227,260,he,מיילים,מיילים,0,1,לשפוט שאל דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1228,260,he,יום,יום,1,2,לשפוט שאל דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1229,260,he,אמר,אמר,2,3,לשפוט שאל דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1230,260,he,שמירה,שמירה,3,4,לשפוט שאל דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1231,260,he,קטן,קטן,4,5,לשפוט שאל דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1232,260,he,בטון,בטון,5,6,לשפוט שאל דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1233,260,he,טנקים,טנקים,6,7,לשפוט שאל דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1234,261,he,לבצע,לבצע,0,1,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1235,261,he,אנושי,אנושי,1,2,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1236,261,he,בידור,בידור,2,3,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1237,261,he,עבדות,עבדות,3,4,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1238,261,he,אבד,אבד,4,5,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1239,261,he,מקרה,מקרה,5,6,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1240,261,he,מוסכם,מוסכם,6,7,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1241,261,he,סוף,סוף,7,8,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1242,261,he,שבוי,שבוי,8,9,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1243,261,he,אורקה,אורקה,9,10,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1244,261,he,תכנית,תכנית,10,11,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1245,261,he,אחרון,אחרון,11,12,עצום היסטוריה המשפט המקובל חוק זכויות יוצרים דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1246,262,he,מת,מת,0,1,דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1247,262,he,להבין,להבין,1,2,דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1248,262,he,רודף,רודף,2,3,דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1249,262,he,מקרים,מקרים,3,4,דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1250,262,he,לשקול,לשקול,4,5,דוגמה חיה מוענק זכות יוצרים,pseudo_sentence_word_context
+1251,263,he,שונה,שונה,0,1,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1252,263,he,תמונות,תמונות,1,2,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1253,263,he,עולם,עולם,2,3,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1254,263,he,עובד,עובד,3,4,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1255,263,he,בני אדם,בני | אדם,4,6,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1256,263,he,ראש,ראש,6,7,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1257,263,he,שרשרת המזון,שרשרת | המזון,7,9,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1258,263,he,רצה,רצה,9,10,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1259,263,he,דרך,דרך,10,11,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1260,263,he,הבנו,הבנו,11,12,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,pseudo_sentence_word_context
+1261,263,he,להשתמש,להשתמש,12,13,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,isolated_word_fallback_span_out_of_range
+1262,263,he,אגודלים,אגודלים,13,14,לעשות טיעון נגדי אחר בני אדם נדחתה הגנה חוק עקב צבע עור,isolated_word_fallback_span_out_of_range
+1263,264,he,לצוד,לצוד,0,1,לראות סתירה פירוש לראות בעיה ימים,pseudo_sentence_word_context
+1264,264,he,לאסוף,לאסוף,1,2,לראות סתירה פירוש לראות בעיה ימים,pseudo_sentence_word_context
+1265,264,he,אדמה,אדמה,2,3,לראות סתירה פירוש לראות בעיה ימים,pseudo_sentence_word_context
+1266,264,he,לבנות,לבנות,3,4,לראות סתירה פירוש לראות בעיה ימים,pseudo_sentence_word_context
+1267,264,he,ערים,ערים,4,5,לראות סתירה פירוש לראות בעיה ימים,pseudo_sentence_word_context
+1268,264,he,ליצור,ליצור,5,6,לראות סתירה פירוש לראות בעיה ימים,pseudo_sentence_word_context
+1269,265,he,חוקי זכויות יוצרים,חוקי | זכויות | יוצרים,0,3,מבט יסודות,isolated_word_fallback_span_out_of_range
+1270,265,he,ליצור,ליצור,3,4,מבט יסודות,isolated_word_fallback_span_out_of_range
+1271,266,he,כללים,כללים,0,1,מתיחה,pseudo_sentence_word_context
+1272,267,he,עולם,עולם,0,1,הפסקה רגע ענה,pseudo_sentence_word_context
+1273,267,he,אחר,אחר,1,2,הפסקה רגע ענה,pseudo_sentence_word_context
+1274,267,he,תמונה,תמונה,2,3,הפסקה רגע ענה,pseudo_sentence_word_context
+1275,268,he,תלוי,תלוי,0,1,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1276,268,he,קיר,קיר,1,2,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1277,268,he,בני אדם,בני | אדם,2,4,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1278,268,he,ראש,ראש,4,5,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1279,268,he,בני אדם,בני | אדם,5,7,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1280,268,he,יונק,יונק,7,8,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1281,268,he,הולך,הולך,8,9,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1282,268,he,כדור הארץ,כדור | הארץ,9,11,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1283,268,he,לתת,לתת,11,12,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1284,268,he,מסוים,מסוים,12,13,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1285,268,he,זכויות,זכויות,13,14,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1286,268,he,בני אדם,בני | אדם,14,16,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,pseudo_sentence_word_context
+1287,268,he,להאריך,להאריך,16,17,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,isolated_word_fallback_span_out_of_range
+1288,268,he,זכויות,זכויות,17,18,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,isolated_word_fallback_span_out_of_range
+1289,268,he,עמית,עמית,18,19,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,isolated_word_fallback_span_out_of_range
+1290,268,he,בעלי חיים,בעלי | חיים,19,21,השוואה קופים חוסר זכות יוצרים עבדות מיטלטלין התקפי נראה לסמא גזען היסטוריה השוואה אנשים שחורים קופים,isolated_word_fallback_span_out_of_range
+1291,269,he,חבר'ה,חבר'ה,0,1,נראה לא נוח,pseudo_sentence_word_context
+1292,269,he,פתגם,פתגם,1,2,נראה לא נוח,pseudo_sentence_word_context
+1293,269,he,בני אדם,בני | אדם,2,4,נראה לא נוח,isolated_word_fallback_span_out_of_range
+1294,270,he,עליון,עליון,0,1,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1295,270,he,בעלי חיים אחרים,בעלי | חיים | אחרים,1,4,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1296,270,he,חבר,חבר,4,5,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1297,270,he,ממלכת החיות,ממלכת | החיות,5,7,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1298,270,he,לדעת,לדעת,7,8,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1299,270,he,לפגוע,לפגוע,8,9,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1300,270,he,מונע,מונע,9,10,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1301,270,he,פעמים רבות,פעמים | רבות,10,12,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1302,270,he,לראות,לראות,12,13,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1303,270,he,כללי,כללי,13,14,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,pseudo_sentence_word_context
+1304,270,he,עורך דין,עורך | דין,14,16,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,isolated_word_fallback_span_out_of_range
+1305,270,he,נכס,נכס,16,17,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,isolated_word_fallback_span_out_of_range
+1306,270,he,סטטוס,סטטוס,17,18,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,isolated_word_fallback_span_out_of_range
+1307,270,he,לחשוב,לחשוב,18,19,פתגם מכחיש קוף נכס משלו אותו הדבר מכחיש בני אדם נכס משלו צבע עור,isolated_word_fallback_span_out_of_range
+1308,271,he,תועבה,תועבה,0,1,למתוח,pseudo_sentence_word_context
+1309,272,he,בעלי חיים,בעלי | חיים,0,2,חנינה,isolated_word_fallback_span_out_of_range
+1310,273,he,מרגיש,מרגיש,0,1,למתוח,pseudo_sentence_word_context
+1311,274,he,יצורים תודעתיים,יצורים | תודעתיים,0,2,ללכת,isolated_word_fallback_span_out_of_range
+1312,275,he,רשאי,רשאי,0,1,לעשות מרכז טענה היום,pseudo_sentence_word_context
+1313,275,he,יסוד,יסוד,1,2,לעשות מרכז טענה היום,pseudo_sentence_word_context
+1314,275,he,זכויות משפטיות,זכויות | משפטיות,2,4,לעשות מרכז טענה היום,pseudo_sentence_word_context
+1315,275,he,מזון,מזון,4,5,לעשות מרכז טענה היום,isolated_word_fallback_span_out_of_range
+1316,276,he,מים,מים,0,1,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1317,276,he,וטרינרי,וטרינרי,1,2,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1318,276,he,לטפל,לטפל,2,3,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1319,276,he,מקלט,מקלט,3,4,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1320,276,he,רעיון,רעיון,4,5,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1321,276,he,בעלי חיים,בעלי | חיים,5,7,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1322,276,he,מוכר,מוכר,7,8,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1323,276,he,יסוד,יסוד,8,9,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1324,276,he,זכויות משפטיות,זכויות | משפטיות,9,11,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1325,276,he,חסר תקדים,חסר | תקדים,11,13,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1326,276,he,שנים,שנים,13,14,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1327,276,he,ארגנטינה,ארגנטינה,14,15,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1328,276,he,לשפוט,לשפוט,15,16,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,pseudo_sentence_word_context
+1329,276,he,מוענק,מוענק,16,17,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,isolated_word_fallback_span_out_of_range
+1330,276,he,לעתור,לעתור,17,18,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,isolated_word_fallback_span_out_of_range
+1331,276,he,הגיש,הגיש,18,19,הוגן לומר אימוץ ארבעה עשר תקון מושגים בעלות נכס אזור פטנטים יכולת עבד תביעה בעלות פטנט,isolated_word_fallback_span_out_of_range
+1332,277,he,מטעם,מטעם,0,1,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,pseudo_sentence_word_context
+1333,277,he,בואנוס איירס,בואנוס | איירס,1,3,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,pseudo_sentence_word_context
+1334,277,he,מוחזק,מוחזק,3,4,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,pseudo_sentence_word_context
+1335,277,he,זעיר,זעיר,4,5,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,pseudo_sentence_word_context
+1336,277,he,גרוע,גרוע,5,6,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,pseudo_sentence_word_context
+1337,277,he,כלוב,כלוב,6,7,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,pseudo_sentence_word_context
+1338,277,he,לשפוט,לשפוט,7,8,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,pseudo_sentence_word_context
+1339,277,he,החליט,החליט,8,9,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,pseudo_sentence_word_context
+1340,277,he,אורנגאוטן,אורנגאוטן,9,10,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,pseudo_sentence_word_context
+1341,277,he,זכויות בסיסיות,זכויות | בסיסיות,10,12,הולך רואה קוף סלפי מקרה הקשר גדול יותר סוף המשחק,isolated_word_fallback_span_out_of_range
+1342,278,he,אדם,אדם,0,1,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1343,278,he,לרבות,לרבות,1,2,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1344,278,he,חופש,חופש,2,3,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1345,278,he,חדש,חדש,3,4,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1346,278,he,מדינה,מדינה,4,5,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1347,278,he,עורך דין,עורך | דין,5,7,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1348,278,he,נאבק,נאבק,7,8,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1349,278,he,בתי המשפט,בתי | המשפט,8,10,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1350,278,he,להכיר,להכיר,10,11,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1351,278,he,שבוי,שבוי,11,12,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1352,278,he,אנשים,אנשים,12,13,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1353,278,he,ראוי,ראוי,13,14,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1354,278,he,זכויות משפטיות,זכויות | משפטיות,14,16,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1355,278,he,תאגידים,תאגידים,16,17,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1356,278,he,דבר,דבר,17,18,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1357,278,he,צלם,צלם,18,19,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1358,278,he,תבע,תבע,19,20,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1359,278,he,קוף,קוף,20,21,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1360,278,he,מסכים,מסכים,21,22,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,pseudo_sentence_word_context
+1361,278,he,נקודה,נקודה,22,23,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,isolated_word_fallback_span_out_of_range
+1362,278,he,עובדה,עובדה,23,24,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,isolated_word_fallback_span_out_of_range
+1363,278,he,משומש,משומש,24,25,בית משפט להסכים מכחיש קוף נכס משלו אותו מכחיש אנושי נכס משלו נפתח דלת מערכת משפטית לשקול שוב סטטוס משפטי בעלי חיים,isolated_word_fallback_span_out_of_range
+1364,279,he,להגן,להגן,0,1,חיה יוכרז נכס נכס,pseudo_sentence_word_context
+1365,279,he,חברים,חברים,1,2,חיה יוכרז נכס נכס,pseudo_sentence_word_context
+1366,279,he,רטן,רטן,2,3,חיה יוכרז נכס נכס,pseudo_sentence_word_context
+1367,279,he,פעלולים,פעלולים,3,4,חיה יוכרז נכס נכס,pseudo_sentence_word_context
+1368,280,he,עבד,עבד,0,1,זמן ניסה טענה בתי המשפט,pseudo_sentence_word_context
+1369,280,he,מסע,מסע,1,2,זמן ניסה טענה בתי המשפט,pseudo_sentence_word_context
+1370,280,he,להגן,להגן,2,3,זמן ניסה טענה בתי המשפט,pseudo_sentence_word_context
+1371,280,he,פראי,פראי,3,4,זמן ניסה טענה בתי המשפט,pseudo_sentence_word_context
+1372,280,he,חזירים,חזירים,4,5,זמן ניסה טענה בתי המשפט,pseudo_sentence_word_context
+1373,281,he,בית,בית,0,1,תבע מטעם דייגו,pseudo_sentence_word_context
+1374,281,he,אנגליה,אנגליה,1,2,תבע מטעם דייגו,pseudo_sentence_word_context
+1375,281,he,הגדול ביותר,הגדול | ביותר,2,4,תבע מטעם דייגו,isolated_word_fallback_span_out_of_range
+1376,282,he,בושה,בושה,0,1,עצום רגליים,pseudo_sentence_word_context
+1377,282,he,תקף,תקף,1,2,עצום רגליים,pseudo_sentence_word_context
+1378,283,he,מנסה,מנסה,0,1,לשקול טונות,pseudo_sentence_word_context
+1379,283,he,להשיג,להשיג,1,2,לשקול טונות,pseudo_sentence_word_context
+1380,284,he,אותו,אותו,0,1,לנסוע מיילים יום,pseudo_sentence_word_context
+1381,284,he,יעד,יעד,1,2,לנסוע מיילים יום,pseudo_sentence_word_context
+1382,284,he,חסכון,חסכון,2,3,לנסוע מיילים יום,pseudo_sentence_word_context
+1383,285,he,בעלי חיים,בעלי | חיים,0,2,אמר שמירה קטן בטון טנקים לבצע אנושי בידור עבדות,pseudo_sentence_word_context
+1384,285,he,סבל,סבל,2,3,אמר שמירה קטן בטון טנקים לבצע אנושי בידור עבדות,pseudo_sentence_word_context
+1385,285,he,אצילי,אצילי,3,4,אמר שמירה קטן בטון טנקים לבצע אנושי בידור עבדות,pseudo_sentence_word_context
+1386,285,he,לגרום,לגרום,4,5,אמר שמירה קטן בטון טנקים לבצע אנושי בידור עבדות,pseudo_sentence_word_context
+1387,285,he,לחשוב,לחשוב,5,6,אמר שמירה קטן בטון טנקים לבצע אנושי בידור עבדות,pseudo_sentence_word_context
+1388,285,he,נשא,נשא,6,7,אמר שמירה קטן בטון טנקים לבצע אנושי בידור עבדות,pseudo_sentence_word_context
+1389,285,he,כוח,כוח,7,8,אמר שמירה קטן בטון טנקים לבצע אנושי בידור עבדות,pseudo_sentence_word_context
+1390,285,he,עובדה,עובדה,8,9,אמר שמירה קטן בטון טנקים לבצע אנושי בידור עבדות,pseudo_sentence_word_context
+1391,285,he,קבוצה,קבוצה,9,10,אמר שמירה קטן בטון טנקים לבצע אנושי בידור עבדות,isolated_word_fallback_span_out_of_range
+1392,286,he,סוג,סוג,0,1,אבד מקרה,pseudo_sentence_word_context
+1393,286,he,צד,צד,1,2,אבד מקרה,pseudo_sentence_word_context
+1394,287,he,תוקף,תוקף,0,1,מוסכם סוף שבוי אורקה תכנית אחרון מת,pseudo_sentence_word_context
+1395,287,he,מתנגדים,מתנגדים,1,2,מוסכם סוף שבוי אורקה תכנית אחרון מת,pseudo_sentence_word_context
+1396,287,he,לעשות,לעשות,2,3,מוסכם סוף שבוי אורקה תכנית אחרון מת,pseudo_sentence_word_context
+1397,287,he,להפסיק,להפסיק,3,4,מוסכם סוף שבוי אורקה תכנית אחרון מת,pseudo_sentence_word_context
+1398,287,he,לחשוב,לחשוב,4,5,מוסכם סוף שבוי אורקה תכנית אחרון מת,pseudo_sentence_word_context
+1399,287,he,לחכות,לחכות,5,6,מוסכם סוף שבוי אורקה תכנית אחרון מת,pseudo_sentence_word_context
+1400,287,he,דקה,דקה,6,7,מוסכם סוף שבוי אורקה תכנית אחרון מת,pseudo_sentence_word_context
+1401,288,he,נקודה,נקודה,0,1,להבין רודף מקרים לשקול שונה תמונות עולם עובד,pseudo_sentence_word_context
+1402,288,he,לחשוב,לחשוב,1,2,להבין רודף מקרים לשקול שונה תמונות עולם עובד,pseudo_sentence_word_context
+1403,288,he,פילוסופיה,פילוסופיה,2,3,להבין רודף מקרים לשקול שונה תמונות עולם עובד,pseudo_sentence_word_context
+1404,288,he,לגרום,לגרום,3,4,להבין רודף מקרים לשקול שונה תמונות עולם עובד,pseudo_sentence_word_context
+1405,288,he,חיות בר,חיות | בר,4,6,להבין רודף מקרים לשקול שונה תמונות עולם עובד,pseudo_sentence_word_context
+1406,288,he,אישיויות,אישיויות,6,7,להבין רודף מקרים לשקול שונה תמונות עולם עובד,pseudo_sentence_word_context
+1407,288,he,חלק,חלק,7,8,להבין רודף מקרים לשקול שונה תמונות עולם עובד,pseudo_sentence_word_context
+1408,288,he,חלק,חלק,8,9,להבין רודף מקרים לשקול שונה תמונות עולם עובד,isolated_word_fallback_span_out_of_range
+1409,289,he,בית משפט,בית | משפט,0,2,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1410,289,he,מקרה,מקרה,2,3,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1411,289,he,לטעון,לטעון,3,4,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1412,289,he,בעלי חיים,בעלי | חיים,4,6,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1413,289,he,שיש,שיש,6,7,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1414,289,he,זכויות בסיסיות,זכויות | בסיסיות,7,9,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1415,289,he,כבוד,כבוד,9,10,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1416,289,he,גישה,גישה,10,11,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1417,289,he,קדומים,קדומים,11,12,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1418,289,he,יערות,יערות,12,13,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1419,289,he,גישה,גישה,13,14,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1420,289,he,מזון,מזון,14,15,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1421,289,he,זכויות בעלי חיים,זכויות | בעלי | חיים,15,18,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,pseudo_sentence_word_context
+1422,289,he,עורך דין,עורך | דין,18,20,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,isolated_word_fallback_span_out_of_range
+1423,289,he,אבד,אבד,20,21,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,isolated_word_fallback_span_out_of_range
+1424,289,he,עגול,עגול,21,22,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,isolated_word_fallback_span_out_of_range
+1425,289,he,בית משפט,בית | משפט,22,24,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,isolated_word_fallback_span_out_of_range
+1426,289,he,נקרא,נקרא,24,25,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,isolated_word_fallback_span_out_of_range
+1427,289,he,לספר,לספר,25,26,בני אדם ראש שרשרת המזון רצה דרך הבנו להשתמש אגודלים לצוד לאסוף אדמה לבנות ערים ליצור חוקי זכויות יוצרים,isolated_word_fallback_span_out_of_range
+1428,290,he,חדשות,חדשות,0,1,ליצור כללים עולם,pseudo_sentence_word_context
+1429,290,he,לקח,לקח,1,2,ליצור כללים עולם,pseudo_sentence_word_context
+1430,290,he,אמר,אמר,2,3,ליצור כללים עולם,pseudo_sentence_word_context
+1431,291,he,כמובן,כמובן,0,1,אחר תמונה תלוי קיר בני אדם ראש,pseudo_sentence_word_context
+1432,291,he,כמובן,כמובן,1,2,אחר תמונה תלוי קיר בני אדם ראש,pseudo_sentence_word_context
+1433,291,he,נזרק,נזרק,2,3,אחר תמונה תלוי קיר בני אדם ראש,pseudo_sentence_word_context
+1434,291,he,אמר,אמר,3,4,אחר תמונה תלוי קיר בני אדם ראש,pseudo_sentence_word_context
+1435,291,he,דרך,דרך,4,5,אחר תמונה תלוי קיר בני אדם ראש,pseudo_sentence_word_context
+1436,291,he,ללכת,ללכת,5,6,אחר תמונה תלוי קיר בני אדם ראש,pseudo_sentence_word_context
+1437,291,he,קוף,קוף,6,7,אחר תמונה תלוי קיר בני אדם ראש,pseudo_sentence_word_context
+1438,292,he,ערעור,ערעור,0,1,בני אדם יונק הולך כדור הארץ,pseudo_sentence_word_context
+1439,292,he,בוקר טוב,בוקר | טוב,1,3,בני אדם יונק הולך כדור הארץ,pseudo_sentence_word_context
+1440,292,he,הצטיינות,הצטיינות,3,4,בני אדם יונק הולך כדור הארץ,pseudo_sentence_word_context
+1441,292,he,בית משפט,בית | משפט,4,6,בני אדם יונק הולך כדור הארץ,pseudo_sentence_word_context
+1442,292,he,מטעם,מטעם,6,7,בני אדם יונק הולך כדור הארץ,isolated_word_fallback_span_out_of_range
+1443,292,he,עורר,עורר,7,8,בני אדם יונק הולך כדור הארץ,isolated_word_fallback_span_out_of_range
+1444,293,he,מקרה,מקרה,0,1,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,pseudo_sentence_word_context
+1445,293,he,שופטים,שופטים,1,2,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,pseudo_sentence_word_context
+1446,293,he,בית משפט,בית | משפט,2,4,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,pseudo_sentence_word_context
+1447,293,he,בית משפט לערעורים,בית | משפט | לערעורים,4,7,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,pseudo_sentence_word_context
+1448,293,he,שלט,שלט,7,8,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,pseudo_sentence_word_context
+1449,293,he,מנצחים,מנצחים,8,9,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,pseudo_sentence_word_context
+1450,293,he,לנסוע,לנסוע,9,10,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,pseudo_sentence_word_context
+1451,293,he,לאסור,לאסור,10,11,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,isolated_word_fallback_span_out_of_range
+1452,293,he,שנה,שנה,11,12,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,isolated_word_fallback_span_out_of_range
+1453,293,he,מקרה,מקרה,12,13,לתת מסוים זכויות בני אדם להאריך זכויות עמית בעלי חיים,isolated_word_fallback_span_out_of_range
+1454,294,he,שופטים,שופטים,0,1,חבר'ה פתגם בני אדם עליון בעלי חיים אחרים,pseudo_sentence_word_context
+1455,294,he,בלגן,בלגן,1,2,חבר'ה פתגם בני אדם עליון בעלי חיים אחרים,pseudo_sentence_word_context
+1456,294,he,עשוי,עשוי,2,3,חבר'ה פתגם בני אדם עליון בעלי חיים אחרים,pseudo_sentence_word_context
+1457,294,he,שניות,שניות,3,4,חבר'ה פתגם בני אדם עליון בעלי חיים אחרים,pseudo_sentence_word_context
+1458,294,he,שבעל פה,שבעל | פה,4,6,חבר'ה פתגם בני אדם עליון בעלי חיים אחרים,pseudo_sentence_word_context
+1459,294,he,טענה,טענה,6,7,חבר'ה פתגם בני אדם עליון בעלי חיים אחרים,pseudo_sentence_word_context
+1460,294,he,שופטים,שופטים,7,8,חבר'ה פתגם בני אדם עליון בעלי חיים אחרים,pseudo_sentence_word_context
+1461,294,he,מופרע,מופרע,8,9,חבר'ה פתגם בני אדם עליון בעלי חיים אחרים,isolated_word_fallback_span_out_of_range
+1462,295,he,כבוד,כבוד,0,1,,isolated_word_fallback_span_out_of_range
+1463,296,he,מקדים,מקדים,0,1,חבר ממלכת החיות לדעת,pseudo_sentence_word_context
+1464,296,he,שאלה,שאלה,1,2,חבר ממלכת החיות לדעת,pseudo_sentence_word_context
+1465,296,he,כתובת,כתובת,2,3,חבר ממלכת החיות לדעת,pseudo_sentence_word_context
+1466,296,he,שלב,שלב,3,4,חבר ממלכת החיות לדעת,pseudo_sentence_word_context
+1467,297,he,עורכי דין,עורכי | דין,0,2,לפגוע מונע פעמים רבות לראות,pseudo_sentence_word_context
+1468,297,he,שופטים,שופטים,2,3,לפגוע מונע פעמים רבות לראות,pseudo_sentence_word_context
+1469,297,he,דיון,דיון,3,4,לפגוע מונע פעמים רבות לראות,pseudo_sentence_word_context
+1470,297,he,מקרה,מקרה,4,5,לפגוע מונע פעמים רבות לראות,pseudo_sentence_word_context
+1471,297,he,חוק,חוק,5,6,לפגוע מונע פעמים רבות לראות,isolated_word_fallback_span_out_of_range
+1472,298,he,שופטים,שופטים,0,1,כללי עורך דין,pseudo_sentence_word_context
+1473,298,he,מגרש,מגרש,1,2,כללי עורך דין,pseudo_sentence_word_context
+1474,298,he,שאלות,שאלות,2,3,כללי עורך דין,pseudo_sentence_word_context
+1475,299,he,מוסמך,מוסמך,0,1,נכס סטטוס לחשוב תועבה,pseudo_sentence_word_context
+1476,299,he,הבא,הבא,1,2,נכס סטטוס לחשוב תועבה,pseudo_sentence_word_context
+1477,299,he,חבר,חבר,2,3,נכס סטטוס לחשוב תועבה,pseudo_sentence_word_context
+1478,299,he,לא יודע,לא | יודע,3,5,נכס סטטוס לחשוב תועבה,isolated_word_fallback_span_out_of_range
+1479,300,he,קוף,קוף,0,1,בעלי חיים מרגיש יצורים תודעתיים,pseudo_sentence_word_context
+1480,300,he,לטעון,לטעון,1,2,בעלי חיים מרגיש יצורים תודעתיים,pseudo_sentence_word_context
+1481,300,he,סעיף,סעיף,2,3,בעלי חיים מרגיש יצורים תודעתיים,pseudo_sentence_word_context
+1482,300,he,כמה דקות,כמה | דקות,3,5,בעלי חיים מרגיש יצורים תודעתיים,pseudo_sentence_word_context
+1483,300,he,לשפוט,לשפוט,5,6,בעלי חיים מרגיש יצורים תודעתיים,isolated_word_fallback_span_out_of_range
+1484,301,he,הפרעות,הפרעות,0,1,רשאי יסוד זכויות משפטיות מזון מים וטרינרי לטפל מקלט,pseudo_sentence_word_context
+1485,301,he,לחקור,לחקור,1,2,רשאי יסוד זכויות משפטיות מזון מים וטרינרי לטפל מקלט,pseudo_sentence_word_context
+1486,301,he,פציעה,פציעה,2,3,רשאי יסוד זכויות משפטיות מזון מים וטרינרי לטפל מקלט,pseudo_sentence_word_context
+1487,301,he,משפטי,משפטי,3,4,רשאי יסוד זכויות משפטיות מזון מים וטרינרי לטפל מקלט,pseudo_sentence_word_context
+1488,301,he,מונח,מונח,4,5,רשאי יסוד זכויות משפטיות מזון מים וטרינרי לטפל מקלט,pseudo_sentence_word_context
+1489,301,he,פגיעה,פגיעה,5,6,רשאי יסוד זכויות משפטיות מזון מים וטרינרי לטפל מקלט,pseudo_sentence_word_context
+1490,301,he,נזק,נזק,6,7,רשאי יסוד זכויות משפטיות מזון מים וטרינרי לטפל מקלט,pseudo_sentence_word_context
+1491,301,he,פציעה,פציעה,7,8,רשאי יסוד זכויות משפטיות מזון מים וטרינרי לטפל מקלט,pseudo_sentence_word_context
+1492,301,he,דרך,דרך,8,9,רשאי יסוד זכויות משפטיות מזון מים וטרינרי לטפל מקלט,pseudo_sentence_word_context
+1493,302,he,לרכוש,לרכוש,0,1,רעיון בעלי חיים מוכר יסוד זכויות משפטיות חסר תקדים,pseudo_sentence_word_context
+1494,302,he,להחזיק,להחזיק,1,2,רעיון בעלי חיים מוכר יסוד זכויות משפטיות חסר תקדים,pseudo_sentence_word_context
+1495,302,he,כסף,כסף,2,3,רעיון בעלי חיים מוכר יסוד זכויות משפטיות חסר תקדים,pseudo_sentence_word_context
+1496,302,he,זכות יוצרים,זכות | יוצרים,3,5,רעיון בעלי חיים מוכר יסוד זכויות משפטיות חסר תקדים,pseudo_sentence_word_context
+1497,302,he,לתת,לתת,5,6,רעיון בעלי חיים מוכר יסוד זכויות משפטיות חסר תקדים,pseudo_sentence_word_context
+1498,302,he,אבדות,אבדות,6,7,רעיון בעלי חיים מוכר יסוד זכויות משפטיות חסר תקדים,pseudo_sentence_word_context
+1499,302,he,מוניטין,מוניטין,7,8,רעיון בעלי חיים מוכר יסוד זכויות משפטיות חסר תקדים,pseudo_sentence_word_context
+1500,302,he,האשמה,האשמה,8,9,רעיון בעלי חיים מוכר יסוד זכויות משפטיות חסר תקדים,pseudo_sentence_word_context
+1501,302,he,זכות יוצרים,זכות | יוצרים,9,11,רעיון בעלי חיים מוכר יסוד זכויות משפטיות חסר תקדים,isolated_word_fallback_span_out_of_range
+1502,303,he,נהנו,נהנו,0,1,שנים ארגנטינה לשפוט מוענק לעתור הגיש מטעם בואנוס איירס,pseudo_sentence_word_context
+1503,303,he,כספי,כספי,1,2,שנים ארגנטינה לשפוט מוענק לעתור הגיש מטעם בואנוס איירס,pseudo_sentence_word_context
+1504,303,he,הטבות,הטבות,2,3,שנים ארגנטינה לשפוט מוענק לעתור הגיש מטעם בואנוס איירס,pseudo_sentence_word_context
+1505,303,he,לפנות,לפנות,3,4,שנים ארגנטינה לשפוט מוענק לעתור הגיש מטעם בואנוס איירס,pseudo_sentence_word_context
+1506,303,he,כבוד,כבוד,4,5,שנים ארגנטינה לשפוט מוענק לעתור הגיש מטעם בואנוס איירס,pseudo_sentence_word_context
+1507,303,he,עניין,עניין,5,6,שנים ארגנטינה לשפוט מוענק לעתור הגיש מטעם בואנוס איירס,pseudo_sentence_word_context
+1508,303,he,פנה,פנה,6,7,שנים ארגנטינה לשפוט מוענק לעתור הגיש מטעם בואנוס איירס,pseudo_sentence_word_context
+1509,303,he,פיצוי,פיצוי,7,8,שנים ארגנטינה לשפוט מוענק לעתור הגיש מטעם בואנוס איירס,pseudo_sentence_word_context
+1510,303,he,רוצה,רוצה,8,9,שנים ארגנטינה לשפוט מוענק לעתור הגיש מטעם בואנוס איירס,pseudo_sentence_word_context
+1511,304,he,לדעת,לדעת,0,1,מוחזק זעיר גרוע כלוב,pseudo_sentence_word_context
+1512,304,he,פציעה,פציעה,1,2,מוחזק זעיר גרוע כלוב,pseudo_sentence_word_context
+1513,304,he,מקרה,מקרה,2,3,מוחזק זעיר גרוע כלוב,pseudo_sentence_word_context
+1514,304,he,אומר,אומר,3,4,מוחזק זעיר גרוע כלוב,pseudo_sentence_word_context
+1515,305,he,הפרת זכויות יוצרים,הפרת | זכויות | יוצרים,0,3,לשפוט החליט אורנגאוטן זכויות בסיסיות אדם לרבות חופש,pseudo_sentence_word_context
+1516,305,he,פציעה,פציעה,3,4,לשפוט החליט אורנגאוטן זכויות בסיסיות אדם לרבות חופש,pseudo_sentence_word_context
+1517,305,he,פציעה,פציעה,4,5,לשפוט החליט אורנגאוטן זכויות בסיסיות אדם לרבות חופש,pseudo_sentence_word_context
+1518,305,he,משפטי,משפטי,5,6,לשפוט החליט אורנגאוטן זכויות בסיסיות אדם לרבות חופש,pseudo_sentence_word_context
+1519,305,he,יתרונות,יתרונות,6,7,לשפוט החליט אורנגאוטן זכויות בסיסיות אדם לרבות חופש,pseudo_sentence_word_context
+1520,305,he,מקרה,מקרה,7,8,לשפוט החליט אורנגאוטן זכויות בסיסיות אדם לרבות חופש,pseudo_sentence_word_context
+1521,305,he,מהנה,מהנה,8,9,לשפוט החליט אורנגאוטן זכויות בסיסיות אדם לרבות חופש,isolated_word_fallback_span_out_of_range
+1522,305,he,שמיעה,שמיעה,9,10,לשפוט החליט אורנגאוטן זכויות בסיסיות אדם לרבות חופש,isolated_word_fallback_span_out_of_range
+1523,306,he,עורכי דין,עורכי | דין,0,2,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1524,306,he,לזרוק,לזרוק,2,3,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1525,306,he,מונחים,מונחים,3,4,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1526,306,he,יכולת תיקון,יכולת | תיקון,4,6,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1527,306,he,פיצוי,פיצוי,6,7,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1528,306,he,פציעה,פציעה,7,8,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1529,306,he,שיחה,שיחה,8,9,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1530,306,he,קוף,קוף,9,10,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1531,306,he,ממוצע,ממוצע,10,11,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1532,306,he,לתת,לתת,11,12,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1533,306,he,מקרה,מקרה,12,13,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1534,306,he,אומר,אומר,13,14,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,pseudo_sentence_word_context
+1535,306,he,הפרת זכויות יוצרים,הפרת | זכויות | יוצרים,14,17,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,isolated_word_fallback_span_out_of_range
+1536,306,he,פציעה,פציעה,17,18,חדש מדינה עורך דין נאבק בתי המשפט להכיר שבוי אנשים ראוי זכויות משפטיות תאגידים,isolated_word_fallback_span_out_of_range
+1537,307,he,להאמין,להאמין,0,1,דבר צלם תבע קוף מסכים נקודה,pseudo_sentence_word_context
+1538,307,he,אל תחשוב,אל | תחשוב,1,3,דבר צלם תבע קוף מסכים נקודה,pseudo_sentence_word_context
+1539,307,he,נתון,נתון,3,4,דבר צלם תבע קוף מסכים נקודה,pseudo_sentence_word_context
+1540,307,he,פציעה,פציעה,4,5,דבר צלם תבע קוף מסכים נקודה,pseudo_sentence_word_context
+1541,307,he,שופטים,שופטים,5,6,דבר צלם תבע קוף מסכים נקודה,pseudo_sentence_word_context
+1542,307,he,מקרה,מקרה,6,7,דבר צלם תבע קוף מסכים נקודה,isolated_word_fallback_span_out_of_range
+1543,308,he,חוק,חוק,0,1,עובדה משומש להגן חברים רטן פעלולים,pseudo_sentence_word_context
+1544,308,he,משפטי,משפטי,1,2,עובדה משומש להגן חברים רטן פעלולים,pseudo_sentence_word_context
+1545,308,he,תקדים,תקדים,2,3,עובדה משומש להגן חברים רטן פעלולים,pseudo_sentence_word_context
+1546,308,he,הגדרה,הגדרה,3,4,עובדה משומש להגן חברים רטן פעלולים,pseudo_sentence_word_context
+1547,308,he,מחבר,מחבר,4,5,עובדה משומש להגן חברים רטן פעלולים,pseudo_sentence_word_context
+1548,308,he,פרוטוקול,פרוטוקול,5,6,עובדה משומש להגן חברים רטן פעלולים,pseudo_sentence_word_context
+1549,309,he,מסירה,מסירה,0,1,עבד מסע להגן פראי חזירים בית אנגליה,pseudo_sentence_word_context
+1550,309,he,במה,במה,1,2,עבד מסע להגן פראי חזירים בית אנגליה,pseudo_sentence_word_context
+1551,309,he,עורך דין,עורך | דין,2,4,עבד מסע להגן פראי חזירים בית אנגליה,pseudo_sentence_word_context
+1552,309,he,שנים,שנים,4,5,עבד מסע להגן פראי חזירים בית אנגליה,pseudo_sentence_word_context
+1553,309,he,מחקר,מחקר,5,6,עבד מסע להגן פראי חזירים בית אנגליה,pseudo_sentence_word_context
+1554,309,he,משפטי,משפטי,6,7,עבד מסע להגן פראי חזירים בית אנגליה,pseudo_sentence_word_context
+1555,309,he,נשורת,נשורת,7,8,עבד מסע להגן פראי חזירים בית אנגליה,isolated_word_fallback_span_out_of_range
+1556,310,he,שבעל פה,שבעל | פה,0,2,הגדול ביותר בושה תקף מנסה להשיג אותו יעד,pseudo_sentence_word_context
+1557,310,he,טיעונים,טיעונים,2,3,הגדול ביותר בושה תקף מנסה להשיג אותו יעד,pseudo_sentence_word_context
+1558,310,he,בקשה,בקשה,3,4,הגדול ביותר בושה תקף מנסה להשיג אותו יעד,pseudo_sentence_word_context
+1559,310,he,לעשות,לעשות,4,5,הגדול ביותר בושה תקף מנסה להשיג אותו יעד,pseudo_sentence_word_context
+1560,310,he,בית משפט,בית | משפט,5,7,הגדול ביותר בושה תקף מנסה להשיג אותו יעד,pseudo_sentence_word_context
+1561,310,he,קוף,קוף,7,8,הגדול ביותר בושה תקף מנסה להשיג אותו יעד,pseudo_sentence_word_context
+1562,310,he,לראות,לראות,8,9,הגדול ביותר בושה תקף מנסה להשיג אותו יעד,isolated_word_fallback_span_out_of_range
+1563,310,he,קוף,קוף,9,10,הגדול ביותר בושה תקף מנסה להשיג אותו יעד,isolated_word_fallback_span_out_of_range
+1564,311,he,לתבוע,לתבוע,0,1,חסכון בעלי חיים סבל אצילי לגרום,pseudo_sentence_word_context
+1565,311,he,בית משפט פדרלי,בית | משפט | פדרלי,1,4,חסכון בעלי חיים סבל אצילי לגרום,pseudo_sentence_word_context
+1566,311,he,שבעל פה,שבעל | פה,4,6,חסכון בעלי חיים סבל אצילי לגרום,pseudo_sentence_word_context
+1567,311,he,טיעונים,טיעונים,6,7,חסכון בעלי חיים סבל אצילי לגרום,isolated_word_fallback_span_out_of_range
+1568,311,he,הרבה,הרבה,7,8,חסכון בעלי חיים סבל אצילי לגרום,isolated_word_fallback_span_out_of_range
+1569,311,he,לסכם,לסכם,8,9,חסכון בעלי חיים סבל אצילי לגרום,isolated_word_fallback_span_out_of_range
+1570,312,he,לזרוק,לזרוק,0,1,לחשוב נשא כוח,pseudo_sentence_word_context
+1571,312,he,מקרה,מקרה,1,2,לחשוב נשא כוח,pseudo_sentence_word_context
+1572,312,he,לעשות,לעשות,2,3,לחשוב נשא כוח,pseudo_sentence_word_context
+1573,313,he,לשלם,לשלם,0,1,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,pseudo_sentence_word_context
+1574,313,he,משפטי,משפטי,1,2,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,pseudo_sentence_word_context
+1575,313,he,עמלות,עמלות,2,3,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,pseudo_sentence_word_context
+1576,313,he,נדון,נדון,3,4,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,pseudo_sentence_word_context
+1577,313,he,נעשה,נעשה,4,5,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,pseudo_sentence_word_context
+1578,313,he,מתן,מתן,5,6,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,pseudo_sentence_word_context
+1579,313,he,נאשמים,נאשמים,6,7,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,pseudo_sentence_word_context
+1580,313,he,עורך דין,עורך | דין,7,9,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,pseudo_sentence_word_context
+1581,313,he,תבע,תבע,9,10,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,pseudo_sentence_word_context
+1582,313,he,פרסום עצמי,פרסום | עצמי,10,12,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,isolated_word_fallback_span_out_of_range
+1583,313,he,חברה,חברה,12,13,עובדה קבוצה סוג צד תוקף מתנגדים לעשות להפסיק לחשוב לחכות דקה,isolated_word_fallback_span_out_of_range
+1584,314,he,משומש,משומש,0,1,נקודה,pseudo_sentence_word_context
+1585,315,he,למסור,למסור,0,1,,isolated_word_fallback_span_out_of_range
+1586,316,he,הגנה,הגנה,0,1,לחשוב פילוסופיה לגרום,pseudo_sentence_word_context
+1587,316,he,להנות,להנות,1,2,לחשוב פילוסופיה לגרום,pseudo_sentence_word_context
+1588,316,he,עבודה,עבודה,2,3,לחשוב פילוסופיה לגרום,pseudo_sentence_word_context
+1589,317,he,קוף,קוף,0,1,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1590,317,he,בית משפט,בית | משפט,1,3,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1591,317,he,סן פרנסיסקו,סן | פרנסיסקו,3,5,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1592,317,he,יום,יום,5,6,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1593,317,he,רוצה,רוצה,6,7,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1594,317,he,לבלות,לבלות,7,8,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1595,317,he,כסף,כסף,8,9,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1596,317,he,לנסוע,לנסוע,9,10,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1597,317,he,דרך,דרך,10,11,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1598,317,he,קליפורניה,קליפורניה,11,12,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1599,317,he,ויילס,ויילס,12,13,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1600,317,he,צפה,צפה,13,14,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1601,317,he,כל,כל,14,15,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1602,317,he,שמיעה,שמיעה,15,16,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1603,317,he,צפה,צפה,16,17,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1604,317,he,לראות,לראות,17,18,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1605,317,he,שופטים,שופטים,18,19,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,pseudo_sentence_word_context
+1606,317,he,עורך דין,עורך | דין,19,21,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,isolated_word_fallback_span_out_of_range
+1607,317,he,מגיע,מגיע,21,22,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,isolated_word_fallback_span_out_of_range
+1608,317,he,עורך דין,עורך | דין,22,24,חיות בר אישיויות חלק חלק בית משפט מקרה לטעון בעלי חיים שיש זכויות בסיסיות כבוד גישה קדומים יערות גישה מזון,isolated_word_fallback_span_out_of_range
+1609,318,he,מגיע,מגיע,0,1,זכויות בעלי חיים עורך דין,pseudo_sentence_word_context
+1610,318,he,התחיל,התחיל,1,2,זכויות בעלי חיים עורך דין,pseudo_sentence_word_context
+1611,318,he,לדבר,לדבר,2,3,זכויות בעלי חיים עורך דין,pseudo_sentence_word_context
+1612,318,he,קופים,קופים,3,4,זכויות בעלי חיים עורך דין,pseudo_sentence_word_context
+1613,318,he,הפך,הפך,4,5,זכויות בעלי חיים עורך דין,pseudo_sentence_word_context
+1614,319,he,אמיתי,אמיתי,0,1,אבד עגול בית משפט,pseudo_sentence_word_context
+1615,319,he,פתאומי,פתאומי,1,2,אבד עגול בית משפט,pseudo_sentence_word_context
+1616,319,he,נתבע,נתבע,2,3,אבד עגול בית משפט,pseudo_sentence_word_context
+1617,319,he,קוף,קוף,3,4,אבד עגול בית משפט,pseudo_sentence_word_context
+1618,320,he,לעשות,לעשות,0,1,נקרא לספר חדשות,pseudo_sentence_word_context
+1619,320,he,שימוע,שימוע,1,2,נקרא לספר חדשות,pseudo_sentence_word_context
+1620,320,he,נשאר,נשאר,2,3,נקרא לספר חדשות,pseudo_sentence_word_context
+1621,321,he,יער גשם,יער | גשם,0,2,לקח,isolated_word_fallback_span_out_of_range
+1622,322,he,אינדונזיה,אינדונזיה,0,1,אמר כמובן,pseudo_sentence_word_context
+1623,322,he,ידיעה,ידיעה,1,2,אמר כמובן,pseudo_sentence_word_context
+1624,323,he,שאל,שאל,0,1,כמובן נזרק,pseudo_sentence_word_context
+1625,323,he,חשב,חשב,1,2,כמובן נזרק,pseudo_sentence_word_context
+1626,324,he,שנים,שנים,0,1,אמר,pseudo_sentence_word_context
+1627,325,he,בני אדם,בני | אדם,0,2,דרך ללכת,pseudo_sentence_word_context
+1628,325,he,מנוהל,מנוהל,2,3,דרך ללכת,isolated_word_fallback_span_out_of_range
+1629,326,he,דמות,דמות,0,1,קוף ערעור,pseudo_sentence_word_context
+1630,326,he,דברים,דברים,1,2,קוף ערעור,pseudo_sentence_word_context
+1631,327,he,בעצמם,בעצמם,0,1,בוקר טוב הצטיינות,pseudo_sentence_word_context
+1632,327,he,אמרו,אמרו,1,2,בוקר טוב הצטיינות,pseudo_sentence_word_context
+1633,327,he,בית משפט לערעורים,בית | משפט | לערעורים,2,5,בוקר טוב הצטיינות,isolated_word_fallback_span_out_of_range
+1634,328,he,לא רצה,לא | רצה,0,2,בית משפט מטעם עורר,pseudo_sentence_word_context
+1635,328,he,כלל,כלל,2,3,בית משפט מטעם עורר,pseudo_sentence_word_context
+1636,328,he,מקרה,מקרה,3,4,בית משפט מטעם עורר,pseudo_sentence_word_context
+1637,328,he,ספטמבר,ספטמבר,4,5,בית משפט מטעם עורר,isolated_word_fallback_span_out_of_range
+1638,329,he,הודיעו,הודיעו,0,1,מקרה שופטים בית משפט בית משפט לערעורים מקרה,pseudo_sentence_word_context
+1639,329,he,הגיעו,הגיעו,1,2,מקרה שופטים בית משפט בית משפט לערעורים מקרה,pseudo_sentence_word_context
+1640,329,he,הסדר,הסדר,2,3,מקרה שופטים בית משפט בית משפט לערעורים מקרה,pseudo_sentence_word_context
+1641,329,he,פרטים,פרטים,3,4,מקרה שופטים בית משפט בית משפט לערעורים מקרה,pseudo_sentence_word_context
+1642,329,he,הסדר,הסדר,4,5,מקרה שופטים בית משפט בית משפט לערעורים מקרה,pseudo_sentence_word_context
+1643,329,he,סודי,סודי,5,6,מקרה שופטים בית משפט בית משפט לערעורים מקרה,pseudo_sentence_word_context
+1644,329,he,לספר,לספר,6,7,מקרה שופטים בית משפט בית משפט לערעורים מקרה,pseudo_sentence_word_context
+1645,329,he,הרבה,הרבה,7,8,מקרה שופטים בית משפט בית משפט לערעורים מקרה,pseudo_sentence_word_context
+1646,330,he,הנה,הנה,0,1,שלט מנצחים לנסוע לאסור שנה,pseudo_sentence_word_context
+1647,330,he,יודע,יודע,1,2,שלט מנצחים לנסוע לאסור שנה,pseudo_sentence_word_context
+1648,330,he,קוף,קוף,2,3,שלט מנצחים לנסוע לאסור שנה,pseudo_sentence_word_context
+1649,330,he,סלפי,סלפי,3,4,שלט מנצחים לנסוע לאסור שנה,pseudo_sentence_word_context
+1650,330,he,זכות יוצרים,זכות | יוצרים,4,6,שלט מנצחים לנסוע לאסור שנה,isolated_word_fallback_span_out_of_range
+1651,331,he,רשום,רשום,0,1,שופטים בלגן,pseudo_sentence_word_context
+1652,331,he,שם,שם,1,2,שופטים בלגן,pseudo_sentence_word_context
+1653,332,he,מדינות,מדינות,0,1,עשוי שניות שבעל פה טענה שופטים מופרע כבוד,pseudo_sentence_word_context
+1654,332,he,הסכים,הסכים,1,2,עשוי שניות שבעל פה טענה שופטים מופרע כבוד,pseudo_sentence_word_context
+1655,332,he,לתרום,לתרום,2,3,עשוי שניות שבעל פה טענה שופטים מופרע כבוד,pseudo_sentence_word_context
+1656,332,he,אחוז,אחוז,3,4,עשוי שניות שבעל פה טענה שופטים מופרע כבוד,pseudo_sentence_word_context
+1657,332,he,הכנסות,הכנסות,4,5,עשוי שניות שבעל פה טענה שופטים מופרע כבוד,pseudo_sentence_word_context
+1658,332,he,תמונות,תמונות,5,6,עשוי שניות שבעל פה טענה שופטים מופרע כבוד,pseudo_sentence_word_context
+1659,332,he,להגן,להגן,6,7,עשוי שניות שבעל פה טענה שופטים מופרע כבוד,pseudo_sentence_word_context
+1660,332,he,מקוקים,מקוקים,7,8,עשוי שניות שבעל פה טענה שופטים מופרע כבוד,pseudo_sentence_word_context
+1661,333,he,ויקיפדיה,ויקיפדיה,0,1,מקדים שאלה כתובת,pseudo_sentence_word_context
+1662,333,he,קוף,קוף,1,2,מקדים שאלה כתובת,pseudo_sentence_word_context
+1663,333,he,סלפי,סלפי,2,3,מקדים שאלה כתובת,pseudo_sentence_word_context
+1664,334,he,להוריד,להוריד,0,1,שלב עורכי דין שופטים דיון מקרה חוק,pseudo_sentence_word_context
+1665,334,he,טוענים,טוענים,1,2,שלב עורכי דין שופטים דיון מקרה חוק,pseudo_sentence_word_context
+1666,334,he,נחלת הכלל,נחלת | הכלל,2,4,שלב עורכי דין שופטים דיון מקרה חוק,pseudo_sentence_word_context
+1667,334,he,לתבוע,לתבוע,4,5,שלב עורכי דין שופטים דיון מקרה חוק,pseudo_sentence_word_context
+1668,334,he,נלקח,נלקח,5,6,שלב עורכי דין שופטים דיון מקרה חוק,pseudo_sentence_word_context
+1669,334,he,אומר,אומר,6,7,שלב עורכי דין שופטים דיון מקרה חוק,pseudo_sentence_word_context
+1670,334,he,תוכניות,תוכניות,7,8,שלב עורכי דין שופטים דיון מקרה חוק,isolated_word_fallback_span_out_of_range
+1671,335,he,אחר,אחר,0,1,שופטים מגרש שאלות מוסמך הבא חבר,pseudo_sentence_word_context
+1672,335,he,דבר,דבר,1,2,שופטים מגרש שאלות מוסמך הבא חבר,pseudo_sentence_word_context
+1673,335,he,מוזכר,מוזכר,2,3,שופטים מגרש שאלות מוסמך הבא חבר,pseudo_sentence_word_context
+1674,335,he,אוסף,אוסף,3,4,שופטים מגרש שאלות מוסמך הבא חבר,pseudo_sentence_word_context
+1675,335,he,קופים,קופים,4,5,שופטים מגרש שאלות מוסמך הבא חבר,pseudo_sentence_word_context
+1676,335,he,סלפי,סלפי,5,6,שופטים מגרש שאלות מוסמך הבא חבר,pseudo_sentence_word_context
+1677,336,he,צולם,צולם,0,1,לא יודע קוף לטעון,pseudo_sentence_word_context
+1678,336,he,יום,יום,1,2,לא יודע קוף לטעון,pseudo_sentence_word_context
+1679,336,he,התייעצו,התייעצו,2,3,לא יודע קוף לטעון,pseudo_sentence_word_context
+1680,336,he,פרימטולוג,פרימטולוג,3,4,לא יודע קוף לטעון,pseudo_sentence_word_context
+1681,337,he,עובדת,עובדת,0,1,סעיף כמה דקות לשפוט הפרעות לחקור פציעה,pseudo_sentence_word_context
+1682,337,he,שחור,שחור,1,2,סעיף כמה דקות לשפוט הפרעות לחקור פציעה,pseudo_sentence_word_context
+1683,337,he,מקוקים,מקוקים,2,3,סעיף כמה דקות לשפוט הפרעות לחקור פציעה,pseudo_sentence_word_context
+1684,337,he,זיהתה,זיהתה,3,4,סעיף כמה דקות לשפוט הפרעות לחקור פציעה,pseudo_sentence_word_context
+1685,337,he,קוף,קוף,4,5,סעיף כמה דקות לשפוט הפרעות לחקור פציעה,pseudo_sentence_word_context
+1686,337,he,מפורסם,מפורסם,5,6,סעיף כמה דקות לשפוט הפרעות לחקור פציעה,pseudo_sentence_word_context
+1687,337,he,סלפי,סלפי,6,7,סעיף כמה דקות לשפוט הפרעות לחקור פציעה,pseudo_sentence_word_context
+1688,338,he,אומר,אומר,0,1,משפטי מונח פגיעה נזק,pseudo_sentence_word_context
+1689,338,he,זכר,זכר,1,2,משפטי מונח פגיעה נזק,pseudo_sentence_word_context
+1690,338,he,זוכר,זוכר,2,3,משפטי מונח פגיעה נזק,pseudo_sentence_word_context
+1691,338,he,נקבה,נקבה,3,4,משפטי מונח פגיעה נזק,pseudo_sentence_word_context
+1692,339,he,זוכר,זוכר,0,1,פציעה,pseudo_sentence_word_context
+1693,340,he,ורוד,ורוד,0,1,דרך לרכוש להחזיק כסף זכות יוצרים לתת,pseudo_sentence_word_context
+1694,340,he,עכוז,עכוז,1,2,דרך לרכוש להחזיק כסף זכות יוצרים לתת,pseudo_sentence_word_context
+1695,340,he,זכר,זכר,2,3,דרך לרכוש להחזיק כסף זכות יוצרים לתת,pseudo_sentence_word_context
+1696,340,he,נקבה,נקבה,3,4,דרך לרכוש להחזיק כסף זכות יוצרים לתת,pseudo_sentence_word_context
+1697,340,he,מקוקים,מקוקים,4,5,דרך לרכוש להחזיק כסף זכות יוצרים לתת,pseudo_sentence_word_context
+1698,340,he,פתגם,פתגם,5,6,דרך לרכוש להחזיק כסף זכות יוצרים לתת,pseudo_sentence_word_context
+1699,340,he,הכנה,הכנה,6,7,דרך לרכוש להחזיק כסף זכות יוצרים לתת,pseudo_sentence_word_context
+1700,341,he,כזב,כזב,0,1,אבדות מוניטין,pseudo_sentence_word_context
+1701,341,he,טענה,טענה,1,2,אבדות מוניטין,pseudo_sentence_word_context
+1702,342,he,טעות,טעות,0,1,האשמה זכות יוצרים נהנו,pseudo_sentence_word_context
+1703,342,he,קוף,קוף,1,2,האשמה זכות יוצרים נהנו,pseudo_sentence_word_context
+1704,342,he,בית משפט,בית | משפט,2,4,האשמה זכות יוצרים נהנו,pseudo_sentence_word_context
+1705,342,he,לקיחה,לקיחה,4,5,האשמה זכות יוצרים נהנו,isolated_word_fallback_span_out_of_range
+1706,343,he,אמנותי,אמנותי,0,1,כספי הטבות לפנות,pseudo_sentence_word_context
+1707,343,he,עבודה,עבודה,1,2,כספי הטבות לפנות,pseudo_sentence_word_context
+1708,343,he,עשוי,עשוי,2,3,כספי הטבות לפנות,pseudo_sentence_word_context
+1709,344,he,נקבה,נקבה,0,1,,isolated_word_fallback_span_out_of_range
+1710,345,he,קוף,קוף,0,1,כבוד עניין פנה פיצוי,pseudo_sentence_word_context
+1711,345,he,לחשוב,לחשוב,1,2,כבוד עניין פנה פיצוי,pseudo_sentence_word_context
+1712,345,he,פמיניסטיות,פמיניסטיות,2,3,כבוד עניין פנה פיצוי,pseudo_sentence_word_context
+1713,345,he,להתחיל,להתחיל,3,4,כבוד עניין פנה פיצוי,pseudo_sentence_word_context
+1714,346,he,למחות,למחות,0,1,,isolated_word_fallback_span_out_of_range
+1715,347,he,בטוח,בטוח,0,1,רוצה לדעת פציעה,pseudo_sentence_word_context
+1716,347,he,גברת,גברת,1,2,רוצה לדעת פציעה,pseudo_sentence_word_context
+1717,347,he,קוף,קוף,2,3,רוצה לדעת פציעה,pseudo_sentence_word_context
+1718,348,he,חוויה,חוויה,0,1,מקרה אומר הפרת זכויות יוצרים פציעה,pseudo_sentence_word_context
+1719,348,he,טבע,טבע,1,2,מקרה אומר הפרת זכויות יוצרים פציעה,pseudo_sentence_word_context
+1720,348,he,בני אדם,בני | אדם,2,4,מקרה אומר הפרת זכויות יוצרים פציעה,pseudo_sentence_word_context
+1721,348,he,קופים,קופים,4,5,מקרה אומר הפרת זכויות יוצרים פציעה,pseudo_sentence_word_context
+1722,348,he,להשתטות,להשתטות,5,6,מקרה אומר הפרת זכויות יוצרים פציעה,pseudo_sentence_word_context
+1723,348,he,מול,מול,6,7,מקרה אומר הפרת זכויות יוצרים פציעה,isolated_word_fallback_span_out_of_range
+1724,349,he,מצלמות,מצלמות,0,1,פציעה,pseudo_sentence_word_context
+1725,350,he,אנושי,אנושי,0,1,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context
+1726,350,he,מאפין,מאפין,1,2,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context
+1727,350,he,לבזבז,לבזבז,2,3,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context
+1728,350,he,מאות,מאות,3,4,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context
+1729,350,he,אלפים,אלפים,4,5,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context
+1730,350,he,דולרים,דולרים,5,6,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context
+1731,350,he,שנים,שנים,6,7,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context
+1732,350,he,חיים,חיים,7,8,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context
+1733,350,he,ללכת,ללכת,8,9,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context
+1734,350,he,בית משפט,בית | משפט,9,11,משפטי יתרונות מקרה מהנה שמיעה עורכי דין לזרוק מונחים יכולת תיקון פיצוי פציעה שיחה קוף,pseudo_sentence_word_context

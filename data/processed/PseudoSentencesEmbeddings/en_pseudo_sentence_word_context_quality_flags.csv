@@ -1,0 +1,1736 @@
+﻿word_idx,sentence_id,language,target_text,components,span_start,span_end,pseudo_sentence,quality_flag
+0,1,en,act,act,0,1,act monkey middle,pseudo_sentence_word_context
+1,1,en,monkey,monkey,1,2,act monkey middle,pseudo_sentence_word_context
+2,1,en,middle,middle,2,3,act monkey middle,pseudo_sentence_word_context
+3,2,en,places,places,0,1,places animals go places designed humans humans,pseudo_sentence_word_context
+4,2,en,animals,animals,1,2,places animals go places designed humans humans,pseudo_sentence_word_context
+5,2,en,go,go,2,3,places animals go places designed humans humans,pseudo_sentence_word_context
+6,2,en,places,places,3,4,places animals go places designed humans humans,pseudo_sentence_word_context
+7,2,en,designed,designed,4,5,places animals go places designed humans humans,pseudo_sentence_word_context
+8,2,en,humans,humans,5,6,places animals go places designed humans humans,pseudo_sentence_word_context
+9,2,en,humans,humans,6,7,places animals go places designed humans humans,pseudo_sentence_word_context
+10,3,en,act,act,0,1,act ends place starts,pseudo_sentence_word_context
+11,3,en,ends,ends,1,2,act ends place starts,pseudo_sentence_word_context
+12,3,en,place,place,2,3,act ends place starts,pseudo_sentence_word_context
+13,3,en,starts,starts,3,4,act ends place starts,pseudo_sentence_word_context
+14,4,en,explains,explains,0,1,explains,pseudo_sentence_word_context
+15,5,en,story,story,0,1,story begins deep rainforests island called,pseudo_sentence_word_context
+16,5,en,begins,begins,1,2,story begins deep rainforests island called,pseudo_sentence_word_context
+17,5,en,deep,deep,2,3,story begins deep rainforests island called,pseudo_sentence_word_context
+18,5,en,rainforests,rainforests,3,4,story begins deep rainforests island called,pseudo_sentence_word_context
+19,5,en,island,island,4,5,story begins deep rainforests island called,pseudo_sentence_word_context
+20,5,en,called,called,5,6,story begins deep rainforests island called,pseudo_sentence_word_context
+21,6,en,few_years,few | years,0,2,few years photographer traveled home england photograph troop monkeys,pseudo_sentence_word_context
+22,6,en,photographer,photographer,2,3,few years photographer traveled home england photograph troop monkeys,pseudo_sentence_word_context
+23,6,en,traveled,traveled,3,4,few years photographer traveled home england photograph troop monkeys,pseudo_sentence_word_context
+24,6,en,home,home,4,5,few years photographer traveled home england photograph troop monkeys,pseudo_sentence_word_context
+25,6,en,england,england,5,6,few years photographer traveled home england photograph troop monkeys,pseudo_sentence_word_context
+26,6,en,photograph,photograph,6,7,few years photographer traveled home england photograph troop monkeys,pseudo_sentence_word_context
+27,6,en,troop,troop,7,8,few years photographer traveled home england photograph troop monkeys,pseudo_sentence_word_context
+28,6,en,monkeys,monkeys,8,9,few years photographer traveled home england photograph troop monkeys,pseudo_sentence_word_context
+29,6,en,gone,gone,9,10,few years photographer traveled home england photograph troop monkeys,isolated_word_fallback_span_out_of_range
+30,7,en,whole,whole,0,1,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+31,7,en,day,day,1,2,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+32,7,en,following,following,2,3,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+33,7,en,thick,thick,3,4,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+34,7,en,forest,forest,4,5,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+35,7,en,vines,vines,5,6,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+36,7,en,muddy,muddy,6,7,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+37,7,en,undergrowth,undergrowth,7,8,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+38,7,en,cobwebs,cobwebs,8,9,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+39,7,en,poisonous,poisonous,9,10,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+40,7,en,snakes,snakes,10,11,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+41,7,en,man,man,11,12,gone whole day following thick forest vines muddy undergrowth cobwebs poisonous snakes,pseudo_sentence_word_context
+42,8,en,name,name,0,1,man,pseudo_sentence_word_context
+43,9,en,go,go,0,1,name go,pseudo_sentence_word_context
+44,9,en,amazing,amazing,1,2,name go,pseudo_sentence_word_context
+45,10,en,monkey,monkey,0,1,amazing monkey,pseudo_sentence_word_context
+46,10,en,monkey,monkey,1,2,amazing monkey,pseudo_sentence_word_context
+47,11,en,met,met,0,1,monkey,pseudo_sentence_word_context
+48,12,en,monkeys,monkeys,0,1,met monkeys said mean world,pseudo_sentence_word_context
+49,12,en,said,said,1,2,met monkeys said mean world,pseudo_sentence_word_context
+50,12,en,mean,mean,2,3,met monkeys said mean world,pseudo_sentence_word_context
+51,12,en,world,world,3,4,met monkeys said mean world,pseudo_sentence_word_context
+52,12,en,know,know,4,5,met monkeys said mean world,pseudo_sentence_word_context
+53,13,en,know,know,0,1,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+54,13,en,little_bit,little | bit,1,3,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+55,13,en,monkey,monkey,3,4,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+56,13,en,monkey,monkey,4,5,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+57,13,en,etiquette,etiquette,5,6,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+58,13,en,showing,showing,6,7,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+59,13,en,teeth,teeth,7,8,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+60,13,en,show,show,8,9,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+61,13,en,teeth,teeth,9,10,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+62,13,en,stare,stare,10,11,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+63,13,en,face,face,11,12,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+64,13,en,secrets,secrets,12,13,know know little bit monkey monkey etiquette showing teeth show teeth stare face,pseudo_sentence_word_context
+65,13,en,able,able,13,14,know know little bit monkey monkey etiquette showing teeth show teeth stare face,isolated_word_fallback_span_out_of_range
+66,14,en,good,good,0,1,secrets able good photography making animal relaxed,pseudo_sentence_word_context
+67,14,en,photography,photography,1,2,secrets able good photography making animal relaxed,pseudo_sentence_word_context
+68,14,en,making,making,2,3,secrets able good photography making animal relaxed,pseudo_sentence_word_context
+69,14,en,animal,animal,3,4,secrets able good photography making animal relaxed,pseudo_sentence_word_context
+70,14,en,relaxed,relaxed,4,5,secrets able good photography making animal relaxed,pseudo_sentence_word_context
+71,14,en,shot,shot,5,6,secrets able good photography making animal relaxed,pseudo_sentence_word_context
+72,14,en,wanted,wanted,6,7,secrets able good photography making animal relaxed,pseudo_sentence_word_context
+73,15,en,full,full,0,1,shot wanted full face portrait lens,pseudo_sentence_word_context
+74,15,en,face,face,1,2,shot wanted full face portrait lens,pseudo_sentence_word_context
+75,15,en,portrait,portrait,2,3,shot wanted full face portrait lens,pseudo_sentence_word_context
+76,15,en,lens,lens,3,4,shot wanted full face portrait lens,pseudo_sentence_word_context
+77,15,en,time,time,4,5,shot wanted full face portrait lens,pseudo_sentence_word_context
+78,15,en,taking,taking,5,6,shot wanted full face portrait lens,pseudo_sentence_word_context
+79,16,en,shot,shot,0,1,time taking shot monkeys look,pseudo_sentence_word_context
+80,16,en,monkeys,monkeys,1,2,time taking shot monkeys look,pseudo_sentence_word_context
+81,16,en,look,look,2,3,time taking shot monkeys look,pseudo_sentence_word_context
+82,16,en,days,days,3,4,time taking shot monkeys look,pseudo_sentence_word_context
+83,16,en,misses,misses,4,5,time taking shot monkeys look,pseudo_sentence_word_context
+84,17,en,changed,changed,0,1,days misses changed strategies,pseudo_sentence_word_context
+85,17,en,strategies,strategies,1,2,days misses changed strategies,pseudo_sentence_word_context
+86,17,en,put,put,2,3,days misses changed strategies,pseudo_sentence_word_context
+87,17,en,camera,camera,3,4,days misses changed strategies,pseudo_sentence_word_context
+88,18,en,tripod,tripod,0,1,put camera tripod threw cookies try entice monkeys,pseudo_sentence_word_context
+89,18,en,threw,threw,1,2,put camera tripod threw cookies try entice monkeys,pseudo_sentence_word_context
+90,18,en,cookies,cookies,2,3,put camera tripod threw cookies try entice monkeys,pseudo_sentence_word_context
+91,18,en,try,try,3,4,put camera tripod threw cookies try entice monkeys,pseudo_sentence_word_context
+92,18,en,entice,entice,4,5,put camera tripod threw cookies try entice monkeys,pseudo_sentence_word_context
+93,18,en,monkeys,monkeys,5,6,put camera tripod threw cookies try entice monkeys,pseudo_sentence_word_context
+94,18,en,hoping,hoping,6,7,put camera tripod threw cookies try entice monkeys,pseudo_sentence_word_context
+95,18,en,curious,curious,7,8,put camera tripod threw cookies try entice monkeys,pseudo_sentence_word_context
+96,19,en,camera,camera,0,1,hoping curious camera start pushing,pseudo_sentence_word_context
+97,19,en,start,start,1,2,hoping curious camera start pushing,pseudo_sentence_word_context
+98,19,en,pushing,pushing,2,3,hoping curious camera start pushing,pseudo_sentence_word_context
+99,19,en,curious,curious,3,4,hoping curious camera start pushing,pseudo_sentence_word_context
+100,19,en,pushing,pushing,4,5,hoping curious camera start pushing,pseudo_sentence_word_context
+101,20,en,attached,attached,0,1,curious,pseudo_sentence_word_context
+102,21,en,cable,cable,0,1,pushing,pseudo_sentence_word_context
+103,22,en,end,end,0,1,attached cable end camera,pseudo_sentence_word_context
+104,22,en,camera,camera,1,2,attached cable end camera,pseudo_sentence_word_context
+105,22,en,monkeys,monkeys,2,3,attached cable end camera,pseudo_sentence_word_context
+106,22,en,liked,liked,3,4,attached cable end camera,pseudo_sentence_word_context
+107,23,en,started,started,0,1,monkeys liked,pseudo_sentence_word_context
+108,23,en,playing,playing,1,2,monkeys liked,pseudo_sentence_word_context
+109,24,en,putting,putting,0,1,started playing putting mouths fighting,pseudo_sentence_word_context
+110,24,en,mouths,mouths,1,2,started playing putting mouths fighting,pseudo_sentence_word_context
+111,24,en,fighting,fighting,2,3,started playing putting mouths fighting,pseudo_sentence_word_context
+112,24,en,course,course,3,4,started playing putting mouths fighting,pseudo_sentence_word_context
+113,24,en,pressed,pressed,4,5,started playing putting mouths fighting,pseudo_sentence_word_context
+114,25,en,looked,looked,0,1,course pressed looked lens,pseudo_sentence_word_context
+115,25,en,lens,lens,1,2,course pressed looked lens,pseudo_sentence_word_context
+116,25,en,fact,fact,2,3,course pressed looked lens,pseudo_sentence_word_context
+117,25,en,going,going,3,4,course pressed looked lens,pseudo_sentence_word_context
+118,26,en,monkey,monkey,0,1,fact going monkey language,pseudo_sentence_word_context
+119,26,en,language,language,1,2,fact going monkey language,pseudo_sentence_word_context
+120,26,en,fired,fired,2,3,fact going monkey language,pseudo_sentence_word_context
+121,26,en,few,few,3,4,fact going monkey language,pseudo_sentence_word_context
+122,27,en,shots,shots,0,1,fired few shots,pseudo_sentence_word_context
+123,27,en,reviewed,reviewed,1,2,fired few shots,pseudo_sentence_word_context
+124,27,en,bad,bad,2,3,fired few shots,pseudo_sentence_word_context
+125,28,en,little,little,0,1,reviewed,pseudo_sentence_word_context
+126,29,en,focus,focus,0,1,bad little focus,pseudo_sentence_word_context
+127,29,en,adjusted,adjusted,1,2,bad little focus,pseudo_sentence_word_context
+128,29,en,settings,settings,2,3,bad little focus,pseudo_sentence_word_context
+129,30,en,put,put,0,1,adjusted settings put camera,pseudo_sentence_word_context
+130,30,en,camera,camera,1,2,adjusted settings put camera,pseudo_sentence_word_context
+131,30,en,monkeys,monkeys,2,3,adjusted settings put camera,pseudo_sentence_word_context
+132,30,en,whole,whole,3,4,adjusted settings put camera,pseudo_sentence_word_context
+133,31,en,project,project,0,1,monkeys whole project,pseudo_sentence_word_context
+134,31,en,fact,fact,1,2,monkeys whole project,pseudo_sentence_word_context
+135,31,en,little,little,2,3,monkeys whole project,pseudo_sentence_word_context
+136,32,en,excited,excited,0,1,fact little excited,pseudo_sentence_word_context
+137,32,en,knocked,knocked,1,2,fact little excited,pseudo_sentence_word_context
+138,32,en,tripod,tripod,2,3,fact little excited,pseudo_sentence_word_context
+139,33,en,laid,laid,0,1,knocked tripod,pseudo_sentence_word_context
+140,33,en,stomach,stomach,1,2,knocked tripod,pseudo_sentence_word_context
+141,34,en,stretched,stretched,0,1,laid stomach stretched arm steady tripod fingers,pseudo_sentence_word_context
+142,34,en,arm,arm,1,2,laid stomach stretched arm steady tripod fingers,pseudo_sentence_word_context
+143,34,en,steady,steady,2,3,laid stomach stretched arm steady tripod fingers,pseudo_sentence_word_context
+144,34,en,tripod,tripod,3,4,laid stomach stretched arm steady tripod fingers,pseudo_sentence_word_context
+145,34,en,fingers,fingers,4,5,laid stomach stretched arm steady tripod fingers,pseudo_sentence_word_context
+146,34,en,few,few,5,6,laid stomach stretched arm steady tripod fingers,pseudo_sentence_word_context
+147,34,en,other,other,6,7,laid stomach stretched arm steady tripod fingers,pseudo_sentence_word_context
+148,35,en,monkeys,monkeys,0,1,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+149,35,en,noticed,noticed,1,2,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+150,35,en,strange,strange,2,3,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+151,35,en,new,new,3,4,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+152,35,en,friend,friend,4,5,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+153,35,en,lying,lying,5,6,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+154,35,en,full,full,6,7,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+155,35,en,floor,floor,7,8,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+156,35,en,hopped,hopped,8,9,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+157,35,en,monkeys,monkeys,9,10,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+158,35,en,trying,trying,10,11,few other monkeys noticed strange new friend lying full floor hopped,pseudo_sentence_word_context
+159,36,en,keep,keep,0,1,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+160,36,en,camera,camera,1,2,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+161,36,en,knocked,knocked,2,3,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+162,36,en,monkeys,monkeys,3,4,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+163,36,en,trying,trying,4,5,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+164,36,en,monkeys,monkeys,5,6,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+165,36,en,trying,trying,6,7,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+166,36,en,play,play,7,8,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+167,36,en,sudden,sudden,8,9,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+168,36,en,heard,heard,9,10,monkeys trying keep camera knocked monkeys trying monkeys trying play,pseudo_sentence_word_context
+169,37,en,camera,camera,0,1,sudden heard camera going,pseudo_sentence_word_context
+170,37,en,going,going,1,2,sudden heard camera going,pseudo_sentence_word_context
+171,37,en,didnt,didnt,2,3,sudden heard camera going,pseudo_sentence_word_context
+172,37,en,dare,dare,3,4,sudden heard camera going,pseudo_sentence_word_context
+173,38,en,knew,knew,0,1,didnt dare,pseudo_sentence_word_context
+174,38,en,looked,looked,1,2,didnt dare,pseudo_sentence_word_context
+175,39,en,look,look,0,1,knew looked look,pseudo_sentence_word_context
+176,39,en,let,let,1,2,knew looked look,pseudo_sentence_word_context
+177,39,en,sort,sort,2,3,knew looked look,pseudo_sentence_word_context
+178,40,en,looked,looked,0,1,let,pseudo_sentence_word_context
+179,41,en,see,see,0,1,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+180,41,en,pulling,pulling,1,2,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+181,41,en,amazing,amazing,2,3,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+182,41,en,contorted,contorted,3,4,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+183,41,en,faces,faces,4,5,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+184,41,en,howling,howling,5,6,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+185,41,en,mouths,mouths,6,7,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+186,41,en,smiling,smiling,7,8,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+187,41,en,mouth,mouth,8,9,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+188,41,en,monkeys,monkeys,9,10,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+189,41,en,taking,taking,10,11,sort looked see pulling amazing contorted faces howling mouths smiling mouth,pseudo_sentence_word_context
+190,42,en,selfies,selfies,0,1,monkeys taking selfies amazing beautiful weird selfies,pseudo_sentence_word_context
+191,42,en,amazing,amazing,1,2,monkeys taking selfies amazing beautiful weird selfies,pseudo_sentence_word_context
+192,42,en,beautiful,beautiful,2,3,monkeys taking selfies amazing beautiful weird selfies,pseudo_sentence_word_context
+193,42,en,weird,weird,3,4,monkeys taking selfies amazing beautiful weird selfies,pseudo_sentence_word_context
+194,42,en,selfies,selfies,4,5,monkeys taking selfies amazing beautiful weird selfies,pseudo_sentence_word_context
+195,42,en,wanted,wanted,5,6,monkeys taking selfies amazing beautiful weird selfies,pseudo_sentence_word_context
+196,42,en,go,go,6,7,monkeys taking selfies amazing beautiful weird selfies,pseudo_sentence_word_context
+197,43,en,stood,stood,0,1,wanted go,pseudo_sentence_word_context
+198,43,en,checked,checked,1,2,wanted go,pseudo_sentence_word_context
+199,44,en,work,work,0,1,stood checked work saw shots regular old everyday selfies,pseudo_sentence_word_context
+200,44,en,saw,saw,1,2,stood checked work saw shots regular old everyday selfies,pseudo_sentence_word_context
+201,44,en,shots,shots,2,3,stood checked work saw shots regular old everyday selfies,pseudo_sentence_word_context
+202,44,en,regular,regular,3,4,stood checked work saw shots regular old everyday selfies,pseudo_sentence_word_context
+203,44,en,old,old,4,5,stood checked work saw shots regular old everyday selfies,pseudo_sentence_word_context
+204,44,en,everyday,everyday,5,6,stood checked work saw shots regular old everyday selfies,pseudo_sentence_word_context
+205,44,en,selfies,selfies,6,7,stood checked work saw shots regular old everyday selfies,pseudo_sentence_word_context
+206,44,en,guy,guy,7,8,stood checked work saw shots regular old everyday selfies,pseudo_sentence_word_context
+207,44,en,gym,gym,8,9,stood checked work saw shots regular old everyday selfies,pseudo_sentence_word_context
+208,45,en,taking,taking,0,1,guy gym taking pictures muscles mirror,pseudo_sentence_word_context
+209,45,en,pictures,pictures,1,2,guy gym taking pictures muscles mirror,pseudo_sentence_word_context
+210,45,en,muscles,muscles,2,3,guy gym taking pictures muscles mirror,pseudo_sentence_word_context
+211,45,en,mirror,mirror,3,4,guy gym taking pictures muscles mirror,pseudo_sentence_word_context
+212,45,en,next,next,4,5,guy gym taking pictures muscles mirror,pseudo_sentence_word_context
+213,45,en,level,level,5,6,guy gym taking pictures muscles mirror,pseudo_sentence_word_context
+214,46,en,good,good,0,1,next level good,pseudo_sentence_word_context
+215,46,en,escape,escape,1,2,next level good,pseudo_sentence_word_context
+216,46,en,bounds,bounds,2,3,next level good,pseudo_sentence_word_context
+217,47,en,selfie,selfie,0,1,escape bounds selfie enter realm art,pseudo_sentence_word_context
+218,47,en,enter,enter,1,2,escape bounds selfie enter realm art,pseudo_sentence_word_context
+219,47,en,realm,realm,2,3,escape bounds selfie enter realm art,pseudo_sentence_word_context
+220,47,en,art,art,3,4,escape bounds selfie enter realm art,pseudo_sentence_word_context
+221,47,en,shot,shot,4,5,escape bounds selfie enter realm art,pseudo_sentence_word_context
+222,47,en,particular,particular,5,6,escape bounds selfie enter realm art,pseudo_sentence_word_context
+223,48,en,caught,caught,0,1,shot particular caught eye,pseudo_sentence_word_context
+224,48,en,eye,eye,1,2,shot particular caught eye,pseudo_sentence_word_context
+225,48,en,monkeys,monkeys,2,3,shot particular caught eye,pseudo_sentence_word_context
+226,48,en,face,face,3,4,shot particular caught eye,pseudo_sentence_word_context
+227,49,en,camera,camera,0,1,monkeys face camera looking lens,pseudo_sentence_word_context
+228,49,en,looking,looking,1,2,monkeys face camera looking lens,pseudo_sentence_word_context
+229,49,en,lens,lens,2,3,monkeys face camera looking lens,pseudo_sentence_word_context
+230,49,en,hair,hair,3,4,monkeys face camera looking lens,pseudo_sentence_word_context
+231,49,en,eyes,eyes,4,5,monkeys face camera looking lens,pseudo_sentence_word_context
+232,50,en,friendly,friendly,0,1,hair,pseudo_sentence_word_context
+233,51,en,big,big,0,1,eyes friendly big round amber,pseudo_sentence_word_context
+234,51,en,round,round,1,2,eyes friendly big round amber,pseudo_sentence_word_context
+235,51,en,amber,amber,2,3,eyes friendly big round amber,pseudo_sentence_word_context
+236,51,en,nice,nice,3,4,eyes friendly big round amber,pseudo_sentence_word_context
+237,51,en,details,details,4,5,eyes friendly big round amber,pseudo_sentence_word_context
+238,52,en,details,details,0,1,nice details details important,pseudo_sentence_word_context
+239,52,en,important,important,1,2,nice details details important,pseudo_sentence_word_context
+240,52,en,focus,focus,2,3,nice details details important,pseudo_sentence_word_context
+241,52,en,selfie,selfie,3,4,nice details details important,pseudo_sentence_word_context
+242,53,en,main,main,0,1,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+243,53,en,event,event,1,2,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+244,53,en,monkeys,monkeys,2,3,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+245,53,en,self_satisfied,self | satisfied,3,5,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+246,53,en,grin,grin,5,6,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+247,53,en,teeth,teeth,6,7,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+248,53,en,big,big,7,8,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+249,53,en,mouth,mouth,8,9,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+250,53,en,gaps,gaps,9,10,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+251,53,en,real,real,10,11,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+252,53,en,grin,grin,11,12,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+253,53,en,knows,knows,12,13,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+254,53,en,smiling,smiling,13,14,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+255,53,en,picture,picture,14,15,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+256,53,en,saw,saw,15,16,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+257,53,en,front,front,16,17,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,pseudo_sentence_word_context
+258,53,en,cover,cover,17,18,focus selfie main event monkeys self satisfied grin teeth big mouth gaps real grin knows smiling picture,isolated_word_fallback_span_out_of_range
+259,54,en,thought,thought,0,1,saw front cover,pseudo_sentence_word_context
+260,54,en,need,need,1,2,saw front cover,pseudo_sentence_word_context
+261,54,en,agents,agents,2,3,saw front cover,pseudo_sentence_word_context
+262,55,en,agents,agents,0,1,thought need agents,pseudo_sentence_word_context
+263,55,en,put,put,1,2,thought need agents,pseudo_sentence_word_context
+264,55,en,press_release,press | release,2,4,thought need agents,isolated_word_fallback_span_out_of_range
+265,56,en,selfies,selfies,0,1,agents put press release selfies,pseudo_sentence_word_context
+266,56,en,thought,thought,1,2,agents put press release selfies,pseudo_sentence_word_context
+267,56,en,grab,grab,2,3,agents put press release selfies,pseudo_sentence_word_context
+268,56,en,peoples,peoples,3,4,agents put press release selfies,pseudo_sentence_word_context
+269,56,en,attention,attention,4,5,agents put press release selfies,pseudo_sentence_word_context
+270,57,en,photos,photos,0,1,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+271,57,en,use,use,1,2,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+272,57,en,opportunity,opportunity,2,3,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+273,57,en,send,send,3,4,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+274,57,en,message,message,4,5,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+275,57,en,conservation,conservation,5,6,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+276,57,en,wanted,wanted,6,7,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+277,57,en,sell,sell,7,8,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+278,57,en,pictures,pictures,8,9,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+279,57,en,course,course,9,10,thought grab peoples attention photos use opportunity send message conservation,pseudo_sentence_word_context
+280,58,en,monkeys,monkeys,0,1,wanted sell pictures course,pseudo_sentence_word_context
+281,58,en,black,black,1,2,wanted sell pictures course,pseudo_sentence_word_context
+282,58,en,macaques,macaques,2,3,wanted sell pictures course,pseudo_sentence_word_context
+283,58,en,considered,considered,3,4,wanted sell pictures course,pseudo_sentence_word_context
+284,59,en,endangered,endangered,0,1,monkeys black macaques considered endangered step extinct wild,pseudo_sentence_word_context
+285,59,en,step,step,1,2,monkeys black macaques considered endangered step extinct wild,pseudo_sentence_word_context
+286,59,en,extinct,extinct,2,3,monkeys black macaques considered endangered step extinct wild,pseudo_sentence_word_context
+287,59,en,wild,wild,3,4,monkeys black macaques considered endangered step extinct wild,pseudo_sentence_word_context
+288,59,en,lost,lost,4,5,monkeys black macaques considered endangered step extinct wild,pseudo_sentence_word_context
+289,59,en,percent,percent,5,6,monkeys black macaques considered endangered step extinct wild,pseudo_sentence_word_context
+290,59,en,population,population,6,7,monkeys black macaques considered endangered step extinct wild,pseudo_sentence_word_context
+291,59,en,last_years,last | years,7,9,monkeys black macaques considered endangered step extinct wild,isolated_word_fallback_span_out_of_range
+292,60,en,humans,humans,0,1,lost percent population last years humans went indonesia place,pseudo_sentence_word_context
+293,60,en,went,went,1,2,lost percent population last years humans went indonesia place,pseudo_sentence_word_context
+294,60,en,indonesia,indonesia,2,3,lost percent population last years humans went indonesia place,pseudo_sentence_word_context
+295,60,en,place,place,3,4,lost percent population last years humans went indonesia place,pseudo_sentence_word_context
+296,60,en,wanted,wanted,4,5,lost percent population last years humans went indonesia place,pseudo_sentence_word_context
+297,60,en,take,take,5,6,lost percent population last years humans went indonesia place,pseudo_sentence_word_context
+298,60,en,photographs,photographs,6,7,lost percent population last years humans went indonesia place,pseudo_sentence_word_context
+299,60,en,inspire,inspire,7,8,lost percent population last years humans went indonesia place,pseudo_sentence_word_context
+300,60,en,humans,humans,8,9,lost percent population last years humans went indonesia place,pseudo_sentence_word_context
+301,61,en,caring,caring,0,1,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+302,61,en,little,little,1,2,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+303,61,en,monkeys,monkeys,2,3,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+304,61,en,stop,stop,3,4,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+305,61,en,killing,killing,4,5,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+306,61,en,selfies,selfies,5,6,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+307,61,en,didnt,didnt,6,7,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+308,61,en,end,end,7,8,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+309,61,en,cover,cover,8,9,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+310,61,en,british,british,9,10,wanted take photographs inspire humans caring little monkeys stop killing,pseudo_sentence_word_context
+311,62,en,tabloids,tabloids,0,1,selfies didnt end cover british tabloids interested,pseudo_sentence_word_context
+312,62,en,interested,interested,1,2,selfies didnt end cover british tabloids interested,pseudo_sentence_word_context
+313,62,en,mail,mail,2,3,selfies didnt end cover british tabloids interested,pseudo_sentence_word_context
+314,62,en,newspaper,newspaper,3,4,selfies didnt end cover british tabloids interested,pseudo_sentence_word_context
+315,62,en,publish,publish,4,5,selfies didnt end cover british tabloids interested,pseudo_sentence_word_context
+316,62,en,story,story,5,6,selfies didnt end cover british tabloids interested,pseudo_sentence_word_context
+317,62,en,selfies,selfies,6,7,selfies didnt end cover british tabloids interested,pseudo_sentence_word_context
+318,63,en,hour,hour,0,1,mail newspaper publish story selfies,pseudo_sentence_word_context
+319,63,en,country,country,1,2,mail newspaper publish story selfies,pseudo_sentence_word_context
+320,63,en,australia,australia,2,3,mail newspaper publish story selfies,pseudo_sentence_word_context
+321,63,en,germany,germany,3,4,mail newspaper publish story selfies,pseudo_sentence_word_context
+322,63,en,emails,emails,4,5,mail newspaper publish story selfies,pseudo_sentence_word_context
+323,64,en,inbox,inbox,0,1,,isolated_word_fallback_span_out_of_range
+324,65,en,crazy,crazy,0,1,hour country australia germany,pseudo_sentence_word_context
+325,65,en,people,people,1,2,hour country australia germany,pseudo_sentence_word_context
+326,65,en,wanting,wanting,2,3,hour country australia germany,pseudo_sentence_word_context
+327,65,en,know,know,3,4,hour country australia germany,pseudo_sentence_word_context
+328,66,en,story,story,0,1,emails,pseudo_sentence_word_context
+329,67,en,wanting,wanting,0,1,inbox crazy,pseudo_sentence_word_context
+330,67,en,use,use,1,2,inbox crazy,pseudo_sentence_word_context
+331,68,en,image,image,0,1,people wanting know story wanting use image,pseudo_sentence_word_context
+332,68,en,phone,phone,1,2,people wanting know story wanting use image,pseudo_sentence_word_context
+333,68,en,hot,hot,2,3,people wanting know story wanting use image,pseudo_sentence_word_context
+334,68,en,calls,calls,3,4,people wanting know story wanting use image,pseudo_sentence_word_context
+335,68,en,next_few_months,next | few | months,4,7,people wanting know story wanting use image,pseudo_sentence_word_context
+336,68,en,selfies,selfies,7,8,people wanting know story wanting use image,isolated_word_fallback_span_out_of_range
+337,68,en,sold,sold,8,9,people wanting know story wanting use image,isolated_word_fallback_span_out_of_range
+338,69,en,licensing,licensing,0,1,phone hot calls,pseudo_sentence_word_context
+339,69,en,publications,publications,1,2,phone hot calls,pseudo_sentence_word_context
+340,69,en,selling,selling,2,3,phone hot calls,pseudo_sentence_word_context
+341,70,en,prints,prints,0,1,next few months selfies sold,pseudo_sentence_word_context
+342,70,en,day,day,1,2,next few months selfies sold,pseudo_sentence_word_context
+343,70,en,goes,goes,2,3,next few months selfies sold,pseudo_sentence_word_context
+344,70,en,research,research,3,4,next few months selfies sold,pseudo_sentence_word_context
+345,70,en,monkeys,monkeys,4,5,next few months selfies sold,pseudo_sentence_word_context
+346,71,en,started,started,0,1,licensing publications selling prints,pseudo_sentence_word_context
+347,71,en,search,search,1,2,licensing publications selling prints,pseudo_sentence_word_context
+348,71,en,black,black,2,3,licensing publications selling prints,pseudo_sentence_word_context
+349,71,en,macaque,macaque,3,4,licensing publications selling prints,pseudo_sentence_word_context
+350,72,en,day,day,0,1,day goes research monkeys,pseudo_sentence_word_context
+351,72,en,wikipedia,wikipedia,1,2,day goes research monkeys,pseudo_sentence_word_context
+352,72,en,top,top,2,3,day goes research monkeys,pseudo_sentence_word_context
+353,72,en,list,list,3,4,day goes research monkeys,pseudo_sentence_word_context
+354,73,en,clicked,clicked,0,1,started search black macaque day,pseudo_sentence_word_context
+355,73,en,image,image,1,2,started search black macaque day,pseudo_sentence_word_context
+356,73,en,thought,thought,2,3,started search black macaque day,pseudo_sentence_word_context
+357,73,en,caters,caters,3,4,started search black macaque day,pseudo_sentence_word_context
+358,73,en,news_agency,news | agency,4,6,started search black macaque day,isolated_word_fallback_span_out_of_range
+359,74,en,paid,paid,0,1,wikipedia top list,pseudo_sentence_word_context
+360,74,en,license,license,1,2,wikipedia top list,pseudo_sentence_word_context
+361,74,en,fee,fee,2,3,wikipedia top list,pseudo_sentence_word_context
+362,75,en,sent,sent,0,1,clicked image,pseudo_sentence_word_context
+363,75,en,letter,letter,1,2,clicked image,pseudo_sentence_word_context
+364,76,en,sent,sent,0,1,thought,pseudo_sentence_word_context
+365,77,en,letter,letter,0,1,caters news agency paid license fee,pseudo_sentence_word_context
+366,77,en,saying,saying,1,2,caters news agency paid license fee,pseudo_sentence_word_context
+367,77,en,think,think,2,3,caters news agency paid license fee,pseudo_sentence_word_context
+368,77,en,using,using,3,4,caters news agency paid license fee,pseudo_sentence_word_context
+369,77,en,license,license,4,5,caters news agency paid license fee,pseudo_sentence_word_context
+370,77,en,fee,fee,5,6,caters news agency paid license fee,pseudo_sentence_word_context
+371,78,en,show,show,0,1,,isolated_word_fallback_span_out_of_range
+372,79,en,pay,pay,0,1,sent letter,pseudo_sentence_word_context
+373,79,en,wrote,wrote,1,2,sent letter,pseudo_sentence_word_context
+374,80,en,saying,saying,0,1,sent letter saying think using license fee,pseudo_sentence_word_context
+375,80,en,image,image,1,2,sent letter saying think using license fee,pseudo_sentence_word_context
+376,80,en,believe,believe,2,3,sent letter saying think using license fee,pseudo_sentence_word_context
+377,80,en,public_domain,public | domain,3,5,sent letter saying think using license fee,pseudo_sentence_word_context
+378,80,en,other_words,other | words,5,7,sent letter saying think using license fee,pseudo_sentence_word_context
+379,80,en,use,use,7,8,sent letter saying think using license fee,isolated_word_fallback_span_out_of_range
+380,80,en,permission,permission,8,9,sent letter saying think using license fee,isolated_word_fallback_span_out_of_range
+381,81,en,free,free,0,1,show pay,pseudo_sentence_word_context
+382,81,en,stealing,stealing,1,2,show pay,pseudo_sentence_word_context
+383,82,en,makes,makes,0,1,wrote saying image believe public domain,pseudo_sentence_word_context
+384,82,en,living,living,1,2,wrote saying image believe public domain,pseudo_sentence_word_context
+385,82,en,selling,selling,2,3,wrote saying image believe public domain,pseudo_sentence_word_context
+386,82,en,pictures,pictures,3,4,wrote saying image believe public domain,pseudo_sentence_word_context
+387,82,en,helpful,helpful,4,5,wrote saying image believe public domain,pseudo_sentence_word_context
+388,82,en,such,such,5,6,wrote saying image believe public domain,pseudo_sentence_word_context
+389,83,en,hit,hit,0,1,other words use permission free,pseudo_sentence_word_context
+390,83,en,download,download,1,2,other words use permission free,pseudo_sentence_word_context
+391,83,en,wikipedia,wikipedia,2,3,other words use permission free,pseudo_sentence_word_context
+392,83,en,hang,hang,3,4,other words use permission free,pseudo_sentence_word_context
+393,83,en,wall,wall,4,5,other words use permission free,pseudo_sentence_word_context
+394,84,en,print,print,0,1,stealing,pseudo_sentence_word_context
+395,85,en,publication,publication,0,1,makes living selling pictures,pseudo_sentence_word_context
+396,85,en,wikipedias,wikipedias,1,2,makes living selling pictures,pseudo_sentence_word_context
+397,85,en,opinion,opinion,2,3,makes living selling pictures,pseudo_sentence_word_context
+398,85,en,information,information,3,4,makes living selling pictures,pseudo_sentence_word_context
+399,86,en,internet,internet,0,1,helpful such hit,pseudo_sentence_word_context
+400,86,en,free,free,1,2,helpful such hit,pseudo_sentence_word_context
+401,86,en,learned,learned,2,3,helpful such hit,pseudo_sentence_word_context
+402,87,en,decided,decided,0,1,download wikipedia hang wall print publication,pseudo_sentence_word_context
+403,87,en,selfie,selfie,1,2,download wikipedia hang wall print publication,pseudo_sentence_word_context
+404,87,en,public_domain,public | domain,2,4,download wikipedia hang wall print publication,pseudo_sentence_word_context
+405,87,en,monkey,monkey,4,5,download wikipedia hang wall print publication,pseudo_sentence_word_context
+406,87,en,pressed,pressed,5,6,download wikipedia hang wall print publication,pseudo_sentence_word_context
+407,87,en,button,button,6,7,download wikipedia hang wall print publication,isolated_word_fallback_span_out_of_range
+408,88,en,monkey,monkey,0,1,wikipedias opinion information internet free,pseudo_sentence_word_context
+409,88,en,creator,creator,1,2,wikipedias opinion information internet free,pseudo_sentence_word_context
+410,88,en,photo,photo,2,3,wikipedias opinion information internet free,pseudo_sentence_word_context
+411,88,en,wikipedias,wikipedias,3,4,wikipedias opinion information internet free,pseudo_sentence_word_context
+412,88,en,assessment,assessment,4,5,wikipedias opinion information internet free,pseudo_sentence_word_context
+413,89,en,monkeys,monkeys,0,1,learned decided selfie public domain,pseudo_sentence_word_context
+414,89,en,own,own,1,2,learned decided selfie public domain,pseudo_sentence_word_context
+415,89,en,copyrights,copyrights,2,3,learned decided selfie public domain,pseudo_sentence_word_context
+416,89,en,photo,photo,3,4,learned decided selfie public domain,pseudo_sentence_word_context
+417,89,en,free,free,4,5,learned decided selfie public domain,pseudo_sentence_word_context
+418,90,en,fair_use,fair | use,0,2,monkey pressed button,pseudo_sentence_word_context
+419,90,en,belonged,belonged,2,3,monkey pressed button,pseudo_sentence_word_context
+420,90,en,internet,internet,3,4,monkey pressed button,isolated_word_fallback_span_out_of_range
+421,91,en,baffled,baffled,0,1,monkey creator photo,pseudo_sentence_word_context
+422,91,en,thought,thought,1,2,monkey creator photo,pseudo_sentence_word_context
+423,91,en,copyright,copyright,2,3,monkey creator photo,pseudo_sentence_word_context
+424,92,en,set,set,0,1,wikipedias assessment monkeys own copyrights,pseudo_sentence_word_context
+425,92,en,intent,intent,1,2,wikipedias assessment monkeys own copyrights,pseudo_sentence_word_context
+426,92,en,creativity,creativity,2,3,wikipedias assessment monkeys own copyrights,pseudo_sentence_word_context
+427,92,en,alls,alls,3,4,wikipedias assessment monkeys own copyrights,pseudo_sentence_word_context
+428,92,en,monkey,monkey,4,5,wikipedias assessment monkeys own copyrights,pseudo_sentence_word_context
+429,93,en,did,did,0,1,photo free fair use,pseudo_sentence_word_context
+430,93,en,press,press,1,2,photo free fair use,pseudo_sentence_word_context
+431,93,en,button,button,2,3,photo free fair use,pseudo_sentence_word_context
+432,93,en,wikipedia,wikipedia,3,4,photo free fair use,pseudo_sentence_word_context
+433,94,en,includes,includes,0,1,belonged internet,pseudo_sentence_word_context
+434,94,en,note,note,1,2,belonged internet,pseudo_sentence_word_context
+435,95,en,photo,photo,0,1,baffled,pseudo_sentence_word_context
+436,96,en,reads,reads,0,1,thought,pseudo_sentence_word_context
+437,97,en,file,file,0,1,copyright,pseudo_sentence_word_context
+438,98,en,public_domain,public | domain,0,2,set,isolated_word_fallback_span_out_of_range
+439,99,en,work,work,0,1,intent,pseudo_sentence_word_context
+440,100,en,animal,animal,0,1,creativity,pseudo_sentence_word_context
+441,101,en,human,human,0,1,alls monkey did press button,pseudo_sentence_word_context
+442,101,en,author,author,1,2,alls monkey did press button,pseudo_sentence_word_context
+443,101,en,copyright,copyright,2,3,alls monkey did press button,pseudo_sentence_word_context
+444,101,en,vested,vested,3,4,alls monkey did press button,pseudo_sentence_word_context
+445,101,en,decision,decision,4,5,alls monkey did press button,pseudo_sentence_word_context
+446,102,en,wikipedias,wikipedias,0,1,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+447,102,en,declare,declare,1,2,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+448,102,en,photo,photo,2,3,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+449,102,en,public_domain,public | domain,3,5,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+450,102,en,opening,opening,5,6,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+451,102,en,monkey,monkey,6,7,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+452,102,en,selfie,selfie,7,8,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+453,102,en,battle,battle,8,9,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+454,102,en,come,come,9,10,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+455,102,en,moment,moment,10,11,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+456,102,en,mother,mother,11,12,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+457,102,en,nature,nature,12,13,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+458,102,en,shoved,shoved,13,14,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+459,102,en,human_nature,human | nature,14,16,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+460,102,en,overstuffed,overstuffed,16,17,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+461,102,en,baggage,baggage,17,18,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+462,102,en,laws,laws,18,19,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+463,102,en,opinions,opinions,19,20,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+464,102,en,domination,domination,20,21,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+465,102,en,took,took,21,22,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+466,102,en,seat,seat,22,23,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+467,102,en,offensive,offensive,23,24,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+468,102,en,assembled,assembled,24,25,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,pseudo_sentence_word_context
+469,102,en,team,team,25,26,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,isolated_word_fallback_span_out_of_range
+470,102,en,lawyers,lawyers,26,27,wikipedia includes note photo reads file public domain work animal human author copyright vested decision wikipedias declare photo public domain opening monkey selfie battle come,isolated_word_fallback_span_out_of_range
+471,103,en,studied,studied,0,1,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+472,103,en,copyright_law,copyright | law,1,3,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+473,103,en,looked,looked,3,4,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+474,103,en,finding,finding,4,5,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+475,103,en,venture,venture,5,6,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+476,103,en,capitalists,capitalists,6,7,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+477,103,en,fund,fund,7,8,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+478,103,en,lawsuit,lawsuit,8,9,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+479,103,en,wikipedia,wikipedia,9,10,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+480,103,en,wikimedia,wikimedia,10,11,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+481,103,en,owns,owns,11,12,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+482,103,en,wikipedia,wikipedia,12,13,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,pseudo_sentence_word_context
+483,103,en,gave,gave,13,14,moment mother nature shoved human nature overstuffed baggage laws opinions domination took seat,isolated_word_fallback_span_out_of_range
+484,104,en,finger,finger,0,1,offensive assembled team lawyers studied copyright law,pseudo_sentence_word_context
+485,104,en,big,big,1,2,offensive assembled team lawyers studied copyright law,pseudo_sentence_word_context
+486,104,en,conference,conference,2,3,offensive assembled team lawyers studied copyright law,pseudo_sentence_word_context
+487,104,en,london,london,3,4,offensive assembled team lawyers studied copyright law,pseudo_sentence_word_context
+488,104,en,called,called,4,5,offensive assembled team lawyers studied copyright law,pseudo_sentence_word_context
+489,104,en,founders,founders,5,6,offensive assembled team lawyers studied copyright law,pseudo_sentence_word_context
+490,104,en,wales,wales,6,7,offensive assembled team lawyers studied copyright law,pseudo_sentence_word_context
+491,105,en,know,know,0,1,looked finding venture capitalists fund lawsuit wikipedia,pseudo_sentence_word_context
+492,105,en,good,good,1,2,looked finding venture capitalists fund lawsuit wikipedia,pseudo_sentence_word_context
+493,105,en,wales,wales,2,3,looked finding venture capitalists fund lawsuit wikipedia,pseudo_sentence_word_context
+494,105,en,many,many,3,4,looked finding venture capitalists fund lawsuit wikipedia,pseudo_sentence_word_context
+495,105,en,delegates,delegates,4,5,looked finding venture capitalists fund lawsuit wikipedia,pseudo_sentence_word_context
+496,105,en,mocking,mocking,5,6,looked finding venture capitalists fund lawsuit wikipedia,pseudo_sentence_word_context
+497,105,en,printing,printing,6,7,looked finding venture capitalists fund lawsuit wikipedia,pseudo_sentence_word_context
+498,106,en,image,image,0,1,wikimedia owns wikipedia gave finger,pseudo_sentence_word_context
+499,106,en,great,great,1,2,wikimedia owns wikipedia gave finger,pseudo_sentence_word_context
+500,106,en,big,big,2,3,wikimedia owns wikipedia gave finger,pseudo_sentence_word_context
+501,106,en,boards,boards,3,4,wikimedia owns wikipedia gave finger,pseudo_sentence_word_context
+502,106,en,placed,placed,4,5,wikimedia owns wikipedia gave finger,pseudo_sentence_word_context
+503,107,en,conference,conference,0,1,big conference london,pseudo_sentence_word_context
+504,107,en,facility,facility,1,2,big conference london,pseudo_sentence_word_context
+505,107,en,wales,wales,2,3,big conference london,pseudo_sentence_word_context
+506,108,en,various,various,0,1,called,pseudo_sentence_word_context
+507,109,en,other,other,0,1,founders wales,pseudo_sentence_word_context
+508,109,en,people,people,1,2,founders wales,pseudo_sentence_word_context
+509,110,en,encouraging,encouraging,0,1,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+510,110,en,delegates,delegates,1,2,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+511,110,en,take,take,2,3,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+512,110,en,selfies,selfies,3,4,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+513,110,en,selfie,selfie,4,5,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+514,110,en,mean,mean,5,6,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+515,110,en,few,few,6,7,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+516,110,en,images,images,7,8,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+517,110,en,place,place,8,9,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+518,110,en,internet,internet,9,10,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+519,110,en,wales,wales,10,11,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+520,110,en,odious,odious,11,12,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+521,110,en,wait,wait,12,13,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+522,110,en,wanna,wanna,13,14,know good wales many delegates mocking printing image great big boards placed conference facility,pseudo_sentence_word_context
+523,111,en,look,look,0,1,wales various other people encouraging delegates take selfies selfie,pseudo_sentence_word_context
+524,111,en,fast,fast,1,2,wales various other people encouraging delegates take selfies selfie,pseudo_sentence_word_context
+525,111,en,hang,hang,2,3,wales various other people encouraging delegates take selfies selfie,pseudo_sentence_word_context
+526,111,en,wales,wales,3,4,wales various other people encouraging delegates take selfies selfie,pseudo_sentence_word_context
+527,111,en,monkey,monkey,4,5,wales various other people encouraging delegates take selfies selfie,pseudo_sentence_word_context
+528,111,en,selfie,selfie,5,6,wales various other people encouraging delegates take selfies selfie,pseudo_sentence_word_context
+529,111,en,wales,wales,6,7,wales various other people encouraging delegates take selfies selfie,pseudo_sentence_word_context
+530,111,en,go,go,7,8,wales various other people encouraging delegates take selfies selfie,pseudo_sentence_word_context
+531,111,en,look,look,8,9,wales various other people encouraging delegates take selfies selfie,pseudo_sentence_word_context
+532,112,en,type,type,0,1,mean,pseudo_sentence_word_context
+533,113,en,wales,wales,0,1,few images place internet wales odious,pseudo_sentence_word_context
+534,113,en,monkey,monkey,1,2,few images place internet wales odious,pseudo_sentence_word_context
+535,113,en,selfie,selfie,2,3,few images place internet wales odious,pseudo_sentence_word_context
+536,113,en,find,find,3,4,few images place internet wales odious,pseudo_sentence_word_context
+537,113,en,adult_male,adult | male,4,6,few images place internet wales odious,pseudo_sentence_word_context
+538,113,en,human,human,6,7,few images place internet wales odious,isolated_word_fallback_span_out_of_range
+539,114,en,holding,holding,0,1,wait,pseudo_sentence_word_context
+540,115,en,phone,phone,0,1,wanna look fast,pseudo_sentence_word_context
+541,115,en,hand,hand,1,2,wanna look fast,pseudo_sentence_word_context
+542,115,en,monkey,monkey,2,3,wanna look fast,pseudo_sentence_word_context
+543,116,en,selfie,selfie,0,1,hang,pseudo_sentence_word_context
+544,117,en,other,other,0,1,,isolated_word_fallback_span_out_of_range
+545,118,en,next,next,0,1,wales monkey selfie,pseudo_sentence_word_context
+546,118,en,face,face,1,2,wales monkey selfie,pseudo_sentence_word_context
+547,118,en,lips,lips,2,3,wales monkey selfie,pseudo_sentence_word_context
+548,119,en,puckered,puckered,0,1,wales,pseudo_sentence_word_context
+549,120,en,duck,duck,0,1,go,pseudo_sentence_word_context
+550,121,en,looks,looks,0,1,,isolated_word_fallback_span_out_of_range
+551,122,en,ridiculous,ridiculous,0,1,look,pseudo_sentence_word_context
+552,123,en,face,face,0,1,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+553,123,en,making,making,1,2,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+554,123,en,duck,duck,2,3,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+555,123,en,face,face,3,4,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+556,123,en,dont_know,dont | know,4,6,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+557,123,en,comes,comes,6,7,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+558,123,en,lot,lot,7,8,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+559,123,en,people,people,8,9,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+560,123,en,dont,dont,9,10,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+561,123,en,seem,seem,10,11,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+562,123,en,do,do,11,12,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+563,123,en,duck,duck,12,13,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+564,123,en,lips,lips,13,14,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+565,123,en,did,did,14,15,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+566,123,en,feel,feel,15,16,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,pseudo_sentence_word_context
+567,123,en,saw,saw,16,17,type wales monkey selfie find adult male human holding phone hand monkey selfie other next face,isolated_word_fallback_span_out_of_range
+568,124,en,wales,wales,0,1,lips puckered duck,pseudo_sentence_word_context
+569,124,en,selfie,selfie,1,2,lips puckered duck,pseudo_sentence_word_context
+570,124,en,monkey,monkey,2,3,lips puckered duck,pseudo_sentence_word_context
+571,125,en,selfie,selfie,0,1,looks ridiculous,pseudo_sentence_word_context
+572,125,en,angry,angry,1,2,looks ridiculous,pseudo_sentence_word_context
+573,126,en,fighting,fighting,0,1,face making,pseudo_sentence_word_context
+574,126,en,day,day,1,2,face making,pseudo_sentence_word_context
+575,127,en,battle,battle,0,1,duck face,pseudo_sentence_word_context
+576,127,en,took,took,1,2,duck face,pseudo_sentence_word_context
+577,128,en,epic,epic,0,1,dont know comes,pseudo_sentence_word_context
+578,128,en,new,new,1,2,dont know comes,pseudo_sentence_word_context
+579,128,en,proportions,proportions,2,3,dont know comes,pseudo_sentence_word_context
+580,129,en,king,king,0,1,dont,pseudo_sentence_word_context
+581,130,en,walked,walked,0,1,lot people seem do duck lips,pseudo_sentence_word_context
+582,130,en,scene,scene,1,2,lot people seem do duck lips,pseudo_sentence_word_context
+583,130,en,battle,battle,2,3,lot people seem do duck lips,pseudo_sentence_word_context
+584,130,en,dispute,dispute,3,4,lot people seem do duck lips,pseudo_sentence_word_context
+585,130,en,wikimedia,wikimedia,4,5,lot people seem do duck lips,pseudo_sentence_word_context
+586,130,en,generated,generated,5,6,lot people seem do duck lips,pseudo_sentence_word_context
+587,131,en,press,press,0,1,did feel saw wales selfie monkey selfie,pseudo_sentence_word_context
+588,131,en,day,day,1,2,did feel saw wales selfie monkey selfie,pseudo_sentence_word_context
+589,131,en,wife,wife,2,3,did feel saw wales selfie monkey selfie,pseudo_sentence_word_context
+590,131,en,photographer,photographer,3,4,did feel saw wales selfie monkey selfie,pseudo_sentence_word_context
+591,131,en,sued,sued,4,5,did feel saw wales selfie monkey selfie,pseudo_sentence_word_context
+592,131,en,monkey,monkey,5,6,did feel saw wales selfie monkey selfie,pseudo_sentence_word_context
+593,131,en,found,found,6,7,did feel saw wales selfie monkey selfie,pseudo_sentence_word_context
+594,132,en,monkey,monkey,0,1,angry,pseudo_sentence_word_context
+595,133,en,suing,suing,0,1,fighting,pseudo_sentence_word_context
+596,134,en,wife,wife,0,1,day battle took epic new proportions,pseudo_sentence_word_context
+597,134,en,found,found,1,2,day battle took epic new proportions,pseudo_sentence_word_context
+598,134,en,found,found,2,3,day battle took epic new proportions,pseudo_sentence_word_context
+599,134,en,wikipedia,wikipedia,3,4,day battle took epic new proportions,pseudo_sentence_word_context
+600,134,en,stealing,stealing,4,5,day battle took epic new proportions,pseudo_sentence_word_context
+601,134,en,stumbled,stumbled,5,6,day battle took epic new proportions,pseudo_sentence_word_context
+602,135,en,stumbled,stumbled,0,1,king walked scene battle,pseudo_sentence_word_context
+603,135,en,fact,fact,1,2,king walked scene battle,pseudo_sentence_word_context
+604,135,en,sued,sued,2,3,king walked scene battle,pseudo_sentence_word_context
+605,135,en,monkey,monkey,3,4,king walked scene battle,pseudo_sentence_word_context
+606,136,en,monkey,monkey,0,1,dispute wikimedia generated press,pseudo_sentence_word_context
+607,136,en,selfie,selfie,1,2,dispute wikimedia generated press,pseudo_sentence_word_context
+608,136,en,photos,photos,2,3,dispute wikimedia generated press,pseudo_sentence_word_context
+609,136,en,suing,suing,3,4,dispute wikimedia generated press,pseudo_sentence_word_context
+610,137,en,copyright_infringement,copyright | infringement,0,2,day wife,pseudo_sentence_word_context
+611,137,en,help,help,2,3,day wife,isolated_word_fallback_span_out_of_range
+612,138,en,people,people,0,1,,isolated_word_fallback_span_out_of_range
+613,139,en,ethical,ethical,0,1,photographer sued monkey,pseudo_sentence_word_context
+614,139,en,treatment,treatment,1,2,photographer sued monkey,pseudo_sentence_word_context
+615,139,en,animals,animals,2,3,photographer sued monkey,pseudo_sentence_word_context
+616,140,en,called,called,0,1,found monkey suing wife found,pseudo_sentence_word_context
+617,140,en,lawyers,lawyers,1,2,found monkey suing wife found,pseudo_sentence_word_context
+618,140,en,said,said,2,3,found monkey suing wife found,pseudo_sentence_word_context
+619,140,en,look,look,3,4,found monkey suing wife found,pseudo_sentence_word_context
+620,140,en,seen,seen,4,5,found monkey suing wife found,pseudo_sentence_word_context
+621,141,en,happening,happening,0,1,,isolated_word_fallback_span_out_of_range
+622,142,en,do,do,0,1,found wikipedia stealing stumbled stumbled fact sued monkey,pseudo_sentence_word_context
+623,142,en,said,said,1,2,found wikipedia stealing stumbled stumbled fact sued monkey,pseudo_sentence_word_context
+624,142,en,fools,fools,2,3,found wikipedia stealing stumbled stumbled fact sued monkey,pseudo_sentence_word_context
+625,142,en,having,having,3,4,found wikipedia stealing stumbled stumbled fact sued monkey,pseudo_sentence_word_context
+626,142,en,said,said,4,5,found wikipedia stealing stumbled stumbled fact sued monkey,pseudo_sentence_word_context
+627,142,en,sit,sit,5,6,found wikipedia stealing stumbled stumbled fact sued monkey,pseudo_sentence_word_context
+628,142,en,lets,lets,6,7,found wikipedia stealing stumbled stumbled fact sued monkey,pseudo_sentence_word_context
+629,142,en,see,see,7,8,found wikipedia stealing stumbled stumbled fact sued monkey,pseudo_sentence_word_context
+630,143,en,happens,happens,0,1,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+631,143,en,do,do,1,2,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+632,143,en,respond,respond,2,3,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+633,143,en,know,know,3,4,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+634,143,en,worry,worry,4,5,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+635,143,en,served,served,5,6,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+636,143,en,papers,papers,6,7,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+637,143,en,lets,lets,7,8,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+638,143,en,see,see,8,9,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+639,143,en,happens,happens,9,10,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+640,143,en,sure,sure,10,11,monkey selfie photos suing copyright infringement help people ethical treatment animals,pseudo_sentence_word_context
+641,144,en,afternoon,afternoon,0,1,called lawyers said,pseudo_sentence_word_context
+642,144,en,home,home,1,2,called lawyers said,pseudo_sentence_word_context
+643,144,en,knock,knock,2,3,called lawyers said,pseudo_sentence_word_context
+644,145,en,door,door,0,1,look,pseudo_sentence_word_context
+645,146,en,man,man,0,1,seen happening,pseudo_sentence_word_context
+646,146,en,black,black,1,2,seen happening,pseudo_sentence_word_context
+647,147,en,suit,suit,0,1,do,pseudo_sentence_word_context
+648,148,en,standing,standing,0,1,said fools,pseudo_sentence_word_context
+649,148,en,porch,porch,1,2,said fools,pseudo_sentence_word_context
+650,149,en,way,way,0,1,having,pseudo_sentence_word_context
+651,150,en,opened,opened,0,1,said sit,pseudo_sentence_word_context
+652,150,en,door,door,1,2,said sit,pseudo_sentence_word_context
+653,151,en,thrust,thrust,0,1,lets see happens,pseudo_sentence_word_context
+654,151,en,large,large,1,2,lets see happens,pseudo_sentence_word_context
+655,151,en,sized,sized,2,3,lets see happens,pseudo_sentence_word_context
+656,152,en,white,white,0,1,do respond know,pseudo_sentence_word_context
+657,152,en,envelope,envelope,1,2,do respond know,pseudo_sentence_word_context
+658,152,en,hand,hand,2,3,do respond know,pseudo_sentence_word_context
+659,153,en,says,says,0,1,worry served papers,pseudo_sentence_word_context
+660,153,en,instructed,instructed,1,2,worry served papers,pseudo_sentence_word_context
+661,153,en,pass,pass,2,3,worry served papers,pseudo_sentence_word_context
+662,154,en,said,said,0,1,lets see happens,pseudo_sentence_word_context
+663,154,en,opened,opened,1,2,lets see happens,pseudo_sentence_word_context
+664,154,en,front,front,2,3,lets see happens,pseudo_sentence_word_context
+665,155,en,took,took,0,1,,isolated_word_fallback_span_out_of_range
+666,156,en,said,said,0,1,sure afternoon home,pseudo_sentence_word_context
+667,156,en,do,do,1,2,sure afternoon home,pseudo_sentence_word_context
+668,156,en,know,know,2,3,sure afternoon home,pseudo_sentence_word_context
+669,157,en,said,said,0,1,knock door,pseudo_sentence_word_context
+670,157,en,said,said,1,2,knock door,pseudo_sentence_word_context
+671,158,en,sued,sued,0,1,man black suit standing porch way,pseudo_sentence_word_context
+672,158,en,monkey,monkey,1,2,man black suit standing porch way,pseudo_sentence_word_context
+673,158,en,showed,showed,2,3,man black suit standing porch way,pseudo_sentence_word_context
+674,158,en,started,started,3,4,man black suit standing porch way,pseudo_sentence_word_context
+675,158,en,laughing,laughing,4,5,man black suit standing porch way,pseudo_sentence_word_context
+676,158,en,chat,chat,5,6,man black suit standing porch way,pseudo_sentence_word_context
+677,159,en,cause,cause,0,1,opened door,pseudo_sentence_word_context
+678,159,en,local,local,1,2,opened door,pseudo_sentence_word_context
+679,160,en,local,local,0,1,thrust large sized white envelope hand,pseudo_sentence_word_context
+680,160,en,firm,firm,1,2,thrust large sized white envelope hand,pseudo_sentence_word_context
+681,160,en,road,road,2,3,thrust large sized white envelope hand,pseudo_sentence_word_context
+682,160,en,went,went,3,4,thrust large sized white envelope hand,pseudo_sentence_word_context
+683,160,en,merry,merry,4,5,thrust large sized white envelope hand,pseudo_sentence_word_context
+684,160,en,way,way,5,6,thrust large sized white envelope hand,pseudo_sentence_word_context
+685,161,en,read,read,0,1,says instructed pass,pseudo_sentence_word_context
+686,161,en,complaint,complaint,1,2,says instructed pass,pseudo_sentence_word_context
+687,161,en,weird,weird,2,3,says instructed pass,pseudo_sentence_word_context
+688,162,en,flip,flip,0,1,said,pseudo_sentence_word_context
+689,163,en,pages,pages,0,1,opened front,pseudo_sentence_word_context
+690,163,en,pages,pages,1,2,opened front,pseudo_sentence_word_context
+691,164,en,copyright_law,copyright | law,0,2,took,isolated_word_fallback_span_out_of_range
+692,165,en,end,end,0,1,said do know,pseudo_sentence_word_context
+693,165,en,exhibits,exhibits,1,2,said do know,pseudo_sentence_word_context
+694,165,en,bunch,bunch,2,3,said do know,pseudo_sentence_word_context
+695,166,en,monkey,monkey,0,1,said,pseudo_sentence_word_context
+696,167,en,selfies,selfies,0,1,said sued monkey,pseudo_sentence_word_context
+697,167,en,grinning,grinning,1,2,said sued monkey,pseudo_sentence_word_context
+698,167,en,serious,serious,2,3,said sued monkey,pseudo_sentence_word_context
+699,168,en,howling,howling,0,1,showed,pseudo_sentence_word_context
+700,169,en,monkey,monkey,0,1,started laughing,pseudo_sentence_word_context
+701,169,en,selfies,selfies,1,2,started laughing,pseudo_sentence_word_context
+702,170,en,legal_document,legal | document,0,2,chat cause,pseudo_sentence_word_context
+703,170,en,put,put,2,3,chat cause,isolated_word_fallback_span_out_of_range
+704,171,en,curious,curious,0,1,local local firm road,pseudo_sentence_word_context
+705,171,en,monkey,monkey,1,2,local local firm road,pseudo_sentence_word_context
+706,171,en,name,name,2,3,local local firm road,pseudo_sentence_word_context
+707,171,en,suing,suing,3,4,local local firm road,pseudo_sentence_word_context
+708,172,en,next,next,0,1,went merry way,pseudo_sentence_word_context
+709,172,en,friends,friends,1,2,went merry way,pseudo_sentence_word_context
+710,172,en,people,people,2,3,went merry way,pseudo_sentence_word_context
+711,173,en,ethical,ethical,0,1,read complaint,pseudo_sentence_word_context
+712,173,en,treatment,treatment,1,2,read complaint,pseudo_sentence_word_context
+713,174,en,animals,animals,0,1,weird,pseudo_sentence_word_context
+714,175,en,case,case,0,1,flip pages pages copyright law,pseudo_sentence_word_context
+715,175,en,called,called,1,2,flip pages pages copyright law,pseudo_sentence_word_context
+716,175,en,macaque,macaque,2,3,flip pages pages copyright law,pseudo_sentence_word_context
+717,175,en,next,next,3,4,flip pages pages copyright law,pseudo_sentence_word_context
+718,175,en,friends,friends,4,5,flip pages pages copyright law,pseudo_sentence_word_context
+719,176,en,people,people,0,1,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+720,176,en,ethical,ethical,1,2,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+721,176,en,treatment,treatment,2,3,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+722,176,en,animals,animals,3,4,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+723,176,en,individual,individual,4,5,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+724,176,en,legal,legal,5,6,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+725,176,en,parlance,parlance,6,7,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+726,176,en,next,next,7,8,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+727,176,en,friend,friend,8,9,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+728,176,en,status,status,9,10,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+729,176,en,guardian,guardian,10,11,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+730,176,en,represent,represent,11,12,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+731,176,en,court,court,12,13,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+732,176,en,next,next,13,14,end exhibits bunch monkey selfies grinning serious howling monkey selfies legal document put curious,pseudo_sentence_word_context
+733,177,en,friend,friend,0,1,monkey name suing next friends people ethical treatment animals,pseudo_sentence_word_context
+734,177,en,step,step,1,2,monkey name suing next friends people ethical treatment animals,pseudo_sentence_word_context
+735,177,en,same,same,2,3,monkey name suing next friends people ethical treatment animals,pseudo_sentence_word_context
+736,177,en,baby,baby,3,4,monkey name suing next friends people ethical treatment animals,pseudo_sentence_word_context
+737,177,en,disabled,disabled,4,5,monkey name suing next friends people ethical treatment animals,pseudo_sentence_word_context
+738,177,en,adult,adult,5,6,monkey name suing next friends people ethical treatment animals,pseudo_sentence_word_context
+739,177,en,speak,speak,6,7,monkey name suing next friends people ethical treatment animals,pseudo_sentence_word_context
+740,177,en,represent,represent,7,8,monkey name suing next friends people ethical treatment animals,pseudo_sentence_word_context
+741,177,en,see,see,8,9,monkey name suing next friends people ethical treatment animals,pseudo_sentence_word_context
+742,178,en,unusual,unusual,0,1,case called macaque next friends people ethical treatment animals individual,pseudo_sentence_word_context
+743,178,en,human,human,1,2,case called macaque next friends people ethical treatment animals individual,pseudo_sentence_word_context
+744,178,en,law,law,2,3,case called macaque next friends people ethical treatment animals individual,pseudo_sentence_word_context
+745,178,en,reputation,reputation,3,4,case called macaque next friends people ethical treatment animals individual,pseudo_sentence_word_context
+746,178,en,pulling,pulling,4,5,case called macaque next friends people ethical treatment animals individual,pseudo_sentence_word_context
+747,178,en,stunts,stunts,5,6,case called macaque next friends people ethical treatment animals individual,pseudo_sentence_word_context
+748,178,en,attract_attention,attract | attention,6,8,case called macaque next friends people ethical treatment animals individual,pseudo_sentence_word_context
+749,178,en,plight,plight,8,9,case called macaque next friends people ethical treatment animals individual,pseudo_sentence_word_context
+750,178,en,animals,animals,9,10,case called macaque next friends people ethical treatment animals individual,pseudo_sentence_word_context
+751,178,en,dumped,dumped,10,11,case called macaque next friends people ethical treatment animals individual,isolated_word_fallback_span_out_of_range
+752,179,en,horse,horse,0,1,legal parlance next friend status guardian,pseudo_sentence_word_context
+753,179,en,sidewalk,sidewalk,1,2,legal parlance next friend status guardian,pseudo_sentence_word_context
+754,179,en,gordon,gordon,2,3,legal parlance next friend status guardian,pseudo_sentence_word_context
+755,179,en,ramsays,ramsays,3,4,legal parlance next friend status guardian,pseudo_sentence_word_context
+756,179,en,restaurant,restaurant,4,5,legal parlance next friend status guardian,pseudo_sentence_word_context
+757,179,en,london,london,5,6,legal parlance next friend status guardian,pseudo_sentence_word_context
+758,180,en,guest,guest,0,1,represent court next friend step,pseudo_sentence_word_context
+759,180,en,cooking,cooking,1,2,represent court next friend step,pseudo_sentence_word_context
+760,180,en,show,show,2,3,represent court next friend step,pseudo_sentence_word_context
+761,180,en,made,made,3,4,represent court next friend step,pseudo_sentence_word_context
+762,180,en,dish,dish,4,5,represent court next friend step,pseudo_sentence_word_context
+763,181,en,horse,horse,0,1,same baby disabled adult speak represent,pseudo_sentence_word_context
+764,181,en,meat,meat,1,2,same baby disabled adult speak represent,pseudo_sentence_word_context
+765,181,en,made,made,2,3,same baby disabled adult speak represent,pseudo_sentence_word_context
+766,181,en,comic_book,comic | book,3,5,same baby disabled adult speak represent,pseudo_sentence_word_context
+767,181,en,called,called,5,6,same baby disabled adult speak represent,pseudo_sentence_word_context
+768,181,en,kills,kills,6,7,same baby disabled adult speak represent,isolated_word_fallback_span_out_of_range
+769,182,en,animals,animals,0,1,see,pseudo_sentence_word_context
+770,183,en,handed,handed,0,1,unusual human law,pseudo_sentence_word_context
+771,183,en,moms,moms,1,2,unusual human law,pseudo_sentence_word_context
+772,183,en,wearing,wearing,2,3,unusual human law,pseudo_sentence_word_context
+773,184,en,fur,fur,0,1,reputation pulling stunts attract attention plight animals,pseudo_sentence_word_context
+774,184,en,coats,coats,1,2,reputation pulling stunts attract attention plight animals,pseudo_sentence_word_context
+775,184,en,performances,performances,2,3,reputation pulling stunts attract attention plight animals,pseudo_sentence_word_context
+776,184,en,campaigned,campaigned,3,4,reputation pulling stunts attract attention plight animals,pseudo_sentence_word_context
+777,184,en,change,change,4,5,reputation pulling stunts attract attention plight animals,pseudo_sentence_word_context
+778,184,en,word,word,5,6,reputation pulling stunts attract attention plight animals,pseudo_sentence_word_context
+779,184,en,fish,fish,6,7,reputation pulling stunts attract attention plight animals,pseudo_sentence_word_context
+780,185,en,sea,sea,0,1,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+781,185,en,kittens,kittens,1,2,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+782,185,en,people,people,2,3,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+783,185,en,associate,associate,3,4,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+784,185,en,seafood,seafood,4,5,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+785,185,en,adorable,adorable,5,6,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+786,185,en,cats,cats,6,7,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+787,185,en,stop,stop,7,8,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+788,185,en,eating,eating,8,9,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+789,185,en,fish,fish,9,10,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+790,185,en,mean,mean,10,11,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+791,185,en,general,general,11,12,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+792,185,en,counsel,counsel,12,13,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+793,185,en,says,says,13,14,dumped horse sidewalk gordon ramsays restaurant london guest cooking show made dish horse meat,pseudo_sentence_word_context
+794,186,en,monkey,monkey,0,1,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+795,186,en,selfie,selfie,1,2,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+796,186,en,case,case,2,3,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+797,186,en,stunts,stunts,3,4,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+798,186,en,saw,saw,4,5,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+799,186,en,monkey,monkey,5,6,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+800,186,en,selfie,selfie,6,7,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+801,186,en,dispute,dispute,7,8,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+802,186,en,wikimedia,wikimedia,8,9,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+803,186,en,became,became,9,10,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+804,186,en,news,news,10,11,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+805,186,en,view,view,11,12,made comic book called kills animals handed moms wearing fur coats performances,pseudo_sentence_word_context
+806,187,en,created,created,0,1,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+807,187,en,created,created,1,2,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+808,187,en,photograph,photograph,2,3,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+809,187,en,own,own,3,4,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+810,187,en,copyright,copyright,4,5,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+811,187,en,saw,saw,5,6,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+812,187,en,dispute,dispute,6,7,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+813,187,en,photographer,photographer,7,8,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+814,187,en,wants,wants,8,9,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+815,187,en,sue,sue,9,10,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+816,187,en,wikimedia,wikimedia,10,11,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+817,187,en,wikimedia,wikimedia,11,12,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+818,187,en,claiming,claiming,12,13,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+819,187,en,photo,photo,13,14,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,pseudo_sentence_word_context
+820,187,en,public_domain,public | domain,14,16,campaigned change word fish sea kittens people associate seafood adorable cats stop eating fish mean,isolated_word_fallback_span_out_of_range
+821,188,en,standing,standing,0,1,general counsel says monkey selfie case stunts,pseudo_sentence_word_context
+822,188,en,monkey,monkey,1,2,general counsel says monkey selfie case stunts,pseudo_sentence_word_context
+823,188,en,law,law,2,3,general counsel says monkey selfie case stunts,pseudo_sentence_word_context
+824,188,en,argument,argument,3,4,general counsel says monkey selfie case stunts,pseudo_sentence_word_context
+825,188,en,apply,apply,4,5,general counsel says monkey selfie case stunts,pseudo_sentence_word_context
+826,188,en,happens,happens,5,6,general counsel says monkey selfie case stunts,pseudo_sentence_word_context
+827,188,en,born,born,6,7,general counsel says monkey selfie case stunts,pseudo_sentence_word_context
+828,189,en,human,human,0,1,saw monkey selfie dispute wikimedia became news,pseudo_sentence_word_context
+829,189,en,monkey,monkey,1,2,saw monkey selfie dispute wikimedia became news,pseudo_sentence_word_context
+830,189,en,didnt_think,didnt | think,2,4,saw monkey selfie dispute wikimedia became news,pseudo_sentence_word_context
+831,189,en,great,great,4,5,saw monkey selfie dispute wikimedia became news,pseudo_sentence_word_context
+832,189,en,camera,camera,5,6,saw monkey selfie dispute wikimedia became news,pseudo_sentence_word_context
+833,189,en,hands,hands,6,7,saw monkey selfie dispute wikimedia became news,pseudo_sentence_word_context
+834,189,en,gonna,gonna,7,8,saw monkey selfie dispute wikimedia became news,isolated_word_fallback_span_out_of_range
+835,190,en,snap,snap,0,1,view created created photograph own copyright,pseudo_sentence_word_context
+836,190,en,couple,couple,1,2,view created created photograph own copyright,pseudo_sentence_word_context
+837,190,en,frames,frames,2,3,view created created photograph own copyright,pseudo_sentence_word_context
+838,190,en,update,update,3,4,view created created photograph own copyright,pseudo_sentence_word_context
+839,190,en,profile,profile,4,5,view created created photograph own copyright,pseudo_sentence_word_context
+840,190,en,know,know,5,6,view created created photograph own copyright,pseudo_sentence_word_context
+841,191,en,monkeys,monkeys,0,1,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,pseudo_sentence_word_context
+842,191,en,thinking,thinking,1,2,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,pseudo_sentence_word_context
+843,191,en,taking,taking,2,3,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,pseudo_sentence_word_context
+844,191,en,photograph,photograph,3,4,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,pseudo_sentence_word_context
+845,191,en,required,required,4,5,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,pseudo_sentence_word_context
+846,191,en,copyright_law,copyright | law,5,7,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,pseudo_sentence_word_context
+847,191,en,required,required,7,8,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,pseudo_sentence_word_context
+848,191,en,copyright_law,copyright | law,8,10,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,pseudo_sentence_word_context
+849,191,en,provides,provides,10,11,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,pseudo_sentence_word_context
+850,191,en,author,author,11,12,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,isolated_word_fallback_span_out_of_range
+851,191,en,creator,creator,12,13,saw dispute photographer wants sue wikimedia wikimedia claiming photo public domain,isolated_word_fallback_span_out_of_range
+852,192,en,image,image,0,1,standing monkey,pseudo_sentence_word_context
+853,192,en,entitled,entitled,1,2,standing monkey,pseudo_sentence_word_context
+854,193,en,own,own,0,1,law,pseudo_sentence_word_context
+855,194,en,doesnt,doesnt,0,1,argument apply happens born human,pseudo_sentence_word_context
+856,194,en,say,say,1,2,argument apply happens born human,pseudo_sentence_word_context
+857,194,en,author,author,2,3,argument apply happens born human,pseudo_sentence_word_context
+858,194,en,know,know,3,4,argument apply happens born human,pseudo_sentence_word_context
+859,194,en,making,making,4,5,argument apply happens born human,pseudo_sentence_word_context
+860,195,en,photograph,photograph,0,1,monkey didnt think great,pseudo_sentence_word_context
+861,195,en,gives,gives,1,2,monkey didnt think great,pseudo_sentence_word_context
+862,195,en,camera,camera,2,3,monkey didnt think great,pseudo_sentence_word_context
+863,195,en,asks,asks,3,4,monkey didnt think great,pseudo_sentence_word_context
+864,196,en,take,take,0,1,camera hands,pseudo_sentence_word_context
+865,196,en,photograph,photograph,1,2,camera hands,pseudo_sentence_word_context
+866,197,en,arrange,arrange,0,1,gonna snap couple frames update profile know,pseudo_sentence_word_context
+867,197,en,take,take,1,2,gonna snap couple frames update profile know,pseudo_sentence_word_context
+868,197,en,photograph,photograph,2,3,gonna snap couple frames update profile know,pseudo_sentence_word_context
+869,197,en,circumstances,circumstances,3,4,gonna snap couple frames update profile know,pseudo_sentence_word_context
+870,197,en,own,own,4,5,gonna snap couple frames update profile know,pseudo_sentence_word_context
+871,197,en,copyright,copyright,5,6,gonna snap couple frames update profile know,pseudo_sentence_word_context
+872,197,en,french,french,6,7,gonna snap couple frames update profile know,pseudo_sentence_word_context
+873,198,en,tourists,tourists,0,1,monkeys thinking taking photograph,pseudo_sentence_word_context
+874,198,en,need,need,1,2,monkeys thinking taking photograph,pseudo_sentence_word_context
+875,198,en,sue,sue,2,3,monkeys thinking taking photograph,pseudo_sentence_word_context
+876,198,en,organization,organization,3,4,monkeys thinking taking photograph,pseudo_sentence_word_context
+877,199,en,case,case,0,1,required copyright law,pseudo_sentence_word_context
+878,199,en,heard,heard,1,2,required copyright law,pseudo_sentence_word_context
+879,199,en,federal_court,federal | court,2,4,required copyright law,isolated_word_fallback_span_out_of_range
+880,200,en,san_francisco,san | francisco,0,2,required copyright law provides author creator image entitled own,pseudo_sentence_word_context
+881,200,en,talked,talked,2,3,required copyright law provides author creator image entitled own,pseudo_sentence_word_context
+882,200,en,lawyers,lawyers,3,4,required copyright law provides author creator image entitled own,pseudo_sentence_word_context
+883,200,en,england,england,4,5,required copyright law provides author creator image entitled own,pseudo_sentence_word_context
+884,200,en,told,told,5,6,required copyright law provides author creator image entitled own,pseudo_sentence_word_context
+885,200,en,needed,needed,6,7,required copyright law provides author creator image entitled own,pseudo_sentence_word_context
+886,200,en,hire,hire,7,8,required copyright law provides author creator image entitled own,pseudo_sentence_word_context
+887,200,en,attorney,attorney,8,9,required copyright law provides author creator image entitled own,pseudo_sentence_word_context
+888,200,en,fight,fight,9,10,required copyright law provides author creator image entitled own,isolated_word_fallback_span_out_of_range
+889,201,en,advised,advised,0,1,doesnt say author know making photograph,pseudo_sentence_word_context
+890,201,en,talking,talking,1,2,doesnt say author know making photograph,pseudo_sentence_word_context
+891,201,en,attorneys,attorneys,2,3,doesnt say author know making photograph,pseudo_sentence_word_context
+892,201,en,need,need,3,4,doesnt say author know making photograph,pseudo_sentence_word_context
+893,201,en,did,did,4,5,doesnt say author know making photograph,pseudo_sentence_word_context
+894,201,en,need,need,5,6,doesnt say author know making photograph,pseudo_sentence_word_context
+895,202,en,follow,follow,0,1,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+896,202,en,chance,chance,1,2,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+897,202,en,chance,chance,2,3,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+898,202,en,going,going,3,4,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+899,202,en,monkeys,monkeys,4,5,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+900,202,en,way,way,5,6,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+901,202,en,didnt,didnt,6,7,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+902,202,en,challenge,challenge,7,8,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+903,202,en,monkey,monkey,8,9,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+904,202,en,win,win,9,10,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+905,202,en,court,court,10,11,gives camera asks take photograph arrange take photograph circumstances own copyright,pseudo_sentence_word_context
+906,203,en,california,california,0,1,french tourists need sue,pseudo_sentence_word_context
+907,203,en,opinion,opinion,1,2,french tourists need sue,pseudo_sentence_word_context
+908,203,en,happen,happen,2,3,french tourists need sue,pseudo_sentence_word_context
+909,203,en,dont_know,dont | know,3,5,french tourists need sue,isolated_word_fallback_span_out_of_range
+910,204,en,true,true,0,1,organization,pseudo_sentence_word_context
+911,205,en,told,told,0,1,case heard federal court san francisco,pseudo_sentence_word_context
+912,205,en,take,take,1,2,case heard federal court san francisco,pseudo_sentence_word_context
+913,205,en,risk,risk,2,3,case heard federal court san francisco,pseudo_sentence_word_context
+914,205,en,california,california,3,4,case heard federal court san francisco,pseudo_sentence_word_context
+915,205,en,course,course,4,5,case heard federal court san francisco,pseudo_sentence_word_context
+916,205,en,true,true,5,6,case heard federal court san francisco,pseudo_sentence_word_context
+917,206,en,hired,hired,0,1,talked lawyers england,pseudo_sentence_word_context
+918,206,en,represent,represent,1,2,talked lawyers england,pseudo_sentence_word_context
+919,206,en,do,do,2,3,talked lawyers england,pseudo_sentence_word_context
+920,207,en,remember,remember,0,1,told needed hire attorney fight,pseudo_sentence_word_context
+921,207,en,heard,heard,1,2,told needed hire attorney fight,pseudo_sentence_word_context
+922,207,en,case,case,2,3,told needed hire attorney fight,pseudo_sentence_word_context
+923,207,en,call,call,3,4,told needed hire attorney fight,pseudo_sentence_word_context
+924,207,en,heard,heard,4,5,told needed hire attorney fight,pseudo_sentence_word_context
+925,208,en,read,read,0,1,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+926,208,en,dont,dont,1,2,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+927,208,en,remember,remember,2,3,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+928,208,en,read,read,3,4,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+929,208,en,excited,excited,4,5,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+930,208,en,saw,saw,5,6,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+931,208,en,filed,filed,6,7,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+932,208,en,san_francisco,san | francisco,7,9,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+933,208,en,federal_court,federal | court,9,11,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+934,208,en,cause,cause,11,12,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+935,208,en,berkeley,berkeley,12,13,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+936,208,en,thought,thought,13,14,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,pseudo_sentence_word_context
+937,208,en,perfect,perfect,14,15,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,isolated_word_fallback_span_out_of_range
+938,208,en,case,case,15,16,advised talking attorneys need did need follow chance chance going monkeys way didnt challenge,isolated_word_fallback_span_out_of_range
+939,209,en,intellectual_property,intellectual | property,0,2,monkey win,pseudo_sentence_word_context
+940,209,en,lawyer,lawyer,2,3,monkey win,isolated_word_fallback_span_out_of_range
+941,210,en,works,works,0,1,,isolated_word_fallback_span_out_of_range
+942,211,en,read,read,0,1,court california,pseudo_sentence_word_context
+943,211,en,case,case,1,2,court california,pseudo_sentence_word_context
+944,212,en,reached,reached,0,1,opinion happen,pseudo_sentence_word_context
+945,212,en,ask,ask,1,2,opinion happen,pseudo_sentence_word_context
+946,213,en,take,take,0,1,dont know true,pseudo_sentence_word_context
+947,213,en,think,think,1,2,dont know true,pseudo_sentence_word_context
+948,213,en,perfect,perfect,2,3,dont know true,pseudo_sentence_word_context
+949,214,en,case,case,0,1,told take risk,pseudo_sentence_word_context
+950,214,en,think,think,1,2,told take risk,pseudo_sentence_word_context
+951,214,en,know,know,2,3,told take risk,pseudo_sentence_word_context
+952,215,en,case,case,0,1,course,pseudo_sentence_word_context
+953,216,en,know,know,0,1,california,pseudo_sentence_word_context
+954,217,en,making,making,0,1,,isolated_word_fallback_span_out_of_range
+955,218,en,monkey,monkey,0,1,TRUE,pseudo_sentence_word_context
+956,219,en,puns,puns,0,1,hired represent,pseudo_sentence_word_context
+957,219,en,things,things,1,2,hired represent,pseudo_sentence_word_context
+958,220,en,thought,thought,0,1,do remember heard case,pseudo_sentence_word_context
+959,220,en,dont_know,dont | know,1,3,do remember heard case,pseudo_sentence_word_context
+960,220,en,seen,seen,3,4,do remember heard case,pseudo_sentence_word_context
+961,220,en,linkedin,linkedin,4,5,do remember heard case,isolated_word_fallback_span_out_of_range
+962,221,en,profile,profile,0,1,call,pseudo_sentence_word_context
+963,222,en,chippendales,chippendales,0,1,heard,pseudo_sentence_word_context
+964,223,en,costume,costume,0,1,read,pseudo_sentence_word_context
+965,224,en,linkedin,linkedin,0,1,dont remember read,pseudo_sentence_word_context
+966,224,en,picture,picture,1,2,dont remember read,pseudo_sentence_word_context
+967,224,en,chose,chose,2,3,dont remember read,pseudo_sentence_word_context
+968,225,en,shot,shot,0,1,excited saw filed san francisco federal court cause berkeley,pseudo_sentence_word_context
+969,225,en,wearing,wearing,1,2,excited saw filed san francisco federal court cause berkeley,pseudo_sentence_word_context
+970,225,en,eyeglasses,eyeglasses,2,3,excited saw filed san francisco federal court cause berkeley,pseudo_sentence_word_context
+971,225,en,bow,bow,3,4,excited saw filed san francisco federal court cause berkeley,pseudo_sentence_word_context
+972,225,en,tie,tie,4,5,excited saw filed san francisco federal court cause berkeley,pseudo_sentence_word_context
+973,225,en,years,years,5,6,excited saw filed san francisco federal court cause berkeley,pseudo_sentence_word_context
+974,225,en,practicing,practicing,6,7,excited saw filed san francisco federal court cause berkeley,pseudo_sentence_word_context
+975,225,en,years,years,7,8,excited saw filed san francisco federal court cause berkeley,pseudo_sentence_word_context
+976,225,en,able,able,8,9,excited saw filed san francisco federal court cause berkeley,pseudo_sentence_word_context
+977,226,en,filed,filed,0,1,thought perfect case,pseudo_sentence_word_context
+978,226,en,court,court,1,2,thought perfect case,pseudo_sentence_word_context
+979,226,en,case,case,2,3,thought perfect case,pseudo_sentence_word_context
+980,227,en,said,said,0,1,intellectual property lawyer,pseudo_sentence_word_context
+981,227,en,real,real,1,2,intellectual property lawyer,pseudo_sentence_word_context
+982,227,en,intellectual_property,intellectual | property,2,4,intellectual property lawyer,isolated_word_fallback_span_out_of_range
+983,228,en,lawyer,lawyer,0,1,works,pseudo_sentence_word_context
+984,229,en,defended,defended,0,1,read case reached ask take,pseudo_sentence_word_context
+985,229,en,toy,toy,1,2,read case reached ask take,pseudo_sentence_word_context
+986,229,en,company,company,2,3,read case reached ask take,pseudo_sentence_word_context
+987,229,en,won,won,3,4,read case reached ask take,pseudo_sentence_word_context
+988,229,en,important,important,4,5,read case reached ask take,pseudo_sentence_word_context
+989,230,en,case,case,0,1,think perfect case,pseudo_sentence_word_context
+990,230,en,case,case,1,2,think perfect case,pseudo_sentence_word_context
+991,230,en,banana,banana,2,3,think perfect case,pseudo_sentence_word_context
+992,231,en,problem,problem,0,1,think know case know making monkey puns things,pseudo_sentence_word_context
+993,231,en,answered,answered,1,2,think know case know making monkey puns things,pseudo_sentence_word_context
+994,231,en,complaint,complaint,2,3,think know case know making monkey puns things,pseudo_sentence_word_context
+995,231,en,motion,motion,3,4,think know case know making monkey puns things,pseudo_sentence_word_context
+996,231,en,dismiss,dismiss,4,5,think know case know making monkey puns things,pseudo_sentence_word_context
+997,231,en,case,case,5,6,think know case know making monkey puns things,pseudo_sentence_word_context
+998,231,en,monkeys,monkeys,6,7,think know case know making monkey puns things,pseudo_sentence_word_context
+999,231,en,said,said,7,8,think know case know making monkey puns things,pseudo_sentence_word_context
+1000,232,en,standing,standing,0,1,thought,pseudo_sentence_word_context
+1001,233,en,sue,sue,0,1,,isolated_word_fallback_span_out_of_range
+1002,234,en,federal_court,federal | court,0,2,dont know seen linkedin profile,pseudo_sentence_word_context
+1003,234,en,argument,argument,2,3,dont know seen linkedin profile,pseudo_sentence_word_context
+1004,234,en,based,based,3,4,dont know seen linkedin profile,pseudo_sentence_word_context
+1005,234,en,precedent,precedent,4,5,dont know seen linkedin profile,pseudo_sentence_word_context
+1006,234,en,set,set,5,6,dont know seen linkedin profile,isolated_word_fallback_span_out_of_range
+1007,235,en,case,case,0,1,chippendales costume,pseudo_sentence_word_context
+1008,235,en,called,called,1,2,chippendales costume,pseudo_sentence_word_context
+1009,236,en,community,community,0,1,linkedin picture chose shot wearing eyeglasses bow tie,pseudo_sentence_word_context
+1010,236,en,worlds,worlds,1,2,linkedin picture chose shot wearing eyeglasses bow tie,pseudo_sentence_word_context
+1011,236,en,whales,whales,2,3,linkedin picture chose shot wearing eyeglasses bow tie,pseudo_sentence_word_context
+1012,236,en,porpoises,porpoises,3,4,linkedin picture chose shot wearing eyeglasses bow tie,pseudo_sentence_word_context
+1013,236,en,dolphins,dolphins,4,5,linkedin picture chose shot wearing eyeglasses bow tie,pseudo_sentence_word_context
+1014,236,en,sued,sued,5,6,linkedin picture chose shot wearing eyeglasses bow tie,pseudo_sentence_word_context
+1015,236,en,president,president,6,7,linkedin picture chose shot wearing eyeglasses bow tie,pseudo_sentence_word_context
+1016,236,en,worlds,worlds,7,8,linkedin picture chose shot wearing eyeglasses bow tie,pseudo_sentence_word_context
+1017,237,en,whales,whales,0,1,years practicing years able filed court,pseudo_sentence_word_context
+1018,237,en,porpoises,porpoises,1,2,years practicing years able filed court,pseudo_sentence_word_context
+1019,237,en,dolphins,dolphins,2,3,years practicing years able filed court,pseudo_sentence_word_context
+1020,237,en,argued,argued,3,4,years practicing years able filed court,pseudo_sentence_word_context
+1021,237,en,militarys,militarys,4,5,years practicing years able filed court,pseudo_sentence_word_context
+1022,237,en,use,use,5,6,years practicing years able filed court,pseudo_sentence_word_context
+1023,238,en,underwater,underwater,0,1,case,pseudo_sentence_word_context
+1024,239,en,hurting,hurting,0,1,said real intellectual property lawyer,pseudo_sentence_word_context
+1025,239,en,changing,changing,1,2,said real intellectual property lawyer,pseudo_sentence_word_context
+1026,239,en,natural,natural,2,3,said real intellectual property lawyer,pseudo_sentence_word_context
+1027,239,en,behaviors,behaviors,3,4,said real intellectual property lawyer,pseudo_sentence_word_context
+1028,239,en,eating,eating,4,5,said real intellectual property lawyer,pseudo_sentence_word_context
+1029,240,en,mating,mating,0,1,defended toy company won important case,pseudo_sentence_word_context
+1030,240,en,loud,loud,1,2,defended toy company won important case,pseudo_sentence_word_context
+1031,240,en,sound_wave,sound | wave,2,4,defended toy company won important case,pseudo_sentence_word_context
+1032,240,en,cetaceans,cetaceans,4,5,defended toy company won important case,pseudo_sentence_word_context
+1033,240,en,scientific,scientific,5,6,defended toy company won important case,pseudo_sentence_word_context
+1034,240,en,word,word,6,7,defended toy company won important case,isolated_word_fallback_span_out_of_range
+1035,241,en,category,category,0,1,case banana problem,pseudo_sentence_word_context
+1036,241,en,mammal,mammal,1,2,case banana problem,pseudo_sentence_word_context
+1037,241,en,cetaceans,cetaceans,2,3,case banana problem,pseudo_sentence_word_context
+1038,242,en,hear,hear,0,1,answered complaint motion dismiss case,pseudo_sentence_word_context
+1039,242,en,beaching,beaching,1,2,answered complaint motion dismiss case,pseudo_sentence_word_context
+1040,242,en,case,case,2,3,answered complaint motion dismiss case,pseudo_sentence_word_context
+1041,242,en,court,court,3,4,answered complaint motion dismiss case,pseudo_sentence_word_context
+1042,242,en,appeals,appeals,4,5,answered complaint motion dismiss case,pseudo_sentence_word_context
+1043,243,en,decided,decided,0,1,monkeys said standing sue federal court,pseudo_sentence_word_context
+1044,243,en,states,states,1,2,monkeys said standing sue federal court,pseudo_sentence_word_context
+1045,243,en,animals,animals,2,3,monkeys said standing sue federal court,pseudo_sentence_word_context
+1046,243,en,standing,standing,3,4,monkeys said standing sue federal court,pseudo_sentence_word_context
+1047,243,en,sue,sue,4,5,monkeys said standing sue federal court,pseudo_sentence_word_context
+1048,243,en,federal_court,federal | court,5,7,monkeys said standing sue federal court,isolated_word_fallback_span_out_of_range
+1049,244,en,case,case,0,1,argument based precedent set case called community,pseudo_sentence_word_context
+1050,244,en,pointed,pointed,1,2,argument based precedent set case called community,pseudo_sentence_word_context
+1051,244,en,defense,defense,2,3,argument based precedent set case called community,pseudo_sentence_word_context
+1052,244,en,hired,hired,3,4,argument based precedent set case called community,pseudo_sentence_word_context
+1053,244,en,attorney,attorney,4,5,argument based precedent set case called community,pseudo_sentence_word_context
+1054,244,en,represent,represent,5,6,argument based precedent set case called community,pseudo_sentence_word_context
+1055,244,en,monkey,monkey,6,7,argument based precedent set case called community,pseudo_sentence_word_context
+1056,245,en,court,court,0,1,worlds whales porpoises dolphins sued president,pseudo_sentence_word_context
+1057,245,en,guy,guy,1,2,worlds whales porpoises dolphins sued president,pseudo_sentence_word_context
+1058,245,en,named,named,2,3,worlds whales porpoises dolphins sued president,pseudo_sentence_word_context
+1059,245,en,guy,guy,3,4,worlds whales porpoises dolphins sued president,pseudo_sentence_word_context
+1060,245,en,comes,comes,4,5,worlds whales porpoises dolphins sued president,pseudo_sentence_word_context
+1061,245,en,law_firm,law | firm,5,7,worlds whales porpoises dolphins sued president,isolated_word_fallback_span_out_of_range
+1062,246,en,los_angeles,los | angeles,0,2,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1063,246,en,known,known,2,3,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1064,246,en,intellectual_property,intellectual | property,3,5,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1065,246,en,law,law,5,6,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1066,246,en,case,case,6,7,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1067,246,en,intellectual_property,intellectual | property,7,9,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1068,246,en,argument,argument,9,10,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1069,246,en,legal,legal,10,11,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1070,246,en,copyright,copyright,11,12,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1071,246,en,made,made,12,13,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1072,246,en,photo,photo,13,14,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,pseudo_sentence_word_context
+1073,246,en,saw,saw,14,15,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,isolated_word_fallback_span_out_of_range
+1074,246,en,case,case,15,16,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,isolated_word_fallback_span_out_of_range
+1075,246,en,opportunity,opportunity,16,17,worlds whales porpoises dolphins argued militarys use underwater hurting changing natural behaviors eating mating,isolated_word_fallback_span_out_of_range
+1076,247,en,nudge,nudge,0,1,loud sound wave,pseudo_sentence_word_context
+1077,247,en,law,law,1,2,loud sound wave,pseudo_sentence_word_context
+1078,247,en,set,set,2,3,loud sound wave,pseudo_sentence_word_context
+1079,248,en,precedent,precedent,0,1,cetaceans scientific word category mammal cetaceans hear beaching,pseudo_sentence_word_context
+1080,248,en,disagreed,disagreed,1,2,cetaceans scientific word category mammal cetaceans hear beaching,pseudo_sentence_word_context
+1081,248,en,ruling,ruling,2,3,cetaceans scientific word category mammal cetaceans hear beaching,pseudo_sentence_word_context
+1082,248,en,case,case,3,4,cetaceans scientific word category mammal cetaceans hear beaching,pseudo_sentence_word_context
+1083,248,en,believe,believe,4,5,cetaceans scientific word category mammal cetaceans hear beaching,pseudo_sentence_word_context
+1084,248,en,animals,animals,5,6,cetaceans scientific word category mammal cetaceans hear beaching,pseudo_sentence_word_context
+1085,248,en,court,court,6,7,cetaceans scientific word category mammal cetaceans hear beaching,pseudo_sentence_word_context
+1086,248,en,calling,calling,7,8,cetaceans scientific word category mammal cetaceans hear beaching,pseudo_sentence_word_context
+1087,249,en,civil,civil,0,1,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1088,249,en,matter,matter,1,2,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1089,249,en,dash,dash,2,3,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1090,249,en,counsel,counsel,3,4,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1091,249,en,come,come,4,5,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1092,249,en,state,state,5,6,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1093,249,en,appearance,appearance,6,7,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1094,249,en,good,good,7,8,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1095,249,en,afternoon,afternoon,8,9,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1096,249,en,recording,recording,9,10,case court appeals decided states animals standing sue federal court,pseudo_sentence_word_context
+1097,250,en,hearing,hearing,0,1,case pointed defense,pseudo_sentence_word_context
+1098,250,en,federal_court,federal | court,1,3,case pointed defense,pseudo_sentence_word_context
+1099,250,en,san_francisco,san | francisco,3,5,case pointed defense,isolated_word_fallback_span_out_of_range
+1100,251,en,unanticipated,unanticipated,0,1,hired attorney represent monkey court guy named,pseudo_sentence_word_context
+1101,251,en,judge,judge,1,2,hired attorney represent monkey court guy named,pseudo_sentence_word_context
+1102,251,en,asked,asked,2,3,hired attorney represent monkey court guy named,pseudo_sentence_word_context
+1103,251,en,example,example,3,4,hired attorney represent monkey court guy named,pseudo_sentence_word_context
+1104,251,en,animal,animal,4,5,hired attorney represent monkey court guy named,pseudo_sentence_word_context
+1105,251,en,granted,granted,5,6,hired attorney represent monkey court guy named,pseudo_sentence_word_context
+1106,251,en,copyright,copyright,6,7,hired attorney represent monkey court guy named,pseudo_sentence_word_context
+1107,252,en,vast,vast,0,1,guy comes law firm los angeles known intellectual property law,pseudo_sentence_word_context
+1108,252,en,history,history,1,2,guy comes law firm los angeles known intellectual property law,pseudo_sentence_word_context
+1109,252,en,common_law,common | law,2,4,guy comes law firm los angeles known intellectual property law,pseudo_sentence_word_context
+1110,252,en,copyright_act,copyright | act,4,6,guy comes law firm los angeles known intellectual property law,pseudo_sentence_word_context
+1111,252,en,example,example,6,7,guy comes law firm los angeles known intellectual property law,pseudo_sentence_word_context
+1112,252,en,animal,animal,7,8,guy comes law firm los angeles known intellectual property law,pseudo_sentence_word_context
+1113,252,en,granted,granted,8,9,guy comes law firm los angeles known intellectual property law,pseudo_sentence_word_context
+1114,252,en,copyright,copyright,9,10,guy comes law firm los angeles known intellectual property law,pseudo_sentence_word_context
+1115,252,en,example,example,10,11,guy comes law firm los angeles known intellectual property law,isolated_word_fallback_span_out_of_range
+1116,252,en,animal,animal,11,12,guy comes law firm los angeles known intellectual property law,isolated_word_fallback_span_out_of_range
+1117,253,en,granted,granted,0,1,case intellectual property argument legal copyright made photo,pseudo_sentence_word_context
+1118,253,en,copyright,copyright,1,2,case intellectual property argument legal copyright made photo,pseudo_sentence_word_context
+1119,253,en,make,make,2,3,case intellectual property argument legal copyright made photo,pseudo_sentence_word_context
+1120,253,en,counterargument,counterargument,3,4,case intellectual property argument legal copyright made photo,pseudo_sentence_word_context
+1121,253,en,other,other,4,5,case intellectual property argument legal copyright made photo,pseudo_sentence_word_context
+1122,253,en,humans,humans,5,6,case intellectual property argument legal copyright made photo,pseudo_sentence_word_context
+1123,253,en,denied,denied,6,7,case intellectual property argument legal copyright made photo,pseudo_sentence_word_context
+1124,253,en,protection,protection,7,8,case intellectual property argument legal copyright made photo,pseudo_sentence_word_context
+1125,254,en,law,law,0,1,saw case opportunity nudge law set precedent,pseudo_sentence_word_context
+1126,254,en,due,due,1,2,saw case opportunity nudge law set precedent,pseudo_sentence_word_context
+1127,254,en,color,color,2,3,saw case opportunity nudge law set precedent,pseudo_sentence_word_context
+1128,254,en,skin,skin,3,4,saw case opportunity nudge law set precedent,pseudo_sentence_word_context
+1129,254,en,see,see,4,5,saw case opportunity nudge law set precedent,pseudo_sentence_word_context
+1130,254,en,contradiction,contradiction,5,6,saw case opportunity nudge law set precedent,pseudo_sentence_word_context
+1131,254,en,interpretation,interpretation,6,7,saw case opportunity nudge law set precedent,pseudo_sentence_word_context
+1132,255,en,see,see,0,1,disagreed ruling case,pseudo_sentence_word_context
+1133,255,en,problem,problem,1,2,disagreed ruling case,pseudo_sentence_word_context
+1134,255,en,days,days,2,3,disagreed ruling case,pseudo_sentence_word_context
+1135,256,en,look,look,0,1,believe animals court,pseudo_sentence_word_context
+1136,256,en,cornerstones,cornerstones,1,2,believe animals court,pseudo_sentence_word_context
+1137,256,en,stretch,stretch,2,3,believe animals court,pseudo_sentence_word_context
+1138,257,en,pause,pause,0,1,calling civil matter dash,pseudo_sentence_word_context
+1139,257,en,moment,moment,1,2,calling civil matter dash,pseudo_sentence_word_context
+1140,257,en,answered,answered,2,3,calling civil matter dash,pseudo_sentence_word_context
+1141,257,en,comparing,comparing,3,4,calling civil matter dash,pseudo_sentence_word_context
+1142,258,en,monkeys,monkeys,0,1,counsel come state appearance good,pseudo_sentence_word_context
+1143,258,en,lack,lack,1,2,counsel come state appearance good,pseudo_sentence_word_context
+1144,258,en,copyright,copyright,2,3,counsel come state appearance good,pseudo_sentence_word_context
+1145,258,en,chattel_slavery,chattel | slavery,3,5,counsel come state appearance good,pseudo_sentence_word_context
+1146,258,en,offensive,offensive,5,6,counsel come state appearance good,isolated_word_fallback_span_out_of_range
+1147,259,en,seems,seems,0,1,afternoon recording hearing federal court san francisco unanticipated,pseudo_sentence_word_context
+1148,259,en,blind,blind,1,2,afternoon recording hearing federal court san francisco unanticipated,pseudo_sentence_word_context
+1149,259,en,racist,racist,2,3,afternoon recording hearing federal court san francisco unanticipated,pseudo_sentence_word_context
+1150,259,en,history,history,3,4,afternoon recording hearing federal court san francisco unanticipated,pseudo_sentence_word_context
+1151,259,en,comparing,comparing,4,5,afternoon recording hearing federal court san francisco unanticipated,pseudo_sentence_word_context
+1152,259,en,black_people,black | people,5,7,afternoon recording hearing federal court san francisco unanticipated,pseudo_sentence_word_context
+1153,259,en,monkeys,monkeys,7,8,afternoon recording hearing federal court san francisco unanticipated,pseudo_sentence_word_context
+1154,259,en,seems,seems,8,9,afternoon recording hearing federal court san francisco unanticipated,isolated_word_fallback_span_out_of_range
+1155,260,en,uncomfortable,uncomfortable,0,1,judge asked example animal granted copyright,pseudo_sentence_word_context
+1156,260,en,saying,saying,1,2,judge asked example animal granted copyright,pseudo_sentence_word_context
+1157,260,en,denying,denying,2,3,judge asked example animal granted copyright,pseudo_sentence_word_context
+1158,260,en,monkey,monkey,3,4,judge asked example animal granted copyright,pseudo_sentence_word_context
+1159,260,en,own_property,own | property,4,6,judge asked example animal granted copyright,pseudo_sentence_word_context
+1160,260,en,same,same,6,7,judge asked example animal granted copyright,isolated_word_fallback_span_out_of_range
+1161,261,en,denying,denying,0,1,vast history common law copyright act example animal granted copyright,pseudo_sentence_word_context
+1162,261,en,humans,humans,1,2,vast history common law copyright act example animal granted copyright,pseudo_sentence_word_context
+1163,261,en,own_property,own | property,2,4,vast history common law copyright act example animal granted copyright,pseudo_sentence_word_context
+1164,261,en,color,color,4,5,vast history common law copyright act example animal granted copyright,pseudo_sentence_word_context
+1165,261,en,skin,skin,5,6,vast history common law copyright act example animal granted copyright,pseudo_sentence_word_context
+1166,261,en,stretch,stretch,6,7,vast history common law copyright act example animal granted copyright,pseudo_sentence_word_context
+1167,261,en,pardon,pardon,7,8,vast history common law copyright act example animal granted copyright,pseudo_sentence_word_context
+1168,261,en,stretch,stretch,8,9,vast history common law copyright act example animal granted copyright,pseudo_sentence_word_context
+1169,261,en,go,go,9,10,vast history common law copyright act example animal granted copyright,pseudo_sentence_word_context
+1170,261,en,make,make,10,11,vast history common law copyright act example animal granted copyright,isolated_word_fallback_span_out_of_range
+1171,262,en,centerpiece,centerpiece,0,1,example animal granted copyright,pseudo_sentence_word_context
+1172,262,en,argument,argument,1,2,example animal granted copyright,pseudo_sentence_word_context
+1173,262,en,today,today,2,3,example animal granted copyright,pseudo_sentence_word_context
+1174,262,en,fair,fair,3,4,example animal granted copyright,pseudo_sentence_word_context
+1175,263,en,say,say,0,1,make counterargument other humans denied protection law due color skin,pseudo_sentence_word_context
+1176,263,en,adoption,adoption,1,2,make counterargument other humans denied protection law due color skin,pseudo_sentence_word_context
+1177,263,en,fourteenth,fourteenth,2,3,make counterargument other humans denied protection law due color skin,pseudo_sentence_word_context
+1178,263,en,amendment,amendment,3,4,make counterargument other humans denied protection law due color skin,pseudo_sentence_word_context
+1179,263,en,concepts,concepts,4,5,make counterargument other humans denied protection law due color skin,pseudo_sentence_word_context
+1180,263,en,property_ownership,property | ownership,5,7,make counterargument other humans denied protection law due color skin,pseudo_sentence_word_context
+1181,263,en,area,area,7,8,make counterargument other humans denied protection law due color skin,pseudo_sentence_word_context
+1182,263,en,patents,patents,8,9,make counterargument other humans denied protection law due color skin,pseudo_sentence_word_context
+1183,263,en,ability,ability,9,10,make counterargument other humans denied protection law due color skin,pseudo_sentence_word_context
+1184,263,en,slave,slave,10,11,make counterargument other humans denied protection law due color skin,isolated_word_fallback_span_out_of_range
+1185,264,en,claim,claim,0,1,see contradiction interpretation see problem days,pseudo_sentence_word_context
+1186,264,en,ownership,ownership,1,2,see contradiction interpretation see problem days,pseudo_sentence_word_context
+1187,264,en,patent,patent,2,3,see contradiction interpretation see problem days,pseudo_sentence_word_context
+1188,264,en,going,going,3,4,see contradiction interpretation see problem days,pseudo_sentence_word_context
+1189,264,en,sees,sees,4,5,see contradiction interpretation see problem days,pseudo_sentence_word_context
+1190,264,en,monkey,monkey,5,6,see contradiction interpretation see problem days,pseudo_sentence_word_context
+1191,265,en,selfie,selfie,0,1,look cornerstones,pseudo_sentence_word_context
+1192,265,en,case,case,1,2,look cornerstones,pseudo_sentence_word_context
+1193,266,en,context,context,0,1,stretch,pseudo_sentence_word_context
+1194,267,en,larger,larger,0,1,pause moment answered,pseudo_sentence_word_context
+1195,267,en,endgame,endgame,1,2,pause moment answered,pseudo_sentence_word_context
+1196,267,en,court,court,2,3,pause moment answered,pseudo_sentence_word_context
+1197,268,en,agree,agree,0,1,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1198,268,en,denying,denying,1,2,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1199,268,en,monkey,monkey,2,3,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1200,268,en,own_property,own | property,3,5,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1201,268,en,same,same,5,6,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1202,268,en,denying,denying,6,7,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1203,268,en,human,human,7,8,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1204,268,en,own_property,own | property,8,10,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1205,268,en,opens,opens,10,11,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1206,268,en,door,door,11,12,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1207,268,en,legal_system,legal | system,12,14,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1208,268,en,reconsider,reconsider,14,15,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,pseudo_sentence_word_context
+1209,268,en,legal_status,legal | status,15,17,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,isolated_word_fallback_span_out_of_range
+1210,268,en,animals,animals,17,18,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,isolated_word_fallback_span_out_of_range
+1211,268,en,animal,animal,18,19,comparing monkeys lack copyright chattel slavery offensive seems blind racist history comparing black people monkeys,isolated_word_fallback_span_out_of_range
+1212,269,en,declared,declared,0,1,seems uncomfortable,pseudo_sentence_word_context
+1213,269,en,property,property,1,2,seems uncomfortable,pseudo_sentence_word_context
+1214,270,en,property,property,0,1,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1215,270,en,time,time,1,2,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1216,270,en,tried,tried,2,3,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1217,270,en,argument,argument,3,4,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1218,270,en,courts,courts,4,5,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1219,270,en,sued,sued,5,6,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1220,270,en,behalf,behalf,6,7,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1221,270,en,diego,diego,7,8,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1222,270,en,huge,huge,8,9,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1223,270,en,feet,feet,9,10,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1224,270,en,weigh,weigh,10,11,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1225,270,en,tons,tons,11,12,saying denying monkey own property same denying humans own property color skin,pseudo_sentence_word_context
+1226,271,en,travel,travel,0,1,stretch,pseudo_sentence_word_context
+1227,272,en,miles,miles,0,1,pardon,pseudo_sentence_word_context
+1228,273,en,day,day,0,1,stretch,pseudo_sentence_word_context
+1229,274,en,said,said,0,1,go,pseudo_sentence_word_context
+1230,275,en,keeping,keeping,0,1,make centerpiece argument today,pseudo_sentence_word_context
+1231,275,en,small,small,1,2,make centerpiece argument today,pseudo_sentence_word_context
+1232,275,en,concrete,concrete,2,3,make centerpiece argument today,pseudo_sentence_word_context
+1233,275,en,tanks,tanks,3,4,make centerpiece argument today,pseudo_sentence_word_context
+1234,276,en,perform,perform,0,1,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1235,276,en,human,human,1,2,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1236,276,en,entertainment,entertainment,2,3,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1237,276,en,slavery,slavery,3,4,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1238,276,en,lost,lost,4,5,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1239,276,en,case,case,5,6,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1240,276,en,agreed,agreed,6,7,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1241,276,en,end,end,7,8,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1242,276,en,captive,captive,8,9,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1243,276,en,orca,orca,9,10,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1244,276,en,program,program,10,11,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1245,276,en,last,last,11,12,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1246,276,en,dies,dies,12,13,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1247,276,en,understand,understand,13,14,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1248,276,en,pursuing,pursuing,14,15,fair say adoption fourteenth amendment concepts property ownership area patents ability slave claim ownership patent,pseudo_sentence_word_context
+1249,277,en,cases,cases,0,1,going sees monkey selfie case context larger endgame,pseudo_sentence_word_context
+1250,277,en,consider,consider,1,2,going sees monkey selfie case context larger endgame,pseudo_sentence_word_context
+1251,277,en,different,different,2,3,going sees monkey selfie case context larger endgame,pseudo_sentence_word_context
+1252,277,en,pictures,pictures,3,4,going sees monkey selfie case context larger endgame,pseudo_sentence_word_context
+1253,277,en,world,world,4,5,going sees monkey selfie case context larger endgame,pseudo_sentence_word_context
+1254,277,en,works,works,5,6,going sees monkey selfie case context larger endgame,pseudo_sentence_word_context
+1255,277,en,humans,humans,6,7,going sees monkey selfie case context larger endgame,pseudo_sentence_word_context
+1256,277,en,top,top,7,8,going sees monkey selfie case context larger endgame,pseudo_sentence_word_context
+1257,278,en,food_chain,food | chain,0,2,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1258,278,en,wanted,wanted,2,3,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1259,278,en,way,way,3,4,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1260,278,en,figured,figured,4,5,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1261,278,en,use,use,5,6,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1262,278,en,thumbs,thumbs,6,7,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1263,278,en,hunt,hunt,7,8,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1264,278,en,gather,gather,8,9,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1265,278,en,soil,soil,9,10,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1266,278,en,build,build,10,11,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1267,278,en,cities,cities,11,12,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1268,278,en,create,create,12,13,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1269,278,en,copyright_laws,copyright | laws,13,15,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1270,278,en,make,make,15,16,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1271,278,en,rules,rules,16,17,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1272,278,en,world,world,17,18,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1273,278,en,other,other,18,19,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,pseudo_sentence_word_context
+1274,278,en,picture,picture,19,20,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,isolated_word_fallback_span_out_of_range
+1275,278,en,hanging,hanging,20,21,court agree denying monkey own property same denying human own property opens door legal system reconsider legal status animals,isolated_word_fallback_span_out_of_range
+1276,279,en,wall,wall,0,1,animal declared property property,pseudo_sentence_word_context
+1277,279,en,humans,humans,1,2,animal declared property property,pseudo_sentence_word_context
+1278,279,en,top,top,2,3,animal declared property property,pseudo_sentence_word_context
+1279,279,en,humans,humans,3,4,animal declared property property,pseudo_sentence_word_context
+1280,280,en,mammal,mammal,0,1,time tried argument courts,pseudo_sentence_word_context
+1281,280,en,walking,walking,1,2,time tried argument courts,pseudo_sentence_word_context
+1282,280,en,earth,earth,2,3,time tried argument courts,pseudo_sentence_word_context
+1283,280,en,give,give,3,4,time tried argument courts,pseudo_sentence_word_context
+1284,281,en,certain,certain,0,1,sued behalf diego,pseudo_sentence_word_context
+1285,281,en,rights,rights,1,2,sued behalf diego,pseudo_sentence_word_context
+1286,281,en,humans,humans,2,3,sued behalf diego,pseudo_sentence_word_context
+1287,282,en,extend,extend,0,1,huge feet,pseudo_sentence_word_context
+1288,282,en,rights,rights,1,2,huge feet,pseudo_sentence_word_context
+1289,283,en,fellow,fellow,0,1,weigh tons,pseudo_sentence_word_context
+1290,283,en,animals,animals,1,2,weigh tons,pseudo_sentence_word_context
+1291,284,en,guys,guys,0,1,travel miles day,pseudo_sentence_word_context
+1292,284,en,saying,saying,1,2,travel miles day,pseudo_sentence_word_context
+1293,284,en,humans,humans,2,3,travel miles day,pseudo_sentence_word_context
+1294,285,en,superior,superior,0,1,said keeping small concrete tanks perform human entertainment slavery,pseudo_sentence_word_context
+1295,285,en,other_animals,other | animals,1,3,said keeping small concrete tanks perform human entertainment slavery,pseudo_sentence_word_context
+1296,285,en,member,member,3,4,said keeping small concrete tanks perform human entertainment slavery,pseudo_sentence_word_context
+1297,285,en,animal_kingdom,animal | kingdom,4,6,said keeping small concrete tanks perform human entertainment slavery,pseudo_sentence_word_context
+1298,285,en,know,know,6,7,said keeping small concrete tanks perform human entertainment slavery,pseudo_sentence_word_context
+1299,285,en,prejudice,prejudice,7,8,said keeping small concrete tanks perform human entertainment slavery,pseudo_sentence_word_context
+1300,285,en,prevents,prevents,8,9,said keeping small concrete tanks perform human entertainment slavery,pseudo_sentence_word_context
+1301,285,en,many_times,many | times,9,11,said keeping small concrete tanks perform human entertainment slavery,isolated_word_fallback_span_out_of_range
+1302,285,en,seeing,seeing,11,12,said keeping small concrete tanks perform human entertainment slavery,isolated_word_fallback_span_out_of_range
+1303,286,en,general,general,0,1,lost case,pseudo_sentence_word_context
+1304,286,en,counsel,counsel,1,2,lost case,pseudo_sentence_word_context
+1305,287,en,property,property,0,1,agreed end captive orca program last dies,pseudo_sentence_word_context
+1306,287,en,status,status,1,2,agreed end captive orca program last dies,pseudo_sentence_word_context
+1307,287,en,think,think,2,3,agreed end captive orca program last dies,pseudo_sentence_word_context
+1308,287,en,abomination,abomination,3,4,agreed end captive orca program last dies,pseudo_sentence_word_context
+1309,287,en,animals,animals,4,5,agreed end captive orca program last dies,pseudo_sentence_word_context
+1310,287,en,feeling,feeling,5,6,agreed end captive orca program last dies,pseudo_sentence_word_context
+1311,287,en,sentient_beings,sentient | beings,6,8,agreed end captive orca program last dies,isolated_word_fallback_span_out_of_range
+1312,288,en,entitled,entitled,0,1,understand pursuing cases consider different pictures world works,pseudo_sentence_word_context
+1313,288,en,fundamental,fundamental,1,2,understand pursuing cases consider different pictures world works,pseudo_sentence_word_context
+1314,288,en,legal_rights,legal | rights,2,4,understand pursuing cases consider different pictures world works,pseudo_sentence_word_context
+1315,288,en,food,food,4,5,understand pursuing cases consider different pictures world works,pseudo_sentence_word_context
+1316,288,en,water,water,5,6,understand pursuing cases consider different pictures world works,pseudo_sentence_word_context
+1317,288,en,veterinary,veterinary,6,7,understand pursuing cases consider different pictures world works,pseudo_sentence_word_context
+1318,288,en,care,care,7,8,understand pursuing cases consider different pictures world works,pseudo_sentence_word_context
+1319,288,en,shelter,shelter,8,9,understand pursuing cases consider different pictures world works,isolated_word_fallback_span_out_of_range
+1320,289,en,idea,idea,0,1,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1321,289,en,animals,animals,1,2,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1322,289,en,recognized,recognized,2,3,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1323,289,en,fundamental,fundamental,3,4,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1324,289,en,legal_rights,legal | rights,4,6,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1325,289,en,unprecedented,unprecedented,6,7,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1326,289,en,years,years,7,8,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1327,289,en,argentina,argentina,8,9,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1328,289,en,judge,judge,9,10,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1329,289,en,granted,granted,10,11,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1330,289,en,petition,petition,11,12,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1331,289,en,filed,filed,12,13,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1332,289,en,behalf,behalf,13,14,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1333,289,en,buenos_aires,buenos | aires,14,16,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1334,289,en,held,held,16,17,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,pseudo_sentence_word_context
+1335,289,en,tiny,tiny,17,18,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,isolated_word_fallback_span_out_of_range
+1336,289,en,crappy,crappy,18,19,humans top food chain wanted way figured use thumbs hunt gather soil build cities create copyright laws,isolated_word_fallback_span_out_of_range
+1337,290,en,cage,cage,0,1,make rules world,pseudo_sentence_word_context
+1338,290,en,judge,judge,1,2,make rules world,pseudo_sentence_word_context
+1339,290,en,decided,decided,2,3,make rules world,pseudo_sentence_word_context
+1340,291,en,orangutan,orangutan,0,1,other picture hanging wall humans top,pseudo_sentence_word_context
+1341,291,en,basic_rights,basic | rights,1,3,other picture hanging wall humans top,pseudo_sentence_word_context
+1342,291,en,person,person,3,4,other picture hanging wall humans top,pseudo_sentence_word_context
+1343,291,en,including,including,4,5,other picture hanging wall humans top,pseudo_sentence_word_context
+1344,291,en,freedom,freedom,5,6,other picture hanging wall humans top,pseudo_sentence_word_context
+1345,291,en,new,new,6,7,other picture hanging wall humans top,isolated_word_fallback_span_out_of_range
+1346,292,en,state,state,0,1,humans mammal walking earth,pseudo_sentence_word_context
+1347,292,en,attorney,attorney,1,2,humans mammal walking earth,pseudo_sentence_word_context
+1348,292,en,fighting,fighting,2,3,humans mammal walking earth,pseudo_sentence_word_context
+1349,292,en,courts,courts,3,4,humans mammal walking earth,pseudo_sentence_word_context
+1350,293,en,recognize,recognize,0,1,give certain rights humans extend rights fellow animals,pseudo_sentence_word_context
+1351,293,en,captive,captive,1,2,give certain rights humans extend rights fellow animals,pseudo_sentence_word_context
+1352,293,en,persons,persons,2,3,give certain rights humans extend rights fellow animals,pseudo_sentence_word_context
+1353,293,en,deserving,deserving,3,4,give certain rights humans extend rights fellow animals,pseudo_sentence_word_context
+1354,293,en,legal_rights,legal | rights,4,6,give certain rights humans extend rights fellow animals,pseudo_sentence_word_context
+1355,293,en,corporations,corporations,6,7,give certain rights humans extend rights fellow animals,pseudo_sentence_word_context
+1356,293,en,thing,thing,7,8,give certain rights humans extend rights fellow animals,pseudo_sentence_word_context
+1357,293,en,photographer,photographer,8,9,give certain rights humans extend rights fellow animals,isolated_word_fallback_span_out_of_range
+1358,294,en,sued,sued,0,1,guys saying humans superior other animals,pseudo_sentence_word_context
+1359,294,en,monkey,monkey,1,2,guys saying humans superior other animals,pseudo_sentence_word_context
+1360,294,en,agrees,agrees,2,3,guys saying humans superior other animals,pseudo_sentence_word_context
+1361,294,en,point,point,3,4,guys saying humans superior other animals,pseudo_sentence_word_context
+1362,294,en,fact,fact,4,5,guys saying humans superior other animals,pseudo_sentence_word_context
+1363,294,en,used,used,5,6,guys saying humans superior other animals,pseudo_sentence_word_context
+1364,295,en,defend,defend,0,1,,isolated_word_fallback_span_out_of_range
+1365,296,en,friends,friends,0,1,member animal kingdom know,pseudo_sentence_word_context
+1366,296,en,grumbled,grumbled,1,2,member animal kingdom know,pseudo_sentence_word_context
+1367,296,en,stunts,stunts,2,3,member animal kingdom know,pseudo_sentence_word_context
+1368,296,en,worked,worked,3,4,member animal kingdom know,pseudo_sentence_word_context
+1369,297,en,campaign,campaign,0,1,prejudice prevents many times seeing,pseudo_sentence_word_context
+1370,297,en,protect,protect,1,2,prejudice prevents many times seeing,pseudo_sentence_word_context
+1371,297,en,wild,wild,2,3,prejudice prevents many times seeing,pseudo_sentence_word_context
+1372,297,en,hogs,hogs,3,4,prejudice prevents many times seeing,pseudo_sentence_word_context
+1373,297,en,home,home,4,5,prejudice prevents many times seeing,pseudo_sentence_word_context
+1374,298,en,england,england,0,1,general counsel,pseudo_sentence_word_context
+1375,298,en,greatest,greatest,1,2,general counsel,pseudo_sentence_word_context
+1376,299,en,shames,shames,0,1,property status think abomination,pseudo_sentence_word_context
+1377,299,en,attacked,attacked,1,2,property status think abomination,pseudo_sentence_word_context
+1378,299,en,trying,trying,2,3,property status think abomination,pseudo_sentence_word_context
+1379,299,en,achieve,achieve,3,4,property status think abomination,pseudo_sentence_word_context
+1380,300,en,same,same,0,1,animals feeling sentient beings,pseudo_sentence_word_context
+1381,300,en,goal,goal,1,2,animals feeling sentient beings,pseudo_sentence_word_context
+1382,300,en,saving,saving,2,3,animals feeling sentient beings,pseudo_sentence_word_context
+1383,300,en,animals,animals,3,4,animals feeling sentient beings,pseudo_sentence_word_context
+1384,301,en,suffering,suffering,0,1,entitled fundamental legal rights food water veterinary care shelter,pseudo_sentence_word_context
+1385,301,en,noble,noble,1,2,entitled fundamental legal rights food water veterinary care shelter,pseudo_sentence_word_context
+1386,301,en,cause,cause,2,3,entitled fundamental legal rights food water veterinary care shelter,pseudo_sentence_word_context
+1387,301,en,think,think,3,4,entitled fundamental legal rights food water veterinary care shelter,pseudo_sentence_word_context
+1388,301,en,carried,carried,4,5,entitled fundamental legal rights food water veterinary care shelter,pseudo_sentence_word_context
+1389,301,en,power,power,5,6,entitled fundamental legal rights food water veterinary care shelter,pseudo_sentence_word_context
+1390,301,en,fact,fact,6,7,entitled fundamental legal rights food water veterinary care shelter,pseudo_sentence_word_context
+1391,301,en,group,group,7,8,entitled fundamental legal rights food water veterinary care shelter,pseudo_sentence_word_context
+1392,301,en,sort,sort,8,9,entitled fundamental legal rights food water veterinary care shelter,pseudo_sentence_word_context
+1393,302,en,side,side,0,1,idea animals recognized fundamental legal rights unprecedented,pseudo_sentence_word_context
+1394,302,en,attacking,attacking,1,2,idea animals recognized fundamental legal rights unprecedented,pseudo_sentence_word_context
+1395,302,en,opposing,opposing,2,3,idea animals recognized fundamental legal rights unprecedented,pseudo_sentence_word_context
+1396,302,en,make,make,3,4,idea animals recognized fundamental legal rights unprecedented,pseudo_sentence_word_context
+1397,302,en,stop,stop,4,5,idea animals recognized fundamental legal rights unprecedented,pseudo_sentence_word_context
+1398,302,en,think,think,5,6,idea animals recognized fundamental legal rights unprecedented,pseudo_sentence_word_context
+1399,302,en,wait,wait,6,7,idea animals recognized fundamental legal rights unprecedented,pseudo_sentence_word_context
+1400,303,en,minute,minute,0,1,years argentina judge granted petition filed behalf buenos aires,pseudo_sentence_word_context
+1401,303,en,point,point,1,2,years argentina judge granted petition filed behalf buenos aires,pseudo_sentence_word_context
+1402,303,en,think,think,2,3,years argentina judge granted petition filed behalf buenos aires,pseudo_sentence_word_context
+1403,303,en,philosophy,philosophy,3,4,years argentina judge granted petition filed behalf buenos aires,pseudo_sentence_word_context
+1404,303,en,cause,cause,4,5,years argentina judge granted petition filed behalf buenos aires,pseudo_sentence_word_context
+1405,303,en,wildlife,wildlife,5,6,years argentina judge granted petition filed behalf buenos aires,pseudo_sentence_word_context
+1406,303,en,personalities,personalities,6,7,years argentina judge granted petition filed behalf buenos aires,pseudo_sentence_word_context
+1407,303,en,part,part,7,8,years argentina judge granted petition filed behalf buenos aires,pseudo_sentence_word_context
+1408,303,en,part,part,8,9,years argentina judge granted petition filed behalf buenos aires,pseudo_sentence_word_context
+1409,304,en,court,court,0,1,held tiny crappy cage,pseudo_sentence_word_context
+1410,304,en,case,case,1,2,held tiny crappy cage,pseudo_sentence_word_context
+1411,304,en,argue,argue,2,3,held tiny crappy cage,pseudo_sentence_word_context
+1412,304,en,animals,animals,3,4,held tiny crappy cage,pseudo_sentence_word_context
+1413,305,en,having,having,0,1,judge decided orangutan basic rights person including freedom,pseudo_sentence_word_context
+1414,305,en,fundamental_rights,fundamental | rights,1,3,judge decided orangutan basic rights person including freedom,pseudo_sentence_word_context
+1415,305,en,dignity,dignity,3,4,judge decided orangutan basic rights person including freedom,pseudo_sentence_word_context
+1416,305,en,access,access,4,5,judge decided orangutan basic rights person including freedom,pseudo_sentence_word_context
+1417,305,en,ancestral,ancestral,5,6,judge decided orangutan basic rights person including freedom,pseudo_sentence_word_context
+1418,305,en,forests,forests,6,7,judge decided orangutan basic rights person including freedom,pseudo_sentence_word_context
+1419,305,en,access,access,7,8,judge decided orangutan basic rights person including freedom,pseudo_sentence_word_context
+1420,305,en,food,food,8,9,judge decided orangutan basic rights person including freedom,isolated_word_fallback_span_out_of_range
+1421,306,en,animal_rights,animal | rights,0,2,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1422,306,en,advocate,advocate,2,3,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1423,306,en,lost,lost,3,4,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1424,306,en,round,round,4,5,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1425,306,en,court,court,5,6,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1426,306,en,called,called,6,7,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1427,306,en,tell,tell,7,8,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1428,306,en,news,news,8,9,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1429,306,en,took,took,9,10,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1430,306,en,said,said,10,11,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1431,306,en,course,course,11,12,new state attorney fighting courts recognize captive persons deserving legal rights corporations,pseudo_sentence_word_context
+1432,306,en,course,course,12,13,new state attorney fighting courts recognize captive persons deserving legal rights corporations,isolated_word_fallback_span_out_of_range
+1433,307,en,thrown,thrown,0,1,thing photographer sued monkey agrees point,pseudo_sentence_word_context
+1434,307,en,said,said,1,2,thing photographer sued monkey agrees point,pseudo_sentence_word_context
+1435,307,en,way,way,2,3,thing photographer sued monkey agrees point,pseudo_sentence_word_context
+1436,307,en,go,go,3,4,thing photographer sued monkey agrees point,pseudo_sentence_word_context
+1437,307,en,monkey,monkey,4,5,thing photographer sued monkey agrees point,pseudo_sentence_word_context
+1438,307,en,appealed,appealed,5,6,thing photographer sued monkey agrees point,pseudo_sentence_word_context
+1439,308,en,good_morning,good | morning,0,2,fact used defend friends grumbled stunts,pseudo_sentence_word_context
+1440,308,en,honors,honors,2,3,fact used defend friends grumbled stunts,pseudo_sentence_word_context
+1441,308,en,court,court,3,4,fact used defend friends grumbled stunts,pseudo_sentence_word_context
+1442,308,en,behalf,behalf,4,5,fact used defend friends grumbled stunts,pseudo_sentence_word_context
+1443,308,en,appellant,appellant,5,6,fact used defend friends grumbled stunts,pseudo_sentence_word_context
+1444,308,en,case,case,6,7,fact used defend friends grumbled stunts,isolated_word_fallback_span_out_of_range
+1445,309,en,judges,judges,0,1,worked campaign protect wild hogs home england,pseudo_sentence_word_context
+1446,309,en,court,court,1,2,worked campaign protect wild hogs home england,pseudo_sentence_word_context
+1447,309,en,appeals_court,appeals | court,2,4,worked campaign protect wild hogs home england,pseudo_sentence_word_context
+1448,309,en,ruled,ruled,4,5,worked campaign protect wild hogs home england,pseudo_sentence_word_context
+1449,309,en,trumps,trumps,5,6,worked campaign protect wild hogs home england,pseudo_sentence_word_context
+1450,309,en,travel,travel,6,7,worked campaign protect wild hogs home england,pseudo_sentence_word_context
+1451,309,en,ban,ban,7,8,worked campaign protect wild hogs home england,isolated_word_fallback_span_out_of_range
+1452,310,en,year,year,0,1,greatest shames attacked trying achieve same goal,pseudo_sentence_word_context
+1453,310,en,case,case,1,2,greatest shames attacked trying achieve same goal,pseudo_sentence_word_context
+1454,310,en,judges,judges,2,3,greatest shames attacked trying achieve same goal,pseudo_sentence_word_context
+1455,310,en,messing,messing,3,4,greatest shames attacked trying achieve same goal,pseudo_sentence_word_context
+1456,310,en,made,made,4,5,greatest shames attacked trying achieve same goal,pseudo_sentence_word_context
+1457,310,en,seconds,seconds,5,6,greatest shames attacked trying achieve same goal,pseudo_sentence_word_context
+1458,310,en,oral,oral,6,7,greatest shames attacked trying achieve same goal,pseudo_sentence_word_context
+1459,311,en,argument,argument,0,1,saving animals suffering noble cause,pseudo_sentence_word_context
+1460,311,en,judges,judges,1,2,saving animals suffering noble cause,pseudo_sentence_word_context
+1461,311,en,interrupted,interrupted,2,3,saving animals suffering noble cause,pseudo_sentence_word_context
+1462,311,en,honor,honor,3,4,saving animals suffering noble cause,pseudo_sentence_word_context
+1463,311,en,preliminary,preliminary,4,5,saving animals suffering noble cause,pseudo_sentence_word_context
+1464,312,en,question,question,0,1,think carried power,pseudo_sentence_word_context
+1465,312,en,address,address,1,2,think carried power,pseudo_sentence_word_context
+1466,312,en,stage,stage,2,3,think carried power,pseudo_sentence_word_context
+1467,313,en,attorneys,attorneys,0,1,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1468,313,en,judges,judges,1,2,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1469,313,en,debate,debate,2,3,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1470,313,en,case,case,3,4,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1471,313,en,law,law,4,5,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1472,313,en,judges,judges,5,6,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1473,313,en,lot,lot,6,7,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1474,313,en,questions,questions,7,8,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1475,313,en,qualified,qualified,8,9,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1476,313,en,next,next,9,10,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1477,313,en,friend,friend,10,11,fact group sort side attacking opposing make stop think wait minute,pseudo_sentence_word_context
+1478,314,en,dont_know,dont | know,0,2,point,isolated_word_fallback_span_out_of_range
+1479,315,en,monkey,monkey,0,1,,isolated_word_fallback_span_out_of_range
+1480,316,en,pleading,pleading,0,1,think philosophy cause,pseudo_sentence_word_context
+1481,316,en,article,article,1,2,think philosophy cause,pseudo_sentence_word_context
+1482,316,en,few_minutes,few | minutes,2,4,think philosophy cause,isolated_word_fallback_span_out_of_range
+1483,317,en,judge,judge,0,1,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1484,317,en,interrupts,interrupts,1,2,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1485,317,en,grill,grill,2,3,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1486,317,en,injury,injury,3,4,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1487,317,en,legal,legal,4,5,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1488,317,en,term,term,5,6,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1489,317,en,harm,harm,6,7,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1490,317,en,damage,damage,7,8,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1491,317,en,injury,injury,8,9,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1492,317,en,way,way,9,10,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1493,317,en,acquire,acquire,10,11,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1494,317,en,hold,hold,11,12,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1495,317,en,money,money,12,13,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1496,317,en,copyright,copyright,13,14,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1497,317,en,give,give,14,15,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1498,317,en,losses,losses,15,16,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1499,317,en,reputation,reputation,16,17,wildlife personalities part part court case argue animals having fundamental rights dignity access ancestral forests access food,pseudo_sentence_word_context
+1500,318,en,allegation,allegation,0,1,animal rights advocate,pseudo_sentence_word_context
+1501,318,en,copyright,copyright,1,2,animal rights advocate,pseudo_sentence_word_context
+1502,318,en,benefited,benefited,2,3,animal rights advocate,pseudo_sentence_word_context
+1503,319,en,financial,financial,0,1,lost round court,pseudo_sentence_word_context
+1504,319,en,benefits,benefits,1,2,lost round court,pseudo_sentence_word_context
+1505,319,en,apply,apply,2,3,lost round court,pseudo_sentence_word_context
+1506,320,en,honor,honor,0,1,called tell news,pseudo_sentence_word_context
+1507,320,en,issue,issue,1,2,called tell news,pseudo_sentence_word_context
+1508,320,en,turn,turn,2,3,called tell news,pseudo_sentence_word_context
+1509,321,en,compensation,compensation,0,1,took,pseudo_sentence_word_context
+1510,322,en,wanna,wanna,0,1,said course,pseudo_sentence_word_context
+1511,322,en,know,know,1,2,said course,pseudo_sentence_word_context
+1512,323,en,injury,injury,0,1,course thrown,pseudo_sentence_word_context
+1513,323,en,case,case,1,2,course thrown,pseudo_sentence_word_context
+1514,324,en,says,says,0,1,said,pseudo_sentence_word_context
+1515,325,en,copyright_infringement,copyright | infringement,0,2,way go,pseudo_sentence_word_context
+1516,325,en,injury,injury,2,3,way go,isolated_word_fallback_span_out_of_range
+1517,326,en,injury,injury,0,1,monkey appealed,pseudo_sentence_word_context
+1518,326,en,legal,legal,1,2,monkey appealed,pseudo_sentence_word_context
+1519,327,en,merits,merits,0,1,good morning honors,pseudo_sentence_word_context
+1520,327,en,case,case,1,2,good morning honors,pseudo_sentence_word_context
+1521,327,en,enjoyable,enjoyable,2,3,good morning honors,pseudo_sentence_word_context
+1522,328,en,hearing,hearing,0,1,court behalf appellant,pseudo_sentence_word_context
+1523,328,en,lawyers,lawyers,1,2,court behalf appellant,pseudo_sentence_word_context
+1524,328,en,throw,throw,2,3,court behalf appellant,pseudo_sentence_word_context
+1525,329,en,terms,terms,0,1,case judges court appeals court case,pseudo_sentence_word_context
+1526,329,en,redressability,redressability,1,2,case judges court appeals court case,pseudo_sentence_word_context
+1527,329,en,compensation,compensation,2,3,case judges court appeals court case,pseudo_sentence_word_context
+1528,329,en,injury,injury,3,4,case judges court appeals court case,pseudo_sentence_word_context
+1529,329,en,talking,talking,4,5,case judges court appeals court case,pseudo_sentence_word_context
+1530,329,en,monkey,monkey,5,6,case judges court appeals court case,pseudo_sentence_word_context
+1531,330,en,mean,mean,0,1,ruled trumps travel ban year,pseudo_sentence_word_context
+1532,330,en,give,give,1,2,ruled trumps travel ban year,pseudo_sentence_word_context
+1533,330,en,case,case,2,3,ruled trumps travel ban year,pseudo_sentence_word_context
+1534,330,en,says,says,3,4,ruled trumps travel ban year,pseudo_sentence_word_context
+1535,330,en,copyright_infringement,copyright | infringement,4,6,ruled trumps travel ban year,isolated_word_fallback_span_out_of_range
+1536,331,en,injury,injury,0,1,judges messing,pseudo_sentence_word_context
+1537,331,en,believe,believe,1,2,judges messing,pseudo_sentence_word_context
+1538,332,en,dont_think,dont | think,0,2,made seconds oral argument judges interrupted honor,pseudo_sentence_word_context
+1539,332,en,given,given,2,3,made seconds oral argument judges interrupted honor,pseudo_sentence_word_context
+1540,332,en,injury,injury,3,4,made seconds oral argument judges interrupted honor,pseudo_sentence_word_context
+1541,332,en,judges,judges,4,5,made seconds oral argument judges interrupted honor,pseudo_sentence_word_context
+1542,332,en,case,case,5,6,made seconds oral argument judges interrupted honor,pseudo_sentence_word_context
+1543,332,en,law,law,6,7,made seconds oral argument judges interrupted honor,pseudo_sentence_word_context
+1544,332,en,legal,legal,7,8,made seconds oral argument judges interrupted honor,isolated_word_fallback_span_out_of_range
+1545,333,en,precedent,precedent,0,1,preliminary question address,pseudo_sentence_word_context
+1546,333,en,definition,definition,1,2,preliminary question address,pseudo_sentence_word_context
+1547,333,en,author,author,2,3,preliminary question address,pseudo_sentence_word_context
+1548,334,en,minutes,minutes,0,1,stage attorneys judges debate case law,pseudo_sentence_word_context
+1549,334,en,handing,handing,1,2,stage attorneys judges debate case law,pseudo_sentence_word_context
+1550,334,en,floor,floor,2,3,stage attorneys judges debate case law,pseudo_sentence_word_context
+1551,334,en,lawyer,lawyer,3,4,stage attorneys judges debate case law,pseudo_sentence_word_context
+1552,334,en,years,years,4,5,stage attorneys judges debate case law,pseudo_sentence_word_context
+1553,334,en,research,research,5,6,stage attorneys judges debate case law,pseudo_sentence_word_context
+1554,335,en,legal,legal,0,1,judges lot questions qualified next friend,pseudo_sentence_word_context
+1555,335,en,filings,filings,1,2,judges lot questions qualified next friend,pseudo_sentence_word_context
+1556,335,en,oral,oral,2,3,judges lot questions qualified next friend,pseudo_sentence_word_context
+1557,335,en,arguments,arguments,3,4,judges lot questions qualified next friend,pseudo_sentence_word_context
+1558,335,en,wish,wish,4,5,judges lot questions qualified next friend,pseudo_sentence_word_context
+1559,335,en,make,make,5,6,judges lot questions qualified next friend,pseudo_sentence_word_context
+1560,336,en,court,court,0,1,dont know monkey pleading,pseudo_sentence_word_context
+1561,336,en,monkey,monkey,1,2,dont know monkey pleading,pseudo_sentence_word_context
+1562,336,en,see,see,2,3,dont know monkey pleading,pseudo_sentence_word_context
+1563,336,en,monkey,monkey,3,4,dont know monkey pleading,pseudo_sentence_word_context
+1564,337,en,sue,sue,0,1,article few minutes judge interrupts grill injury,pseudo_sentence_word_context
+1565,337,en,federal_court,federal | court,1,3,article few minutes judge interrupts grill injury,pseudo_sentence_word_context
+1566,337,en,oral,oral,3,4,article few minutes judge interrupts grill injury,pseudo_sentence_word_context
+1567,337,en,arguments,arguments,4,5,article few minutes judge interrupts grill injury,pseudo_sentence_word_context
+1568,337,en,much,much,5,6,article few minutes judge interrupts grill injury,pseudo_sentence_word_context
+1569,337,en,summed,summed,6,7,article few minutes judge interrupts grill injury,pseudo_sentence_word_context
+1570,337,en,throw,throw,7,8,article few minutes judge interrupts grill injury,isolated_word_fallback_span_out_of_range
+1571,338,en,case,case,0,1,legal term harm damage,pseudo_sentence_word_context
+1572,338,en,make,make,1,2,legal term harm damage,pseudo_sentence_word_context
+1573,338,en,pay,pay,2,3,legal term harm damage,pseudo_sentence_word_context
+1574,338,en,legal,legal,3,4,legal term harm damage,pseudo_sentence_word_context
+1575,339,en,fees,fees,0,1,injury,pseudo_sentence_word_context
+1576,340,en,discussed,discussed,0,1,way acquire hold money copyright give,pseudo_sentence_word_context
+1577,340,en,done,done,1,2,way acquire hold money copyright give,pseudo_sentence_word_context
+1578,340,en,granting,granting,2,3,way acquire hold money copyright give,pseudo_sentence_word_context
+1579,340,en,codefendants,codefendants,3,4,way acquire hold money copyright give,pseudo_sentence_word_context
+1580,340,en,attorney,attorney,4,5,way acquire hold money copyright give,pseudo_sentence_word_context
+1581,340,en,sued,sued,5,6,way acquire hold money copyright give,pseudo_sentence_word_context
+1582,341,en,self_publishing,self | publishing,0,2,losses reputation,pseudo_sentence_word_context
+1583,341,en,company,company,2,3,losses reputation,isolated_word_fallback_span_out_of_range
+1584,342,en,used,used,0,1,allegation copyright benefited,pseudo_sentence_word_context
+1585,342,en,deliver,deliver,1,2,allegation copyright benefited,pseudo_sentence_word_context
+1586,342,en,defense,defense,2,3,allegation copyright benefited,pseudo_sentence_word_context
+1587,343,en,benefit,benefit,0,1,financial benefits apply,pseudo_sentence_word_context
+1588,343,en,work,work,1,2,financial benefits apply,pseudo_sentence_word_context
+1589,343,en,monkey,monkey,2,3,financial benefits apply,pseudo_sentence_word_context
+1590,344,en,court,court,0,1,,isolated_word_fallback_span_out_of_range
+1591,345,en,san_francisco,san | francisco,0,2,honor issue turn compensation,pseudo_sentence_word_context
+1592,345,en,day,day,2,3,honor issue turn compensation,pseudo_sentence_word_context
+1593,345,en,wanna,wanna,3,4,honor issue turn compensation,pseudo_sentence_word_context
+1594,345,en,spend,spend,4,5,honor issue turn compensation,isolated_word_fallback_span_out_of_range
+1595,346,en,money,money,0,1,,isolated_word_fallback_span_out_of_range
+1596,347,en,travel,travel,0,1,wanna know injury,pseudo_sentence_word_context
+1597,347,en,way,way,1,2,wanna know injury,pseudo_sentence_word_context
+1598,347,en,california,california,2,3,wanna know injury,pseudo_sentence_word_context
+1599,348,en,wales,wales,0,1,case says copyright infringement injury,pseudo_sentence_word_context
+1600,348,en,watched,watched,1,2,case says copyright infringement injury,pseudo_sentence_word_context
+1601,348,en,whole,whole,2,3,case says copyright infringement injury,pseudo_sentence_word_context
+1602,348,en,hearing,hearing,3,4,case says copyright infringement injury,pseudo_sentence_word_context
+1603,348,en,watched,watched,4,5,case says copyright infringement injury,pseudo_sentence_word_context
+1604,349,en,see,see,0,1,injury,pseudo_sentence_word_context
+1605,350,en,judges,judges,0,1,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1606,350,en,attorney,attorney,1,2,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1607,350,en,comes,comes,2,3,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1608,350,en,attorney,attorney,3,4,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1609,350,en,comes,comes,4,5,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1610,350,en,started,started,5,6,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1611,350,en,talking,talking,6,7,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1612,350,en,monkeys,monkeys,7,8,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1613,350,en,made,made,8,9,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1614,350,en,real,real,9,10,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1615,350,en,sudden,sudden,10,11,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1616,350,en,sued,sued,11,12,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1617,350,en,monkey,monkey,12,13,legal merits case enjoyable hearing lawyers throw terms redressability compensation injury talking monkey,pseudo_sentence_word_context
+1618,351,en,make,make,0,1,mean give case says copyright infringement injury believe,pseudo_sentence_word_context
+1619,351,en,hearing,hearing,1,2,mean give case says copyright infringement injury believe,pseudo_sentence_word_context
+1620,351,en,stayed,stayed,2,3,mean give case says copyright infringement injury believe,pseudo_sentence_word_context
+1621,351,en,rainforest,rainforest,3,4,mean give case says copyright infringement injury believe,pseudo_sentence_word_context
+1622,351,en,indonesia,indonesia,4,5,mean give case says copyright infringement injury believe,pseudo_sentence_word_context
+1623,351,en,knowledge,knowledge,5,6,mean give case says copyright infringement injury believe,pseudo_sentence_word_context
+1624,351,en,asked,asked,6,7,mean give case says copyright infringement injury believe,pseudo_sentence_word_context
+1625,351,en,thought,thought,7,8,mean give case says copyright infringement injury believe,pseudo_sentence_word_context
+1626,352,en,years,years,0,1,dont think given,pseudo_sentence_word_context
+1627,352,en,humans,humans,1,2,dont think given,pseudo_sentence_word_context
+1628,352,en,managed,managed,2,3,dont think given,pseudo_sentence_word_context
+1629,353,en,figure,figure,0,1,injury,pseudo_sentence_word_context
+1630,354,en,things,things,0,1,judges case law legal precedent definition author minutes handing floor lawyer,pseudo_sentence_word_context
+1631,354,en,own,own,1,2,judges case law legal precedent definition author minutes handing floor lawyer,pseudo_sentence_word_context
+1632,354,en,told,told,2,3,judges case law legal precedent definition author minutes handing floor lawyer,pseudo_sentence_word_context
+1633,354,en,appellate_court,appellate | court,3,5,judges case law legal precedent definition author minutes handing floor lawyer,pseudo_sentence_word_context
+1634,354,en,didnt_want,didnt | want,5,7,judges case law legal precedent definition author minutes handing floor lawyer,pseudo_sentence_word_context
+1635,354,en,rule,rule,7,8,judges case law legal precedent definition author minutes handing floor lawyer,pseudo_sentence_word_context
+1636,354,en,case,case,8,9,judges case law legal precedent definition author minutes handing floor lawyer,pseudo_sentence_word_context
+1637,354,en,september,september,9,10,judges case law legal precedent definition author minutes handing floor lawyer,pseudo_sentence_word_context
+1638,354,en,announced,announced,10,11,judges case law legal precedent definition author minutes handing floor lawyer,pseudo_sentence_word_context
+1639,354,en,reached,reached,11,12,judges case law legal precedent definition author minutes handing floor lawyer,isolated_word_fallback_span_out_of_range
+1640,354,en,settlement,settlement,12,13,judges case law legal precedent definition author minutes handing floor lawyer,isolated_word_fallback_span_out_of_range
+1641,355,en,details,details,0,1,years research legal filings oral arguments wish make court,pseudo_sentence_word_context
+1642,355,en,settlement,settlement,1,2,years research legal filings oral arguments wish make court,pseudo_sentence_word_context
+1643,355,en,confidential,confidential,2,3,years research legal filings oral arguments wish make court,pseudo_sentence_word_context
+1644,355,en,tell,tell,3,4,years research legal filings oral arguments wish make court,pseudo_sentence_word_context
+1645,355,en,much,much,4,5,years research legal filings oral arguments wish make court,pseudo_sentence_word_context
+1646,355,en,heres,heres,5,6,years research legal filings oral arguments wish make court,pseudo_sentence_word_context
+1647,355,en,know,know,6,7,years research legal filings oral arguments wish make court,pseudo_sentence_word_context
+1648,355,en,monkey,monkey,7,8,years research legal filings oral arguments wish make court,pseudo_sentence_word_context
+1649,355,en,selfie,selfie,8,9,years research legal filings oral arguments wish make court,pseudo_sentence_word_context
+1650,356,en,copyright,copyright,0,1,monkey see monkey sue federal court,pseudo_sentence_word_context
+1651,356,en,registered,registered,1,2,monkey see monkey sue federal court,pseudo_sentence_word_context
+1652,356,en,name,name,2,3,monkey see monkey sue federal court,pseudo_sentence_word_context
+1653,356,en,countries,countries,3,4,monkey see monkey sue federal court,pseudo_sentence_word_context
+1654,356,en,agreed,agreed,4,5,monkey see monkey sue federal court,pseudo_sentence_word_context
+1655,356,en,donate,donate,5,6,monkey see monkey sue federal court,pseudo_sentence_word_context
+1656,357,en,percent,percent,0,1,oral arguments much summed throw case,pseudo_sentence_word_context
+1657,357,en,proceeds,proceeds,1,2,oral arguments much summed throw case,pseudo_sentence_word_context
+1658,357,en,photos,photos,2,3,oral arguments much summed throw case,pseudo_sentence_word_context
+1659,357,en,protect,protect,3,4,oral arguments much summed throw case,pseudo_sentence_word_context
+1660,357,en,macaques,macaques,4,5,oral arguments much summed throw case,pseudo_sentence_word_context
+1661,357,en,wikipedia,wikipedia,5,6,oral arguments much summed throw case,pseudo_sentence_word_context
+1662,358,en,monkey,monkey,0,1,make pay legal fees discussed,pseudo_sentence_word_context
+1663,358,en,selfie,selfie,1,2,make pay legal fees discussed,pseudo_sentence_word_context
+1664,358,en,download,download,2,3,make pay legal fees discussed,pseudo_sentence_word_context
+1665,358,en,claim,claim,3,4,make pay legal fees discussed,pseudo_sentence_word_context
+1666,358,en,public_domain,public | domain,4,6,make pay legal fees discussed,isolated_word_fallback_span_out_of_range
+1667,359,en,sue,sue,0,1,done granting,pseudo_sentence_word_context
+1668,359,en,taken,taken,1,2,done granting,pseudo_sentence_word_context
+1669,360,en,says,says,0,1,codefendants attorney,pseudo_sentence_word_context
+1670,360,en,plans,plans,1,2,codefendants attorney,pseudo_sentence_word_context
+1671,361,en,other,other,0,1,sued self publishing company used,pseudo_sentence_word_context
+1672,361,en,thing,thing,1,2,sued self publishing company used,pseudo_sentence_word_context
+1673,361,en,mentioned,mentioned,2,3,sued self publishing company used,pseudo_sentence_word_context
+1674,361,en,bunch,bunch,3,4,sued self publishing company used,pseudo_sentence_word_context
+1675,361,en,monkeys,monkeys,4,5,sued self publishing company used,pseudo_sentence_word_context
+1676,362,en,selfies,selfies,0,1,deliver defense,pseudo_sentence_word_context
+1677,362,en,taken,taken,1,2,deliver defense,pseudo_sentence_word_context
+1678,363,en,day,day,0,1,benefit work,pseudo_sentence_word_context
+1679,363,en,consulted,consulted,1,2,benefit work,pseudo_sentence_word_context
+1680,364,en,primatologist,primatologist,0,1,monkey,pseudo_sentence_word_context
+1681,365,en,works,works,0,1,court san francisco day,pseudo_sentence_word_context
+1682,365,en,black,black,1,2,court san francisco day,pseudo_sentence_word_context
+1683,365,en,macaques,macaques,2,3,court san francisco day,pseudo_sentence_word_context
+1684,365,en,identified,identified,3,4,court san francisco day,pseudo_sentence_word_context
+1685,366,en,monkey,monkey,0,1,wanna spend money travel way california wales,pseudo_sentence_word_context
+1686,366,en,famous,famous,1,2,wanna spend money travel way california wales,pseudo_sentence_word_context
+1687,366,en,selfie,selfie,2,3,wanna spend money travel way california wales,pseudo_sentence_word_context
+1688,366,en,says,says,3,4,wanna spend money travel way california wales,pseudo_sentence_word_context
+1689,366,en,male,male,4,5,wanna spend money travel way california wales,pseudo_sentence_word_context
+1690,366,en,remember,remember,5,6,wanna spend money travel way california wales,pseudo_sentence_word_context
+1691,366,en,female,female,6,7,wanna spend money travel way california wales,pseudo_sentence_word_context
+1692,367,en,remember,remember,0,1,watched whole hearing,pseudo_sentence_word_context
+1693,367,en,pink,pink,1,2,watched whole hearing,pseudo_sentence_word_context
+1694,367,en,rump,rump,2,3,watched whole hearing,pseudo_sentence_word_context
+1695,368,en,male,male,0,1,watched see judges,pseudo_sentence_word_context
+1696,368,en,female,female,1,2,watched see judges,pseudo_sentence_word_context
+1697,368,en,macaques,macaques,2,3,watched see judges,pseudo_sentence_word_context
+1698,369,en,saying,saying,0,1,attorney comes attorney comes started talking monkeys,pseudo_sentence_word_context
+1699,369,en,making,making,1,2,attorney comes attorney comes started talking monkeys,pseudo_sentence_word_context
+1700,369,en,fraudulent,fraudulent,2,3,attorney comes attorney comes started talking monkeys,pseudo_sentence_word_context
+1701,369,en,claim,claim,3,4,attorney comes attorney comes started talking monkeys,pseudo_sentence_word_context
+1702,369,en,wrong,wrong,4,5,attorney comes attorney comes started talking monkeys,pseudo_sentence_word_context
+1703,369,en,monkey,monkey,5,6,attorney comes attorney comes started talking monkeys,pseudo_sentence_word_context
+1704,369,en,court,court,6,7,attorney comes attorney comes started talking monkeys,pseudo_sentence_word_context
+1705,370,en,taking,taking,0,1,made real sudden,pseudo_sentence_word_context
+1706,370,en,artistic,artistic,1,2,made real sudden,pseudo_sentence_word_context
+1707,370,en,work,work,2,3,made real sudden,pseudo_sentence_word_context
+1708,371,en,made,made,0,1,sued monkey,pseudo_sentence_word_context
+1709,371,en,female,female,1,2,sued monkey,pseudo_sentence_word_context
+1710,372,en,monkey,monkey,0,1,make hearing,pseudo_sentence_word_context
+1711,372,en,think,think,1,2,make hearing,pseudo_sentence_word_context
+1712,373,en,feminists,feminists,0,1,stayed rainforest indonesia,pseudo_sentence_word_context
+1713,373,en,start,start,1,2,stayed rainforest indonesia,pseudo_sentence_word_context
+1714,373,en,protest,protest,2,3,stayed rainforest indonesia,pseudo_sentence_word_context
+1715,374,en,sure,sure,0,1,knowledge asked thought,pseudo_sentence_word_context
+1716,374,en,lady,lady,1,2,knowledge asked thought,pseudo_sentence_word_context
+1717,374,en,monkey,monkey,2,3,knowledge asked thought,pseudo_sentence_word_context
+1718,375,en,experience,experience,0,1,years humans managed figure things own,pseudo_sentence_word_context
+1719,375,en,nature,nature,1,2,years humans managed figure things own,pseudo_sentence_word_context
+1720,375,en,humans,humans,2,3,years humans managed figure things own,pseudo_sentence_word_context
+1721,375,en,monkeys,monkeys,3,4,years humans managed figure things own,pseudo_sentence_word_context
+1722,375,en,horse,horse,4,5,years humans managed figure things own,pseudo_sentence_word_context
+1723,375,en,front,front,5,6,years humans managed figure things own,pseudo_sentence_word_context
+1724,376,en,cameras,cameras,0,1,told appellate court didnt want rule case,pseudo_sentence_word_context
+1725,376,en,human,human,1,2,told appellate court didnt want rule case,pseudo_sentence_word_context
+1726,376,en,characteristic,characteristic,2,3,told appellate court didnt want rule case,pseudo_sentence_word_context
+1727,376,en,spend,spend,3,4,told appellate court didnt want rule case,pseudo_sentence_word_context
+1728,376,en,hundreds,hundreds,4,5,told appellate court didnt want rule case,pseudo_sentence_word_context
+1729,376,en,thousands,thousands,5,6,told appellate court didnt want rule case,pseudo_sentence_word_context
+1730,376,en,dollars,dollars,6,7,told appellate court didnt want rule case,pseudo_sentence_word_context
+1731,377,en,years,years,0,1,september announced reached settlement,pseudo_sentence_word_context
+1732,377,en,lives,lives,1,2,september announced reached settlement,pseudo_sentence_word_context
+1733,377,en,go,go,2,3,september announced reached settlement,pseudo_sentence_word_context
+1734,377,en,court,court,3,4,september announced reached settlement,pseudo_sentence_word_context
