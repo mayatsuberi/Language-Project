@@ -46,6 +46,10 @@ encoding_results*/
 old_encoding_results/
 Amirim_Project_Submission/
 
+# results/ folder contains plots — explicitly tracked
+!results/
+!results/*.png
+
 # --- Logs & System Files ---
 *.log
 *.txt
