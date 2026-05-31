@@ -1,0 +1,34 @@
+# Core data science
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Neuroimaging
+mne>=1.10
+mne-bids
+pybids
+h5py
+nibabel
+
+# Machine learning & stats
+scikit-learn
+statsmodels
+himalaya
+
+# NLP & embeddings
+transformers
+huggingface_hub>=0.24
+gensim
+spacy
+fasttext-wheel
+
+# Jupyter
+jupyterlab
+ipykernel
+nbconvert
+
+# Misc
+httpx>=0.27
+tqdm
