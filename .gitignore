@@ -34,9 +34,7 @@ models_to_use/
 podcast_phrased_embeddings.csv
 *.csv
 # Tracked via Git LFS:
-!data/podcast_sentences.csv
 !data/processed/podcast_trilingual_embeddings.csv
-!data/processed/contextual_podcast_embeddings.csv
 !data/sentences/
 !data/sentences/*.csv
 

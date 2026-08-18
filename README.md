@@ -27,9 +27,9 @@ width-matched shift control) rather than assume it.
 - **Stimulus text:** the English podcast transcript (1,735 content words
   across 402 sentences), professionally translated into Hebrew and Arabic
   and time-aligned to the original audio (`data/sentences/`).
-- **Static baseline embeddings:** FastText vectors trained from scratch on
-  large in-language corpora (from a related Amirim project, `data/Amirim_Project_Submission/`),
-  used as a static (non-contextual) comparison condition.
+- **Static baseline embeddings:** FastText vectors (`data/processed/podcast_trilingual_embeddings.csv`),
+  trained from scratch on large in-language corpora as part of a related
+  Amirim project, used as a static (non-contextual) comparison condition.
 
 Raw/derivative ECoG data and large embedding/model files are not tracked in
 git (see `.gitignore`); `data/ds005574` must be downloaded separately (e.g.
@@ -79,9 +79,12 @@ src/
 
 data/
   ds005574/            OpenNeuro "Podcast" ECoG dataset (download separately, see above)
-  sentences/            Aligned EN/HE/AR transcript sentences and word-to-sentence maps
-  processed/            Generated embeddings, projections, residuals, manifests (pipeline output)
-  Amirim_Project_Submission/   Static FastText models & training data (prior project, git-ignored)
+  sentences/            Aligned EN/HE/AR transcript sentences, word-to-sentence maps, and the
+                        1,735-word filtered transcript (translated_podcast_transcript_filtered.csv)
+  processed/            Generated embeddings, projections, residuals, manifests (pipeline output);
+                        also the tracked FastText baseline embeddings CSV
+  Amirim_Project_Submission/   Legacy FastText training data/models from a prior project — not
+                        needed to run the pipeline, kept locally only, git-ignored
 
 results/
   encoding_*/           Per-condition encoding outputs (correlations, permutation nulls) per subject
