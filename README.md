@@ -30,7 +30,7 @@ width-matched shift control) rather than assume it.
 - **Static baseline embeddings:** FastText vectors (`data/processed/podcast_trilingual_embeddings.csv`),
   trained from scratch on large in-language corpora as part of a related
   Amirim project, used as a static (non-contextual) comparison condition.
-- **Electrode selection:** `results/Interesting Electrodes.xlsx` (sheet
+- **Electrode selection:** `data/Interesting Electrodes.xlsx` (sheet
   `tagging`), the advisor's pre-specified list of language-responsive
   electrodes per subject. Notebook 06 restricts every subject's raw data to
   this list before encoding.
@@ -87,6 +87,7 @@ data/
                         1,735-word filtered transcript (translated_podcast_transcript_filtered.csv)
   processed/            Generated embeddings, projections, residuals, manifests (pipeline output);
                         also the tracked FastText baseline embeddings CSV
+  Interesting Electrodes.xlsx   Advisor's pre-specified electrode selection (sheet "tagging")
 
 results/
   encoding_*/           Per-condition encoding outputs (correlations, permutation nulls) per subject
