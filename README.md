@@ -30,6 +30,10 @@ width-matched shift control) rather than assume it.
 - **Static baseline embeddings:** FastText vectors (`data/processed/podcast_trilingual_embeddings.csv`),
   trained from scratch on large in-language corpora as part of a related
   Amirim project, used as a static (non-contextual) comparison condition.
+- **Electrode selection:** `results/Interesting Electrodes.xlsx` (sheet
+  `tagging`), the advisor's pre-specified list of language-responsive
+  electrodes per subject. Notebook 06 restricts every subject's raw data to
+  this list before encoding.
 
 Raw/derivative ECoG data and large embedding/model files are not tracked in
 git (see `.gitignore`); `data/ds005574` must be downloaded separately (e.g.
