@@ -9,19 +9,16 @@ seaborn
 mne>=1.10
 mne-bids
 pybids
-h5py
-nibabel
 
 # Machine learning & stats
 scikit-learn
 statsmodels
 himalaya
 
-# NLP & embeddings
+# Deep learning / embeddings
+torch
 transformers
 huggingface_hub>=0.24
-gensim
-spacy
 fasttext-wheel
 
 # Jupyter

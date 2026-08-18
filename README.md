@@ -72,11 +72,16 @@ notebooks/
   06_Encoding_Contextual.ipynb                     Ridge encoding models + permutation tests
   07_Results_Visualization.ipynb                   Statistics, figures, and summary tables
 
+src/
+  static_encoding.py    Core encoding pipeline (process_embeddings, circular-shift null) — used by notebook 06
+  block_pipeline.py     Fold-safe per-block PCA/residual feature transformer — used by static_encoding.py
+  residual_spectrum.py  Standalone diagnostic: residual PCA spectra across embedding modes
+
 data/
   ds005574/            OpenNeuro "Podcast" ECoG dataset (download separately, see above)
   sentences/            Aligned EN/HE/AR transcript sentences and word-to-sentence maps
   processed/            Generated embeddings, projections, residuals, manifests (pipeline output)
-  Amirim_Project_Submission/   Static FastText models & training scripts (prior project, git-ignored)
+  Amirim_Project_Submission/   Static FastText models & training data (prior project, git-ignored)
 
 results/
   encoding_*/           Per-condition encoding outputs (correlations, permutation nulls) per subject
@@ -100,10 +105,10 @@ python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Key dependencies: `mne` / `mne-bids` / `pybids` (ECoG/BIDS I/O), `transformers`
-+ `huggingface_hub` (contextual embedding models), `gensim` / `fasttext-wheel`
-(static embeddings), `scikit-learn` / `statsmodels` / `himalaya` (encoding
-models & statistics), `jupyterlab`.
+Key dependencies: `mne` / `mne-bids` / `pybids` (ECoG/BIDS I/O), `torch` +
+`transformers` / `huggingface_hub` (contextual embedding models),
+`fasttext-wheel` (static embeddings), `scikit-learn` / `statsmodels` /
+`himalaya` (encoding models & statistics), `jupyterlab`.
 
 ## Running the pipeline
 

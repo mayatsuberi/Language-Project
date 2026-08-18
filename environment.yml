@@ -15,20 +15,14 @@ dependencies:
   - mne-base>=1.10      # Base neuroimaging package
   - mne-bids            # OpenNeuro datasets (loads BIDS structure)
   - pybids              # Querying BIDS layouts
-  - h5py                # Loading many ECoG data formats
-  - nibabel             # Handles neuroimaging file formats
 
   # --- Machine Learning & Stats ---
   - scikit-learn
   - statsmodels
 
-  # --- NLP & Text Processing ---
-  - gensim              # For your Static Embeddings (FastText/Word2Vec)
-  - spacy               # For POS tagging (filtering content words)
-
   # --- Deep Learning ---
-  - transformers        # For the GPT-2 comparison mentioned in the report
-  - pytorch             # Dependency for transformers
+  - transformers        # Contextual embedding models (notebooks 01-04c)
+  - pytorch             # Backend for transformers / himalaya's torch backend
 
   # --- Jupyter Environment ---
   - jupyterlab
@@ -37,6 +31,7 @@ dependencies:
   # --- Pip Specific Packages ---
   - pip
   - pip:
+    - himalaya          # Ridge/banded regression encoding models (notebook 06)
     - wikipedia-api
     - fasttext-wheel
     - googletrans==4.0.0-rc1
