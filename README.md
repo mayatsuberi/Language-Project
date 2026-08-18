@@ -33,7 +33,7 @@ width-matched shift control) rather than assume it.
 
 Raw/derivative ECoG data and large embedding/model files are not tracked in
 git (see `.gitignore`); `data/ds005574` must be downloaded separately (e.g.
-via [`openneuro-py`](https://github.com/hasso-lab/podcast-ecog-tutorials) or
+via [`openneuro-py`](https://github.com/hoechenberger/openneuro-py) or
 the OpenNeuro CLI/DataLad) and placed at that path.
 
 ## Method overview
@@ -83,8 +83,6 @@ data/
                         1,735-word filtered transcript (translated_podcast_transcript_filtered.csv)
   processed/            Generated embeddings, projections, residuals, manifests (pipeline output);
                         also the tracked FastText baseline embeddings CSV
-  Amirim_Project_Submission/   Legacy FastText training data/models from a prior project — not
-                        needed to run the pipeline, kept locally only, git-ignored
 
 results/
   encoding_*/           Per-condition encoding outputs (correlations, permutation nulls) per subject
