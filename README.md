@@ -8,8 +8,8 @@ methodological confound (model capacity / design width).
 We use intracranial ECoG recordings from subjects listening to an English
 podcast, together with English, Hebrew, and Arabic contextual embeddings of
 the same words (Hebrew/Arabic obtained via translation). For each foreign
-language we compute the **residual** — the part of the Hebrew/Arabic
-embedding space that cannot be linearly predicted from English — and test
+language we compute the **residual**: the part of the Hebrew/Arabic
+embedding space that cannot be linearly predicted from English and test
 whether that residual predicts neural activity above a dimensionality-matched
 control. If cross-lingual semantics were truly reflected in the brain signal,
 the residual should out-predict the control; the pipeline is built to make
